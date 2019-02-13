@@ -33,6 +33,8 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 ## Gaming
 
+- [ULTIMATE GAMES WILL RELEASE PET CARE AND GUESS THE WORD FOR YOUNGER PLAYERS ON SWITCH](https://www.gonintendo.com/stories/328626-ultimate-games-will-release-pet-care-and-guess-the-word-for-young)
+
 ## Development Environment
 
 ## Entertainment
