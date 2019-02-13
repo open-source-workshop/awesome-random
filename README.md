@@ -22,6 +22,8 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 ## Big Data
 
+- [Big Data Article](https://journalofbigdata.springeropen.com/articles) - The Journal of Big Data publishes high-quality, scholarly research papers, methodologies and case studies covering a broad range of topics, from big data analytics to data-intensive computing and all applications of big data research.
+
 ## Theory
 
 ## Books
