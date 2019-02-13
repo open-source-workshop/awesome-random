@@ -12,6 +12,8 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 ## Front-End Development
 
+## Hadoop Projects
+
 ## Back-End Development
 
 ## Big Data
