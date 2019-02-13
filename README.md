@@ -22,6 +22,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 - [The Pragmatic Programmer: From Journeyman to Master](https://www.nceclusters.no/globalassets/filer/nce/diverse/the-pragmatic-programmer.pdf)
 
 ## Editors
+- [Vim](https://www.vim.org/) - edit text at the speed of thought ;)
 
 ## Gaming
 
