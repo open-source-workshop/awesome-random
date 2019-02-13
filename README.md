@@ -36,6 +36,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 ## Learn
 
 ## Security
+- [Machine Learning for Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)
 
 ## Content Management Systems
 
