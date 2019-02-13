@@ -1,6 +1,6 @@
 # awesome-random
 
-A not so curated and randow list of amazingly awesome awesomeness
+A not so curated and random list of amazingly awesome awesomeness.
 
 ## Building Software
 
