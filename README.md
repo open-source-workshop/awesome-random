@@ -8,6 +8,8 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 ## Good Books
 
+- https://github.com/Automation-Tools/karate-test-mojo -  Generate integration tests from springboot or jersey source code.
+
 ## Platforms
 
 ## Programming Languages
