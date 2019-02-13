@@ -25,6 +25,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 - [Don't Make Me Think](http://www.scottsdevelopers.com/dont-make-me-think-revisited.pdf)
 
 ## Editors
+- [Vim](https://www.vim.org/) - edit text at the speed of thought ;)
 
 ## Gaming
 
