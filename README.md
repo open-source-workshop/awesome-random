@@ -72,6 +72,11 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 ## Miscellaneous
 
+
+## ES6
+
 ## Laptops
+
 - [MacBook] (www.apple.com)
 - [Windows] (www.microsoft.com)
+
