@@ -50,3 +50,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 ## Decentralized Systems
 
 ## Miscellaneous
+
+## Laptops
+- [MacBook] (www.apple.com)
+- [Windows] (www.microsoft.com)
