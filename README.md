@@ -61,8 +61,6 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 ## Work
 
-## Networkinig
-
 ## Social Media
 
 ## AI by Elon Musk
