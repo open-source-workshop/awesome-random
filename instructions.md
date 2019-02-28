@@ -32,17 +32,17 @@ where "url you just copied" (without the quote marks) is the url to this reposit
 For example:
 
 ```
-git clone https://github.com/this-is-you/first-contributions.git
+git clone https://github.com/this-is-you/awesome-random.git
 ```
 
-where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository in GitHub to your computer.
+where `this-is-you` is your GitHub username. Here you're copying the contents of the awesome-random repository in GitHub to your computer.
 
 ## Create a branch
 
 Change to the repository directory on your computer (if you are not already there):
 
 ```
-cd first-contributions
+cd awesome-random
 ```
 
 Now create a branch using the `git checkout` command:
@@ -61,25 +61,21 @@ git checkout -b add-alonzo-church
 
 ## Make necessary changes and commit those changes
 
-Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
-
-<img align="right" width="450" src="images/git-status.png" alt="git status" />
+Now open `README.md` file in a text editor, add your awesome item to any category. Now, save the file.
 
 If you go to the project directory and execute the command `git status`, you'll see there are changes.
 
 Add those changes to the branch you just created using the `git add` command:
 
 ```
-git add Contributors.md
+git add README.md
 ```
 
 Now commit those changes using the `git commit` command:
 
 ```
-git commit -m "Add <your-name> to Contributors list"
+git commit -m "Adding my awesome item"
 ```
-
-replacing `<your-name>` with your name.
 
 ## Push changes to GitHub
 
@@ -101,10 +97,8 @@ Now submit the pull request.
 
 <img style="float: right;" src="images/submit-pull-request.png" alt="submit pull request" />
 
-Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
+Soon We'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
 ## Where to go from here?
 
 Congrats! You just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
-
-Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in web app](https://github.intuit.com/pages/Intuit-Open-Contribution/Intuit-First-Contributions/).
