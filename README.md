@@ -33,7 +33,9 @@ A not so curated and random list of amazingly awesome awesomeness.
 - [Don't Make Me Think](http://www.scottsdevelopers.com/dont-make-me-think-revisited.pdf)
 
 ## Editors
+- [Emacs](https://www.gnu.org/software/emacs/) 
 - [Vim](https://www.vim.org/) - edit text at the speed of thought ;)
+- [Neovim](https://neovim.io/) 
 
 ## Gaming
 
