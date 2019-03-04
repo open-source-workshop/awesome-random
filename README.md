@@ -16,6 +16,9 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 - https://kotlinlang.org/ - Kotlin is a cross-platform, statically typed, general-purpose programming language with type inference (From [Wikipedia](https://en.wikipedia.org/wiki/Kotlin_(programming_language))).
 
+learn jest
+[jest](https://jestjs.io/).
+
 ## Front-End Development
 
 ## Hadoop Projects
