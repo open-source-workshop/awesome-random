@@ -65,6 +65,10 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 ## Social Media
 
+## Fun Customization
+ - A way to write things using the emojis from the [intuit-slack emoji](https://github.com/hplewis/emoji-slack) selection.
+ ![](screenshot.png)
+
 ## AI by Elon Musk
 
 ## Networking
