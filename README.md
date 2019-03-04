@@ -51,6 +51,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 ## Media
 
 ## Learn
+- [Safari Books Online](https://learning.oreilly.com/home/)
 
 ## Security
 - [Machine Learning for Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)
