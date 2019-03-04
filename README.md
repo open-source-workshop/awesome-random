@@ -42,6 +42,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 ## Development Environment
 
 ## Entertainment
+- [Rotten Tomatoes](https://www.rottentomatoes.com/)
 
 ## Databases
 
