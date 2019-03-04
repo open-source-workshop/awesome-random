@@ -111,6 +111,10 @@ Theory is for ivory towers
 ## Social Media
 - [Intuit Facebook Page](https://www.facebook.com/intuit/)
 
+## Fun Customization
+ - A way to write things using the emojis from the [intuit-slack emoji](https://github.com/hplewis/emoji-slack) selection.
+ ![](screenshot.png)
+
 ## AI by Elon Musk
 
 ## Networking
