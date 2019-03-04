@@ -47,6 +47,7 @@ Theory is for ivory towers
 
 ## Editors
 - [Vim](https://www.vim.org/) - edit text at the speed of thought ;)
+- [VSCode](https://code.visualstudio.com/) - Visual Studio Code Editor by Microsoft
 
 ## Gaming
 
