@@ -16,6 +16,8 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 - https://kotlinlang.org/ - Kotlin is a cross-platform, statically typed, general-purpose programming language with type inference (From [Wikipedia](https://en.wikipedia.org/wiki/Kotlin_(programming_language))).
 
+- [Python - Deep Dive](http://histo.ucsf.edu/BMS270/diveintopython3-r802.pdf) - Best book for starters
+
 ## Front-End Development
 
 ## Hadoop Projects
@@ -27,6 +29,8 @@ A not so curated and random list of amazingly awesome awesomeness.
 - [Big Data Article](https://journalofbigdata.springeropen.com/articles) - The Journal of Big Data publishes high-quality, scholarly research papers, methodologies and case studies covering a broad range of topics, from big data analytics to data-intensive computing and all applications of big data research.
 
 ## Theory
+
+- [Property Graph - Gremlin](http://kelvinlawrence.net/book/Gremlin-Graph-Guide.html#whygraph) 
 
 ## Books
 - [The Pragmatic Programmer: From Journeyman to Master](https://www.nceclusters.no/globalassets/filer/nce/diverse/the-pragmatic-programmer.pdf)
