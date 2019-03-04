@@ -76,6 +76,7 @@ Theory is for ivory towers
 ## Media
 
 ## Learn
+- [Safari Books Online](https://learning.oreilly.com/home/)
 
 ## Security
 - [Machine Learning for Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)
