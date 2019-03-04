@@ -16,6 +16,8 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 - https://kotlinlang.org/ - Kotlin is a cross-platform, statically typed, general-purpose programming language with type inference (From [Wikipedia](https://en.wikipedia.org/wiki/Kotlin_(programming_language))).
 
+- [Python - Deep Dive](http://histo.ucsf.edu/BMS270/diveintopython3-r802.pdf) - Best book for starters
+
 ## Front-End Development
 
 - IDS Dropdown typeahead - When users need to select from a long list of options, use the drop-down typeahead. As soon as the user starts typing, the list changes to show suggestions that should get closer to what the user wants.
@@ -38,6 +40,8 @@ Firefox has a great set of first issues to start learning how to work with their
 
 ## Theory
 Theory is for ivory towers
+
+- [Property Graph - Gremlin](http://kelvinlawrence.net/book/Gremlin-Graph-Guide.html#whygraph) 
 
 ## Books
 - [The Pragmatic Programmer: From Journeyman to Master](https://www.nceclusters.no/globalassets/filer/nce/diverse/the-pragmatic-programmer.pdf)
