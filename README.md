@@ -42,6 +42,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 ## Development Environment
 
 ## Entertainment
+- [Things to do in San Francisco](https://www.thrillist.com/entertainment/san-francisco/things-to-do-in-san-francisco)
 
 ## Databases
 
