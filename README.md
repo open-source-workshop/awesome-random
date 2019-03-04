@@ -75,6 +75,10 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 ## ES6
 
+## GraphQL
+- official [site](https://graphql.org/) 
+- [java](https://github.com/graphql-java/)
+
 ## Laptops
 
 - [MacBook] (www.apple.com)
