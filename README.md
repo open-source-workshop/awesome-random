@@ -80,6 +80,8 @@ Theory is for ivory towers
 ## Learn
 - [Safari Books Online](https://learning.oreilly.com/home/)
 
+- [Wes Bos: great video courses on Advanced React, GraphQL, ES6, CSS Grid, Javascript, Node, etc.](https://wesbos.com/courses/)
+
 ## Security
 - [Machine Learning for Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)
 - [Digital Identity](https://qz.com/1525661/your-digital-identity-has-three-layers-and-you-can-only-protect-one-of-them/)
