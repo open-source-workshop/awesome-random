@@ -4,7 +4,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 ## Building Software
 
-- [Building TypeScript Projects with Bazel](https://blog.mgechev.com/2018/11/19/introduction-bazel-typescript-tutorial/) - a brief introduction to what Bazel is and how we can build our TypeScript projects with it 
+- [Building TypeScript Projects with Bazel](https://blog.mgechev.com/2018/11/19/introduction-bazel-typescript-tutorial/) - a brief introduction to what Bazel is and how we can build our TypeScript projects with it
 
 ## Good Books
 
@@ -54,6 +54,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 ## Security
 - [Machine Learning for Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)
+- [Digital Identity](https://qz.com/1525661/your-digital-identity-has-three-layers-and-you-can-only-protect-one-of-them/)
 
 ## Content Management Systems
 
@@ -79,6 +80,3 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 - [MacBook] (www.apple.com)
 - [Windows] (www.microsoft.com)
-
-
-
