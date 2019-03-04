@@ -60,6 +60,7 @@ Theory is for ivory towers
 ## Gaming
 
 - [ULTIMATE GAMES WILL RELEASE PET CARE AND GUESS THE WORD FOR YOUNGER PLAYERS ON SWITCH](https://www.gonintendo.com/stories/328626-ultimate-games-will-release-pet-care-and-guess-the-word-for-young)
+- [Video game reviews and fun times](https://videochums.com/)
 
 ## Development Environment
 
