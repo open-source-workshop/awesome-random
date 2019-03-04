@@ -52,6 +52,8 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 ## Learn
 
+- [Wes Bos: great video courses on Advanced React, GraphQL, ES6, CSS Grid, Javascript, Node, etc.](https://wesbos.com/courses/)
+
 ## Security
 - [Machine Learning for Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)
 
