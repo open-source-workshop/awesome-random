@@ -48,6 +48,10 @@ A not so curated and random list of amazingly awesome awesomeness.
 - [Importing Graph data into Neo4j](https://neo4j.com/developer/example-data/)
 - [Sybase](https://www.sap.com/products/sybase-ase.html)
 
+## Cloud Infrastructure and Kubernetes
+- [KAtlas - Multi-Cluster Discoverability and Auditability](https://github.com/intuit/katlas)
+- [Foremast - AI/ML Infrastructure Health Monitoring](https://github.com/intuit/foremast)
+
 ## Media
 
 ## Learn
