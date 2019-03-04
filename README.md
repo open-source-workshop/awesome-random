@@ -19,6 +19,8 @@ A not so curated and random list of amazingly awesome awesomeness.
 - [jest](https://jestjs.io/) -learn jest
 - [Python - Deep Dive](http://histo.ucsf.edu/BMS270/diveintopython3-r802.pdf) - Best book for starters
 
+- [Go](https://golang.org/) - Go is an open source programming language that makes it easy to build simple, reliable, and efficient software (From [golang](https://golang.org/)).
+
 ## Front-End Development
 
 - https://css-tricks.com/ - A front-end blog with up to date topics that release weekly
