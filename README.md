@@ -63,6 +63,8 @@ Theory is for ivory towers
 
 ## Development Environment
 
+- [VS Code](https://code.visualstudio.com/)
+
 ## Entertainment
 - [Things to do in San Francisco](https://www.thrillist.com/entertainment/san-francisco/things-to-do-in-san-francisco)
 
