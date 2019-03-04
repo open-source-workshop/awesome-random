@@ -92,6 +92,10 @@ Firefox has a great set of first issues to start learning how to work with their
 
 ## ES6
 
+## GraphQL
+- official [site](https://graphql.org/) 
+- [java](https://github.com/graphql-java/)
+
 ## Laptops
 
 - [MacBook] (www.apple.com)
