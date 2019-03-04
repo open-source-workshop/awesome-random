@@ -52,6 +52,9 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 ## Learn
 
+## Python
+- [Python Documentation](https://docs.python.org/3/)
+
 ## Security
 - [Machine Learning for Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)
 
