@@ -20,6 +20,8 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 ## Hadoop Projects
 
+## AWS EMR Projects
+
 ## Back-End Development
 
 ## Big Data
