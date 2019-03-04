@@ -1,4 +1,4 @@
-# awesome-random
+# My awesome-random!
 
 A not so curated and random list of amazingly awesome awesomeness.
 
@@ -18,6 +18,15 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 ## Front-End Development
 
+### Browsers
+
+#### Firefox
+
+Firefox has a great set of first issues to start learning how to work with their codebase. Their debugger is written in javascript!
+
+- [Firefox Javascript debugger](https://github.com/firefox-devtools/debugger)
+
+
 ## Hadoop Projects
 
 ## Back-End Development
@@ -31,6 +40,9 @@ A not so curated and random list of amazingly awesome awesomeness.
 ## Books
 - [The Pragmatic Programmer: From Journeyman to Master](https://www.nceclusters.no/globalassets/filer/nce/diverse/the-pragmatic-programmer.pdf)
 - [Don't Make Me Think](http://www.scottsdevelopers.com/dont-make-me-think-revisited.pdf)
+- [Code Complete, Second Edition](https://www.oreilly.com/library/view/code-complete-second/0735619670/)
+- [Ender's Game](https://en.wikipedia.org/wiki/Ender%27s_Game)
+- [Ender's Shadow](https://en.wikipedia.org/wiki/Ender%27s_Shadow)
 
 ## Editors
 - [Vim](https://www.vim.org/) - edit text at the speed of thought ;)
@@ -46,7 +58,12 @@ A not so curated and random list of amazingly awesome awesomeness.
 ## Databases
 
 - [Importing Graph data into Neo4j](https://neo4j.com/developer/example-data/)
+- [Apache TinkerPop Tutorial](https://kelvinlawrence.net/book/Gremlin-Graph-Guide.html)
 - [Sybase](https://www.sap.com/products/sybase-ase.html)
+
+## Cloud Infrastructure and Kubernetes
+- [KAtlas - Multi-Cluster Discoverability and Auditability](https://github.com/intuit/katlas)
+- [Foremast - AI/ML Infrastructure Health Monitoring](https://github.com/intuit/foremast)
 
 ## Media
 
@@ -55,6 +72,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 ## Security
 - [Machine Learning for Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)
 - [Digital Identity](https://qz.com/1525661/your-digital-identity-has-three-layers-and-you-can-only-protect-one-of-them/)
+- [How to Attack Windows 10 Machine with Metasploit on Kali Linux](https://resources.infosecinstitute.com/how-to-attack-windows-10-machine-with-metasploit-on-kali-linux/)
 
 ## Content Management Systems
 
@@ -65,6 +83,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 ## Work
 
 ## Social Media
+- [Intuit Facebook Page](https://www.facebook.com/intuit/)
 
 ## AI by Elon Musk
 
@@ -75,6 +94,10 @@ A not so curated and random list of amazingly awesome awesomeness.
 ## Miscellaneous
 
 ## ES6
+
+## GraphQL
+- official [site](https://graphql.org/) 
+- [java](https://github.com/graphql-java/)
 
 ## Laptops
 
