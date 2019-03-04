@@ -31,6 +31,8 @@ A not so curated and random list of amazingly awesome awesomeness.
 ## Books
 - [The Pragmatic Programmer: From Journeyman to Master](https://www.nceclusters.no/globalassets/filer/nce/diverse/the-pragmatic-programmer.pdf)
 - [Don't Make Me Think](http://www.scottsdevelopers.com/dont-make-me-think-revisited.pdf)
+- [Ender's Game](https://en.wikipedia.org/wiki/Ender%27s_Game)
+- [Ender's Shadow](https://en.wikipedia.org/wiki/Ender%27s_Shadow)
 
 ## Editors
 - [Vim](https://www.vim.org/) - edit text at the speed of thought ;)
