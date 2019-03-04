@@ -51,6 +51,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 ## Media
 
 ## Learn
+- [Clean Code by Robert Martin](https://www.amazon.ca/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM) - A book on good software development practices and writing clean code!
 
 ## Security
 - [Machine Learning for Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)
