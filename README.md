@@ -60,6 +60,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 ## Hardware
 
 ## Business
+- [Greaterfool Blog. Canadian real estate and politics.](https://www.greaterfool.ca/)
 
 ## Work
 
