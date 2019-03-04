@@ -18,6 +18,8 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 ## Front-End Development
 
+- IDS Dropdown typeahead - When users need to select from a long list of options, use the drop-down typeahead. As soon as the user starts typing, the list changes to show suggestions that should get closer to what the user wants.
+
 ### Browsers
 
 #### Firefox
@@ -25,7 +27,6 @@ A not so curated and random list of amazingly awesome awesomeness.
 Firefox has a great set of first issues to start learning how to work with their codebase. Their debugger is written in javascript!
 
 - [Firefox Javascript debugger](https://github.com/firefox-devtools/debugger)
-
 
 ## Hadoop Projects
 
