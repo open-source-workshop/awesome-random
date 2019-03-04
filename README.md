@@ -64,7 +64,9 @@ Theory is for ivory towers
 - [Ender's Shadow](https://en.wikipedia.org/wiki/Ender%27s_Shadow)
 
 ## Editors
+- [Emacs](https://www.gnu.org/software/emacs/) 
 - [Vim](https://www.vim.org/) - edit text at the speed of thought ;)
+- [Neovim](https://neovim.io/) 
 - [VSCode](https://code.visualstudio.com/) - Visual Studio Code Editor by Microsoft
 
 ## Gaming
