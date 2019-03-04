@@ -96,6 +96,7 @@ Firefox has a great set of first issues to start learning how to work with their
 ## Media
 
 ## Learn
+- [Clean Code by Robert Martin](https://www.amazon.ca/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM) - A book on good software development practices and writing clean code!
 - [GraphQL](https://graphql.org/)
 - [Safari Books Online](https://learning.oreilly.com/home/)
 - [Wes Bos: great video courses on Advanced React, GraphQL, ES6, CSS Grid, Javascript, Node, etc.](https://wesbos.com/courses/)
