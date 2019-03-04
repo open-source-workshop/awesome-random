@@ -16,6 +16,8 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 - https://kotlinlang.org/ - Kotlin is a cross-platform, statically typed, general-purpose programming language with type inference (From [Wikipedia](https://en.wikipedia.org/wiki/Kotlin_(programming_language))).
 
+- [Go](https://golang.org/) - Go is an open source programming language that makes it easy to build simple, reliable, and efficient software (From [golang](https://golang.org/)).
+
 ## Front-End Development
 
 ## Hadoop Projects
