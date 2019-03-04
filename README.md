@@ -26,6 +26,11 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 - [Big Data Article](https://journalofbigdata.springeropen.com/articles) - The Journal of Big Data publishes high-quality, scholarly research papers, methodologies and case studies covering a broad range of topics, from big data analytics to data-intensive computing and all applications of big data research.
 
+## Blockchain
+
+## Machine Learning
+- [Coursera Open Source ML Course](https://www.coursera.org/learn/machine-learning) - A free online course that people can take to learn about Machine Learning. It is from Stanford.
+
 ## Theory
 
 ## Books
