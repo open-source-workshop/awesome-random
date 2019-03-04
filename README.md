@@ -49,7 +49,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 - [Sybase](https://www.sap.com/products/sybase-ase.html)
 
 ## Cloud Infrastructure and Kubernetes
-- [KAtlas - Container Discoverability and Autitability](https://github.com/intuit/katlas)
+- [KAtlas - Multi-Cluster Discoverability and Auditability](https://github.com/intuit/katlas)
 - [Foremast - AI/ML Infrastructure Health Monitoring](https://github.com/intuit/foremast)
 
 ## Media
