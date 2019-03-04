@@ -48,6 +48,7 @@ Theory is for ivory towers
 ## Books
 - [The Pragmatic Programmer: From Journeyman to Master](https://www.nceclusters.no/globalassets/filer/nce/diverse/the-pragmatic-programmer.pdf)
 - [Don't Make Me Think](http://www.scottsdevelopers.com/dont-make-me-think-revisited.pdf)
+- [Algorithm Design Manual](http://www.algorist.com/) - Awesome collection of classic algorithms
 - [Code Complete, Second Edition](https://www.oreilly.com/library/view/code-complete-second/0735619670/)
 - [Ender's Game](https://en.wikipedia.org/wiki/Ender%27s_Game)
 - [Ender's Shadow](https://en.wikipedia.org/wiki/Ender%27s_Shadow)
