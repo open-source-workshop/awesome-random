@@ -58,6 +58,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 ## Security
 - [Machine Learning for Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)
+- [How to Attack Windows 10 Machine with Metasploit on Kali Linux](https://resources.infosecinstitute.com/how-to-attack-windows-10-machine-with-metasploit-on-kali-linux/)
 
 ## Content Management Systems
 
