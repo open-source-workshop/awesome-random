@@ -18,6 +18,8 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 ## Front-End Development
 
+- https://css-tricks.com/ - A front-end blog with up to date topics that release weekly
+
 ## Hadoop Projects
 
 ## Back-End Development
