@@ -21,6 +21,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 ## Front-End Development
 
+- https://css-tricks.com/ - A front-end blog with up to date topics that release weekly
 - IDS Dropdown typeahead - When users need to select from a long list of options, use the drop-down typeahead. As soon as the user starts typing, the list changes to show suggestions that should get closer to what the user wants.
 
 ### Browsers
