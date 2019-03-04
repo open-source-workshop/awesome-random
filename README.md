@@ -34,6 +34,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 ## Editors
 - [Vim](https://www.vim.org/) - edit text at the speed of thought ;)
+- [Visual Studio Code](https://code.visualstudio.com/) - great for front end development
 
 ## Gaming
 
