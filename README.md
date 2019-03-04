@@ -51,8 +51,8 @@ Firefox has a great set of first issues to start learning how to work with their
 - [Coursera Open Source ML Course](https://www.coursera.org/learn/machine-learning) - A free online course that people can take to learn about Machine Learning. It is from Stanford.
 
 ## Theory
-Theory is for ivory towers
-
+- [What Every Computer Scientist Should Know About Floating Point Arithmetic](https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/02Numerics/Double/paper.pdf)
+- [An Axiomatic Basis for Computer Programming](https://www.cs.cmu.edu/~crary/819-f09/Hoare69.pdf)
 - [Property Graph - Gremlin](http://kelvinlawrence.net/book/Gremlin-Graph-Guide.html#whygraph) 
 
 ## Books
