@@ -18,6 +18,15 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 ## Front-End Development
 
+### Browsers
+
+#### Firefox
+
+Firefox has a great set of first issues to start learning how to work with their codebase. Their debugger is written in javascript!
+
+- [Firefox Javascript debugger](https://github.com/firefox-devtools/debugger)
+
+
 ## Hadoop Projects
 
 ## Back-End Development
