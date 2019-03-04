@@ -95,6 +95,7 @@ Theory is for ivory towers
 ## Hardware
 
 ## Business
+- [Greaterfool Blog. Canadian real estate and politics.](https://www.greaterfool.ca/)
 
 ## Work
 
