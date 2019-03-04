@@ -27,6 +27,8 @@ A not so curated and random list of amazingly awesome awesomeness.
 - [Big Data Article](https://journalofbigdata.springeropen.com/articles) - The Journal of Big Data publishes high-quality, scholarly research papers, methodologies and case studies covering a broad range of topics, from big data analytics to data-intensive computing and all applications of big data research.
 
 ## Theory
+- [What Every Computer Scientist Should Know About Floating Point Arithmetic](https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/02Numerics/Double/paper.pdf)
+- [An Axiomatic Basis for Computer Programming](https://www.cs.cmu.edu/~crary/819-f09/Hoare69.pdf)
 
 ## Books
 - [The Pragmatic Programmer: From Journeyman to Master](https://www.nceclusters.no/globalassets/filer/nce/diverse/the-pragmatic-programmer.pdf)
