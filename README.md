@@ -66,6 +66,7 @@ Firefox has a great set of first issues to start learning how to work with their
 ## Editors
 - [Emacs](https://www.gnu.org/software/emacs/) 
 - [Vim](https://www.vim.org/) - edit text at the speed of thought ;)
+- [Visual Studio Code](https://code.visualstudio.com)
 - [Neovim](https://neovim.io/) 
 - [VSCode](https://code.visualstudio.com/) - Visual Studio Code Editor by Microsoft
 
