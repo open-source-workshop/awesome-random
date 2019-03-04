@@ -122,5 +122,8 @@ Theory is for ivory towers
 
 ## Laptops
 
+## Design
+ - [Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)
+
 - [MacBook] (www.apple.com)
 - [Windows] (www.microsoft.com)
