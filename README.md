@@ -55,7 +55,7 @@ Firefox has a great set of first issues to start learning how to work with their
 ## Theory
 - [What Every Computer Scientist Should Know About Floating Point Arithmetic](https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/02Numerics/Double/paper.pdf)
 - [An Axiomatic Basis for Computer Programming](https://www.cs.cmu.edu/~crary/819-f09/Hoare69.pdf)
-- [Property Graph - Gremlin](http://kelvinlawrence.net/book/Gremlin-Graph-Guide.html#whygraph) 
+- [Property Graph - Gremlin](http://kelvinlawrence.net/book/Gremlin-Graph-Guide.html#whygraph)
 
 ## Books
 - [The Pragmatic Programmer: From Journeyman to Master](https://www.nceclusters.no/globalassets/filer/nce/diverse/the-pragmatic-programmer.pdf)
@@ -66,10 +66,10 @@ Firefox has a great set of first issues to start learning how to work with their
 - [Ender's Shadow](https://en.wikipedia.org/wiki/Ender%27s_Shadow)
 
 ## Editors
-- [Emacs](https://www.gnu.org/software/emacs/) 
+- [Emacs](https://www.gnu.org/software/emacs/)
 - [Vim](https://www.vim.org/) - edit text at the speed of thought ;)
 - [Visual Studio Code](https://code.visualstudio.com/) - great for front end development, Visual Studio Code Editor by Microsoft
-- [Neovim](https://neovim.io/) 
+- [Neovim](https://neovim.io/)
 
 ## Gaming
 
@@ -138,7 +138,7 @@ Firefox has a great set of first issues to start learning how to work with their
 ## ES6
 
 ## GraphQL
-- official [site](https://graphql.org/) 
+- official [site](https://graphql.org/)
 - [java](https://github.com/graphql-java/)
 
 ## Laptops
@@ -149,5 +149,6 @@ Firefox has a great set of first issues to start learning how to work with their
 - [MacBook] (www.apple.com)
 - [Windows] (www.microsoft.com)
 
-# Android Things https://developer.android.com/things/get-started/kits 
+# Android Things https://developer.android.com/things/get-started/kits
 
+# Blogs https://www.blog.google/
