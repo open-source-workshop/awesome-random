@@ -156,13 +156,16 @@ Firefox has a great set of first issues to start learning how to work with their
 - [MacBook] (www.apple.com)
 - [Windows] (www.microsoft.com)
 
-# Android Things https://developer.android.com/things/get-started/kits 
+## Android Things 
+- https://developer.android.com/things/get-started/kits 
 
-# Observability https://en.wikipedia.org/wiki/Observability
+## Observability 
+- https://en.wikipedia.org/wiki/Observability
 
 ## Devops
  - https://www.schoolofdevops.net/p/ultimate-devops-bootcamp - Free and a handson approach to get started
 
 
 ## Data Visualizations
+
 
