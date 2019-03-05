@@ -50,6 +50,9 @@ Firefox has a great set of first issues to start learning how to work with their
 ## Blockchain
 
 ## Machine Learning
+- [Deep learning by Andrew ng ](https://www.deeplearning.ai/)
+
+## AI by Andrew NG
 - [Coursera Open Source ML Course](https://www.coursera.org/learn/machine-learning) - A free online course that people can take to learn about Machine Learning. It is from Stanford.
 
 ## Theory
