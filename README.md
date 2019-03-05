@@ -177,6 +177,11 @@ Firefox has a great set of first issues to start learning how to work with their
 ## Data Visualizations
 
 
+## Reinforcement Learning
+
+Active Opensource libraries for Reinforcement Learning Research
+ - OpenAI's [Baselines](https://github.com/openai/baselines)
+ - Google's [Dopamine](https://github.com/google/dopamine)
+
 ## Music
 - [Rolling Stone's Greatest Songs Of All Time](https://www.rollingstone.com/music/music-lists/500-greatest-songs-of-all-time-151127/)
-
