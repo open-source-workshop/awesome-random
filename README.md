@@ -143,6 +143,7 @@ Firefox has a great set of first issues to start learning how to work with their
 ## Decentralized Systems
 
 ## Miscellaneous
+- [Docker-removing-containers-images](https://www.digitalocean.com/community/tutorials/how-to-remove-docker-images-containers-and-volumes)
 
 ## ES6
 
