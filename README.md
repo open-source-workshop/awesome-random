@@ -40,6 +40,8 @@ Firefox has a great set of first issues to start learning how to work with their
 
 - [Firefox Javascript debugger](https://github.com/firefox-devtools/debugger)
 
+#### Chrome
+
 ## Hadoop Projects
 
 ## AWS EMR Projects
