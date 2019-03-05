@@ -40,6 +40,8 @@ Firefox has a great set of first issues to start learning how to work with their
 
 - [Firefox Javascript debugger](https://github.com/firefox-devtools/debugger)
 
+#### Chrome
+
 ## Hadoop Projects
 
 ## AWS EMR Projects
@@ -55,6 +57,9 @@ Firefox has a great set of first issues to start learning how to work with their
 ## Blockchain
 
 ## Machine Learning
+- [Deep learning by Andrew ng ](https://www.deeplearning.ai/)
+
+## AI by Andrew NG
 - [Coursera Open Source ML Course](https://www.coursera.org/learn/machine-learning) - A free online course that people can take to learn about Machine Learning. It is from Stanford.
 
 ## Theory
@@ -75,6 +80,7 @@ Firefox has a great set of first issues to start learning how to work with their
 - [Vim](https://www.vim.org/) - edit text at the speed of thought ;)
 - [Visual Studio Code](https://code.visualstudio.com/) - great for front end development, Visual Studio Code Editor by Microsoft
 - [Neovim](https://neovim.io/) 
+- [Sublime Text] (https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose
 
 ## Gaming
 
@@ -128,6 +134,7 @@ Firefox has a great set of first issues to start learning how to work with their
 
 ## Social Media
 - [Intuit Facebook Page](https://www.facebook.com/intuit/)
+- [Intuit Twitter Handle](https://twitter.com/Intuit)
 
 ## Fun Customization
  - A way to write things using the emojis from the [intuit-slack emoji](https://github.com/hplewis/emoji-slack) selection.
@@ -140,6 +147,7 @@ Firefox has a great set of first issues to start learning how to work with their
 ## Decentralized Systems
 
 ## Miscellaneous
+- [Docker-removing-containers-images](https://www.digitalocean.com/community/tutorials/how-to-remove-docker-images-containers-and-volumes)
 
 ## ES6
 
@@ -156,9 +164,11 @@ Firefox has a great set of first issues to start learning how to work with their
 - [MacBook] (www.apple.com)
 - [Windows] (www.microsoft.com)
 
-# Android Things https://developer.android.com/things/get-started/kits 
+## Android Things 
+- https://developer.android.com/things/get-started/kits 
 
-# Observability https://en.wikipedia.org/wiki/Observability
+## Observability 
+- https://en.wikipedia.org/wiki/Observability
 
 ## Devops
  - https://www.schoolofdevops.net/p/ultimate-devops-bootcamp - Free and a handson approach to get started
@@ -166,11 +176,12 @@ Firefox has a great set of first issues to start learning how to work with their
 
 ## Data Visualizations
 
+
 ## Reinforcement Learning
 
 Active Opensource libraries for Reinforcement Learning Research
  - OpenAI's [Baselines](https://github.com/openai/baselines)
  - Google's [Dopamine](https://github.com/google/dopamine)
 
-
-
+## Music
+- [Rolling Stone's Greatest Songs Of All Time](https://www.rollingstone.com/music/music-lists/500-greatest-songs-of-all-time-151127/)
