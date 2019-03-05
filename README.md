@@ -158,8 +158,9 @@ Firefox has a great set of first issues to start learning how to work with their
 
 # Android Things https://developer.android.com/things/get-started/kits 
 
+# Observability https://en.wikipedia.org/wiki/Observability
 
-##Devops
+## Devops
  - https://www.schoolofdevops.net/p/ultimate-devops-bootcamp - Free and a handson approach to get started
 
 
