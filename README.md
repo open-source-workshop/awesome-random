@@ -152,4 +152,4 @@ Firefox has a great set of first issues to start learning how to work with their
 - [Windows] (www.microsoft.com)
 
 # Android Things https://developer.android.com/things/get-started/kits 
-
+# Observability https://en.wikipedia.org/wiki/Observability
