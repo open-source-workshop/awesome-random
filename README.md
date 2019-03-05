@@ -102,6 +102,7 @@ Firefox has a great set of first issues to start learning how to work with their
 - [GraphQL](https://graphql.org/)
 - [Safari Books Online](https://learning.oreilly.com/home/)
 - [Wes Bos: great video courses on Advanced React, GraphQL, ES6, CSS Grid, Javascript, Node, etc.](https://wesbos.com/courses/)
+- [Reactive Extensions](http://reactivex.io/intro.html)
 
 ## Python
 - [Python Documentation](https://docs.python.org/3/)
