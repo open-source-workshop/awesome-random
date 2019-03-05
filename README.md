@@ -24,6 +24,9 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 - https://www.scala-lang.org/ - Scala combines object-oriented and functional programming in one concise, high-level language.
 
+- [Elixir](https://elixir-lang.org/) - Elixir is a dynamic, functional language designed for building scalable and maintainable applications.
+
+
 ## Front-End Development
 
 - https://css-tricks.com/ - A front-end blog with up to date topics that release weekly
@@ -104,6 +107,7 @@ Firefox has a great set of first issues to start learning how to work with their
 - [GraphQL](https://graphql.org/)
 - [Safari Books Online](https://learning.oreilly.com/home/)
 - [Wes Bos: great video courses on Advanced React, GraphQL, ES6, CSS Grid, Javascript, Node, etc.](https://wesbos.com/courses/)
+- [Reactive Extensions](http://reactivex.io/intro.html)
 
 ## Python
 - [Python Documentation](https://docs.python.org/3/)
@@ -142,6 +146,7 @@ Firefox has a great set of first issues to start learning how to work with their
 ## GraphQL
 - official [site](https://graphql.org/) 
 - [java](https://github.com/graphql-java/)
+- [TOOL](https://www.insomnia.rest/)
 
 ## Laptops
 
@@ -152,4 +157,12 @@ Firefox has a great set of first issues to start learning how to work with their
 - [Windows] (www.microsoft.com)
 
 # Android Things https://developer.android.com/things/get-started/kits 
+
 # Observability https://en.wikipedia.org/wiki/Observability
+
+## Devops
+ - https://www.schoolofdevops.net/p/ultimate-devops-bootcamp - Free and a handson approach to get started
+
+
+## Data Visualizations
+
