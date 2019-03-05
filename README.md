@@ -166,3 +166,11 @@ Firefox has a great set of first issues to start learning how to work with their
 
 ## Data Visualizations
 
+## Reinforcement Learning
+
+Active Opensource libraries for Reinforcement Learning Research
+ - OpenAI's [Baselines](https://github.com/openai/baselines)
+ - Google's [Dopamine](https://github.com/google/dopamine)
+
+
+
