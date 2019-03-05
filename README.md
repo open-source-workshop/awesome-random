@@ -39,6 +39,8 @@ Firefox has a great set of first issues to start learning how to work with their
 
 ## Hadoop Projects
 
+## AWS EMR Projects
+
 ## Back-End Development
 
 [Setup a Custom Domain for Lambda & API Gateway with Serverless](https://serverless.com/blog/serverless-api-gateway-domain/)
