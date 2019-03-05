@@ -151,3 +151,6 @@ Firefox has a great set of first issues to start learning how to work with their
 
 # Android Things https://developer.android.com/things/get-started/kits 
 
+## Music
+- [Rolling Stone's Greatest Songs Of All Time](https://www.rollingstone.com/music/music-lists/500-greatest-songs-of-all-time-151127/)
+
