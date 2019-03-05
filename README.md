@@ -134,6 +134,7 @@ Firefox has a great set of first issues to start learning how to work with their
 
 ## Social Media
 - [Intuit Facebook Page](https://www.facebook.com/intuit/)
+- [Intuit Twitter Handle](https://twitter.com/Intuit)
 
 ## Fun Customization
  - A way to write things using the emojis from the [intuit-slack emoji](https://github.com/hplewis/emoji-slack) selection.
