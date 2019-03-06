@@ -131,6 +131,9 @@ Firefox has a great set of first issues to start learning how to work with their
 - [Greaterfool Blog. Canadian real estate and politics.](https://www.greaterfool.ca/)
 
 ## Work
+- [Intuit](https://intuit.com)
+
+## Networkinig
 
 ## Social Media
 - [Intuit Facebook Page](https://www.facebook.com/intuit/)
