@@ -26,6 +26,8 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 - [Elixir](https://elixir-lang.org/) - Elixir is a dynamic, functional language designed for building scalable and maintainable applications.
 
+- [Rust](https://www.rust-lang.org/learn) - Rust as a language is different. Not because of its fancy syntax or welcoming community, but because of the confidence one gains when writing a program in it. 
+
 
 ## Front-End Development
 
