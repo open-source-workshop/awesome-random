@@ -156,6 +156,7 @@ Firefox has a great set of first issues to start learning how to work with their
 
 ## Miscellaneous
 - [Docker-removing-containers-images](https://www.digitalocean.com/community/tutorials/how-to-remove-docker-images-containers-and-volumes)
+- [Task Switching](https://www.joelonsoftware.com/2001/02/12/human-task-switches-considered-harmful/) - An interesting write-up on why task switching is so costly for engineers
 
 ## ES6
 
