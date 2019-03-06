@@ -155,6 +155,9 @@ Firefox has a great set of first issues to start learning how to work with their
 
 ## ES6
 
+## React
+- [Official site](https://reactjs.org/)
+
 ## GraphQL
 - official [site](https://graphql.org/) 
 - [java](https://github.com/graphql-java/)
