@@ -61,6 +61,8 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 ## Work
 
+- [Intuit](https://intuit.com)
+
 ## Networkinig
 
 ## Social Media
