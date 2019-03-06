@@ -188,3 +188,4 @@ Active Opensource libraries for Reinforcement Learning Research
 
 ## Music
 - [Rolling Stone's Greatest Songs Of All Time](https://www.rollingstone.com/music/music-lists/500-greatest-songs-of-all-time-151127/)
+- [Everythinng is awesome](https://www.youtube.com/watch?v=StTqXEQ2l-Y)
