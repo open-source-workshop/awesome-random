@@ -1,5 +1,5 @@
 # My awesome-random!!
-
+#Welcome 
 A not so curated and random list of amazingly awesome awesomeness.
 
 ## Building Software
@@ -25,6 +25,8 @@ A not so curated and random list of amazingly awesome awesomeness.
 - https://www.scala-lang.org/ - Scala combines object-oriented and functional programming in one concise, high-level language.
 
 - [Elixir](https://elixir-lang.org/) - Elixir is a dynamic, functional language designed for building scalable and maintainable applications.
+
+- [Rust](https://www.rust-lang.org/learn) - Rust as a language is different. Not because of its fancy syntax or welcoming community, but because of the confidence one gains when writing a program in it. 
 
 
 ## Front-End Development
@@ -55,6 +57,8 @@ Firefox has a great set of first issues to start learning how to work with their
 - [Big Data Article](https://journalofbigdata.springeropen.com/articles) - The Journal of Big Data publishes high-quality, scholarly research papers, methodologies and case studies covering a broad range of topics, from big data analytics to data-intensive computing and all applications of big data research.
 
 ## Blockchain
+- [Blockchain definition](https://en.wikipedia.org/wiki/Blockchain)
+
 
 ## AI by Andrew NG
 - [Deep learning by Andrew ng ](https://www.deeplearning.ai/)
@@ -74,6 +78,7 @@ Firefox has a great set of first issues to start learning how to work with their
 - [Code Complete, Second Edition](https://www.oreilly.com/library/view/code-complete-second/0735619670/)
 - [Ender's Game](https://en.wikipedia.org/wiki/Ender%27s_Game)
 - [Ender's Shadow](https://en.wikipedia.org/wiki/Ender%27s_Shadow)
+- [Clean Code](https://www.oreilly.com/library/view/clean-code/9780136083238/)
 
 ## Editors
 - [Emacs](https://www.gnu.org/software/emacs/) 
@@ -86,6 +91,7 @@ Firefox has a great set of first issues to start learning how to work with their
 
 - [ULTIMATE GAMES WILL RELEASE PET CARE AND GUESS THE WORD FOR YOUNGER PLAYERS ON SWITCH](https://www.gonintendo.com/stories/328626-ultimate-games-will-release-pet-care-and-guess-the-word-for-young)
 - [Video game reviews and fun times](https://videochums.com/)
+- [CM 2001/2 - Best Game EVER!](https://www.fmscout.com/a-championship-manager-0102-free-download.html)
 
 ## Development Environment
 
@@ -114,6 +120,7 @@ Firefox has a great set of first issues to start learning how to work with their
 - [Safari Books Online](https://learning.oreilly.com/home/)
 - [Wes Bos: great video courses on Advanced React, GraphQL, ES6, CSS Grid, Javascript, Node, etc.](https://wesbos.com/courses/)
 - [Reactive Extensions](http://reactivex.io/intro.html)
+- [Lightbot](https://itunes.apple.com/us/app/lightbot-programming-puzzles/id657638474)
 
 ## Python
 - [Python Documentation](https://docs.python.org/3/)
@@ -131,6 +138,9 @@ Firefox has a great set of first issues to start learning how to work with their
 - [Greaterfool Blog. Canadian real estate and politics.](https://www.greaterfool.ca/)
 
 ## Work
+- [Intuit](https://intuit.com)
+
+## Networkinig
 
 ## Social Media
 - [Intuit Facebook Page](https://www.facebook.com/intuit/)
@@ -148,8 +158,12 @@ Firefox has a great set of first issues to start learning how to work with their
 
 ## Miscellaneous
 - [Docker-removing-containers-images](https://www.digitalocean.com/community/tutorials/how-to-remove-docker-images-containers-and-volumes)
+- [Task Switching](https://www.joelonsoftware.com/2001/02/12/human-task-switches-considered-harmful/) - An interesting write-up on why task switching is so costly for engineers
 
 ## ES6
+
+## React
+- [Official site](https://reactjs.org/)
 
 ## GraphQL
 - official [site](https://graphql.org/) 
@@ -160,6 +174,7 @@ Firefox has a great set of first issues to start learning how to work with their
 
 ## Design
  - [Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)
+ - [Refactoring][https://refactoring.guru/refactoring]
 
 - [MacBook] (www.apple.com)
 - [Windows] (www.microsoft.com)
@@ -185,6 +200,8 @@ Active Opensource libraries for Reinforcement Learning Research
 
 ## Music
 - [Rolling Stone's Greatest Songs Of All Time](https://www.rollingstone.com/music/music-lists/500-greatest-songs-of-all-time-151127/)
+- [Everythinng is awesome](https://www.youtube.com/watch?v=StTqXEQ2l-Y)
 
 ## SELinux
 - http://selinuxproject.org
+
