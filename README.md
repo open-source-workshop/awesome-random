@@ -171,6 +171,7 @@ Firefox has a great set of first issues to start learning how to work with their
 
 ## Design
  - [Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)
+ - [Refactoring][https://refactoring.guru/refactoring]
 
 - [MacBook] (www.apple.com)
 - [Windows] (www.microsoft.com)
