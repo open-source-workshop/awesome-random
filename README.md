@@ -45,6 +45,8 @@ Firefox has a great set of first issues to start learning how to work with their
 
 #### Chrome
 
+## crypto
+
 ## Hadoop Projects
 
 ## AWS EMR Projects
