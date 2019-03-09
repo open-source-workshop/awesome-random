@@ -128,6 +128,11 @@ Firefox has a great set of first issues to start learning how to work with their
 ## Python
 - [Python Documentation](https://docs.python.org/3/)
 
+## Go
+- [Awesome Go](https://github.com/avelino/awesome-go)
+- [Go Style Guide](https://github.com/bahlo/go-styleguide)
+- [Project Layout](https://github.com/golang-standards/project-layout)
+
 ## Security
 - [Machine Learning for Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)
 - [Digital Identity](https://qz.com/1525661/your-digital-identity-has-three-layers-and-you-can-only-protect-one-of-them/)
