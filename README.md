@@ -229,4 +229,7 @@ Active Opensource libraries for Reinforcement Learning Research
 ## SELinux
 - http://selinuxproject.org
 
+## Cool Youtube Channels 
+- https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw
+
 ## Write unit tests!
