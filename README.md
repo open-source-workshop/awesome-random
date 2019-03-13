@@ -203,6 +203,9 @@ Firefox has a great set of first issues to start learning how to work with their
 ## Observability 
 - https://en.wikipedia.org/wiki/Observability
 
+## Podcasts
+- [Anna Faris is Unqualified](https://www.unqualified.com/)
+
 ## Devops
  - https://www.schoolofdevops.net/p/ultimate-devops-bootcamp - Free and a handson approach to get started
 
@@ -220,6 +223,7 @@ Active Opensource libraries for Reinforcement Learning Research
 - [Get Shwifty](https://www.youtube.com/watch?v=7ecYoSvGO60)
 - [Omer Adam - Two crazy people](https://www.youtube.com/watch?v=WLMmX17D2uw)
 - [Everythinng is awesome](https://www.youtube.com/watch?v=StTqXEQ2l-Y)
+- [Dubstep - Kill the Noise - Pt 1](https://youtu.be/jVfU1DY73Tk)
 - [The Revenge Song - The Magic Flute](https://www.youtube.com/watch?v=YuBeBjqKSGQ)
 
 ## SELinux
