@@ -174,6 +174,9 @@ Firefox has a great set of first issues to start learning how to work with their
 ## React
 - [Official site](https://reactjs.org/)
 
+## Redux
+- [Official site](https://redux.js.org/)
+
 ## GraphQL
 - official [site](https://graphql.org/) 
 - [java](https://github.com/graphql-java/)
