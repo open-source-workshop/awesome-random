@@ -7,12 +7,6 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 - [Building TypeScript Projects with Bazel](https://blog.mgechev.com/2018/11/19/introduction-bazel-typescript-tutorial/) - a brief introduction to what Bazel is and how we can build our TypeScript projects with it
 
-## Good Books
-
-- https://github.com/Automation-Tools/karate-test-mojo -  Generate integration tests from springboot or jersey source code.
-- https://developers.google.com/web/fundamentals/performance/why-performance-matters - Why performance matters
-- https://pragprog.com/book/tpp/the-pragmatic-programmer - Timeless patterns for thinking about designing good software.
-
 ## Platforms
 
 ## Programming Languages
@@ -82,6 +76,10 @@ Firefox has a great set of first issues to start learning how to work with their
 - [Ender's Game](https://en.wikipedia.org/wiki/Ender%27s_Game)
 - [Ender's Shadow](https://en.wikipedia.org/wiki/Ender%27s_Shadow)
 - [Clean Code](https://www.oreilly.com/library/view/clean-code/9780136083238/)
+- [Ready Player One](https://en.wikipedia.org/wiki/Ready_Player_One)
+- https://github.com/Automation-Tools/karate-test-mojo -  Generate integration tests from springboot or jersey source code.
+- https://developers.google.com/web/fundamentals/performance/why-performance-matters - Why performance matters
+- https://pragprog.com/book/tpp/the-pragmatic-programmer - Timeless patterns for thinking about designing good software.
 
 ## Editors
 - [Emacs](https://www.gnu.org/software/emacs/) 
