@@ -156,7 +156,7 @@ Firefox has a great set of first issues to start learning how to work with their
 - [Intuit Twitter Handle](https://twitter.com/Intuit)
 
 ## Fun Customization
- - A way to write things using the emojis from the [intuit-slack emoji](https://github.com/hplewis/emoji-slack) selection.
+ - A way to write things using the emojis from the [intuit-slack emoji](https://github.com/hplewis/emoji-slack) selection!
  ![](screenshot.png)
  - Race to foldable phone(https://gizmodo.com/the-race-to-foldable-phone-perfection-is-on-and-its-go-1832960403?utm_medium=socialflow&utm_source=gizmodo_twitter&utm_campaign=socialflow_gizmodo_twitter)
 ## AI by Elon Musk
