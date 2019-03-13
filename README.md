@@ -197,9 +197,8 @@ Firefox has a great set of first issues to start learning how to work with their
 ## Devops
  - https://www.schoolofdevops.net/p/ultimate-devops-bootcamp - Free and a handson approach to get started
 
-
 ## Data Visualizations
-
+- https://www.jasondavies.com/ - Awesome interactive data visualizations
 
 ## Reinforcement Learning
 
