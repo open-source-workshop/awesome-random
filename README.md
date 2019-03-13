@@ -212,6 +212,7 @@ Active Opensource libraries for Reinforcement Learning Research
 - [Get Shwifty](https://www.youtube.com/watch?v=7ecYoSvGO60)
 - [Omer Adam - Two crazy people](https://www.youtube.com/watch?v=WLMmX17D2uw)
 - [Everythinng is awesome](https://www.youtube.com/watch?v=StTqXEQ2l-Y)
+- [The Revenge Song - The Magic Flute](https://www.youtube.com/watch?v=YuBeBjqKSGQ)
 
 ## SELinux
 - http://selinuxproject.org
