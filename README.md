@@ -7,6 +7,13 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 - [Building TypeScript Projects with Bazel](https://blog.mgechev.com/2018/11/19/introduction-bazel-typescript-tutorial/) - a brief introduction to what Bazel is and how we can build our TypeScript projects with it
 
+## Good Books
+
+- https://github.com/Automation-Tools/karate-test-mojo -  Generate integration tests from springboot or jersey source code.
+- https://developers.google.com/web/fundamentals/performance/why-performance-matters - Why performance matters
+- https://pragprog.com/book/tpp/the-pragmatic-programmer - Timeless patterns for thinking about designing good software.
+- https://eloquentjavascript.net/ - This is a book about JavaScript, programming, and the wonders of the digital.
+
 ## Platforms
 
 ## Programming Languages
@@ -154,7 +161,7 @@ Firefox has a great set of first issues to start learning how to work with their
 - [Intuit Twitter Handle](https://twitter.com/Intuit)
 
 ## Fun Customization
- - A way to write things using the emojis from the [intuit-slack emoji](https://github.com/hplewis/emoji-slack) selection.
+ - A way to write things using the emojis from the [intuit-slack emoji](https://github.com/hplewis/emoji-slack) selection!
  ![](screenshot.png)
  - Race to foldable phone(https://gizmodo.com/the-race-to-foldable-phone-perfection-is-on-and-its-go-1832960403?utm_medium=socialflow&utm_source=gizmodo_twitter&utm_campaign=socialflow_gizmodo_twitter)
 ## AI by Elon Musk
@@ -195,9 +202,8 @@ Firefox has a great set of first issues to start learning how to work with their
 ## Devops
  - https://www.schoolofdevops.net/p/ultimate-devops-bootcamp - Free and a handson approach to get started
 
-
 ## Data Visualizations
-
+- https://www.jasondavies.com/ - Awesome interactive data visualizations
 
 ## Reinforcement Learning
 
@@ -210,6 +216,7 @@ Active Opensource libraries for Reinforcement Learning Research
 - [Get Shwifty](https://www.youtube.com/watch?v=7ecYoSvGO60)
 - [Omer Adam - Two crazy people](https://www.youtube.com/watch?v=WLMmX17D2uw)
 - [Everythinng is awesome](https://www.youtube.com/watch?v=StTqXEQ2l-Y)
+- [The Revenge Song - The Magic Flute](https://www.youtube.com/watch?v=YuBeBjqKSGQ)
 
 ## SELinux
 - http://selinuxproject.org
