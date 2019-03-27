@@ -12,6 +12,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 - https://github.com/Automation-Tools/karate-test-mojo -  Generate integration tests from springboot or jersey source code.
 - https://developers.google.com/web/fundamentals/performance/why-performance-matters - Why performance matters
 - https://pragprog.com/book/tpp/the-pragmatic-programmer - Timeless patterns for thinking about designing good software.
+- https://eloquentjavascript.net/ - This is a book about JavaScript, programming, and the wonders of the digital.
 
 ## Platforms
 
@@ -34,6 +35,9 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 - https://css-tricks.com/ - A front-end blog with up to date topics that release weekly
 - IDS Dropdown typeahead - When users need to select from a long list of options, use the drop-down typeahead. As soon as the user starts typing, the list changes to show suggestions that should get closer to what the user wants.
+- https://stateofjs.com/ - State of JS 2018
+- [Front End Happy Hour](https://frontendhappyhour.com) - A podcast featuring a panel of Software Engineers from Netflix, Evernote, Atlassian & LinkedIn talking over drinks about all things Front End development.
+
 
 ### Browsers
 
@@ -82,6 +86,10 @@ Firefox has a great set of first issues to start learning how to work with their
 - [Ender's Game](https://en.wikipedia.org/wiki/Ender%27s_Game)
 - [Ender's Shadow](https://en.wikipedia.org/wiki/Ender%27s_Shadow)
 - [Clean Code](https://www.oreilly.com/library/view/clean-code/9780136083238/)
+- [Ready Player One](https://en.wikipedia.org/wiki/Ready_Player_One)
+- https://github.com/Automation-Tools/karate-test-mojo -  Generate integration tests from springboot or jersey source code.
+- https://developers.google.com/web/fundamentals/performance/why-performance-matters - Why performance matters
+- https://pragprog.com/book/tpp/the-pragmatic-programmer - Timeless patterns for thinking about designing good software.
 
 ## Editors
 - [Emacs](https://www.gnu.org/software/emacs/) 
@@ -128,6 +136,11 @@ Firefox has a great set of first issues to start learning how to work with their
 ## Python
 - [Python Documentation](https://docs.python.org/3/)
 
+## Go
+- [Awesome Go](https://github.com/avelino/awesome-go)
+- [Go Style Guide](https://github.com/bahlo/go-styleguide)
+- [Project Layout](https://github.com/golang-standards/project-layout)
+
 ## Security
 - [Machine Learning for Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)
 - [Digital Identity](https://qz.com/1525661/your-digital-identity-has-three-layers-and-you-can-only-protect-one-of-them/)
@@ -151,7 +164,7 @@ Firefox has a great set of first issues to start learning how to work with their
 - [Intuit Twitter Handle](https://twitter.com/Intuit)
 
 ## Fun Customization
- - A way to write things using the emojis from the [intuit-slack emoji](https://github.com/hplewis/emoji-slack) selection.
+ - A way to write things using the emojis from the [intuit-slack emoji](https://github.com/hplewis/emoji-slack) selection!
  ![](screenshot.png)
  - Race to foldable phone(https://gizmodo.com/the-race-to-foldable-phone-perfection-is-on-and-its-go-1832960403?utm_medium=socialflow&utm_source=gizmodo_twitter&utm_campaign=socialflow_gizmodo_twitter)
 ## AI by Elon Musk
@@ -168,6 +181,9 @@ Firefox has a great set of first issues to start learning how to work with their
 
 ## React
 - [Official site](https://reactjs.org/)
+
+## Redux
+- [Official site](https://redux.js.org/)
 
 ## GraphQL
 - official [site](https://graphql.org/) 
@@ -189,12 +205,14 @@ Firefox has a great set of first issues to start learning how to work with their
 ## Observability 
 - https://en.wikipedia.org/wiki/Observability
 
+## Podcasts
+- [Anna Faris is Unqualified](https://www.unqualified.com/)
+
 ## Devops
  - https://www.schoolofdevops.net/p/ultimate-devops-bootcamp - Free and a handson approach to get started
 
-
 ## Data Visualizations
-
+- https://www.jasondavies.com/ - Awesome interactive data visualizations
 
 ## Reinforcement Learning
 
@@ -206,10 +224,16 @@ Active Opensource libraries for Reinforcement Learning Research
 - [Rolling Stone's Greatest Songs Of All Time](https://www.rollingstone.com/music/music-lists/500-greatest-songs-of-all-time-151127/)
 - [Get Shwifty](https://www.youtube.com/watch?v=7ecYoSvGO60)
 - [Omer Adam - Two crazy people](https://www.youtube.com/watch?v=WLMmX17D2uw)
+- [Happy](https://www.youtube.com/watch?v=ZbZSe6N_BXs)
 - [Everythinng is awesome](https://www.youtube.com/watch?v=StTqXEQ2l-Y)
 - [Shania Twain - Man! I Feel Like A Woman](https://www.youtube.com/watch?v=ZJL4UGSbeFg)
+- [Dubstep - Kill the Noise - Pt 1](https://youtu.be/jVfU1DY73Tk)
+- [The Revenge Song - The Magic Flute](https://www.youtube.com/watch?v=YuBeBjqKSGQ)
 
 ## SELinux
 - http://selinuxproject.org
+
+## Cool Youtube Channels 
+- https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw
 
 ## Write unit tests!
