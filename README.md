@@ -48,6 +48,7 @@ Firefox has a great set of first issues to start learning how to work with their
 - [Firefox Javascript debugger](https://github.com/firefox-devtools/debugger)
 
 #### Chrome
+- [React Dev Tools for Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en) Adds React debugging tools to the Chrome Developer Tools.
 
 ## crypto
 
