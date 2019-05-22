@@ -189,6 +189,7 @@ Firefox has a great set of first issues to start learning how to work with their
 - official [site](https://graphql.org/) 
 - [java](https://github.com/graphql-java/)
 - [TOOL](https://www.insomnia.rest/)
+- [GraphQL Error Handling Article](https://itnext.io/the-definitive-guide-to-handling-graphql-errors-e0c58b52b5e1) - How best to handle errors is something the GraphQL community is struggling to define a definitive pattern on. This article explains one implementation that might work for you!
 
 ## Laptops
 
