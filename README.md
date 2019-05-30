@@ -51,7 +51,8 @@ Firefox has a great set of first issues to start learning how to work with their
 
 #### Chrome
 
-## crypto
+## Crypto
+- [RustCrypto](https://github.com/RustCrypto) - Implementation of many crypto algorithms in Rust
 
 ## Hadoop Projects
 
