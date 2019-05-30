@@ -97,6 +97,12 @@ Firefox has a great set of first issues to start learning how to work with their
 - https://developers.google.com/web/fundamentals/performance/why-performance-matters - Why performance matters
 - https://pragprog.com/book/tpp/the-pragmatic-programmer - Timeless patterns for thinking about designing good software.
 - http://greenteapress.com/wp/think-java/ - Think Java
+- https://techdevguide.withgoogle.com/ - Google Tech Dev Guide
+
+## Course
+- Berkeley CS 61A - Structure and Interpretation of Computer Programs (Introduction to Computer Science) https://cs61a.org/
+- Berkeley CS 61B - Data Structures https://sp19.datastructur.es/
+- Berkeley CS61C - Introduction to Computer Architecture https://cs61c.org
 
 ## Editors
 - [Emacs](https://www.gnu.org/software/emacs/) 
