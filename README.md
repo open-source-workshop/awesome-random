@@ -32,6 +32,8 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 - [Java] (https://docs.oracle.com/javase/tutorial/)
 
+- [Haskell] (https://www.haskell.org/)
+
 
 ## Front-End Development
 
