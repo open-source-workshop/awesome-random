@@ -198,6 +198,7 @@ Firefox has a great set of first issues to start learning how to work with their
 - [TOOL](https://www.insomnia.rest/)
 
 ## Laptops
+- Stella here: MacBook Pro
 
 ## Design
  - [Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)
