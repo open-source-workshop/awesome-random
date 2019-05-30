@@ -43,7 +43,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 ### Browsers
 
-#### Firefox
+#### Firefox (The Superior Browser)
 
 Firefox has a great set of first issues to start learning how to work with their codebase. Their debugger is written in javascript!
 
@@ -52,7 +52,7 @@ Firefox has a great set of first issues to start learning how to work with their
 #### Chrome
 
 ## crypto
-
+### DUMP IT
 ## Hadoop Projects
 
 ## AWS EMR Projects
