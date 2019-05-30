@@ -163,6 +163,7 @@ Firefox has a great set of first issues to start learning how to work with their
 ## Work
 - [Intuit](https://intuit.com)
 - [Intuit Israel](https://careers.intuit.com/country/israel)
+- [Intuit Australia](https://careers.intuit.com/country/australia)
 
 ## Networkinig
 
