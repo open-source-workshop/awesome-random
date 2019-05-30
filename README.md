@@ -114,6 +114,7 @@ Firefox has a great set of first issues to start learning how to work with their
 ## Development Environment
 
 - [VS Code](https://code.visualstudio.com/)
+- [Oh My Zsh](https://ohmyz.sh/)
 
 ## Entertainment
 - [Rotten Tomatoes](https://www.rottentomatoes.com/)
