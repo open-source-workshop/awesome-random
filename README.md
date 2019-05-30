@@ -147,6 +147,7 @@ Firefox has a great set of first issues to start learning how to work with their
 - [Awesome Go](https://github.com/avelino/awesome-go)
 - [Go Style Guide](https://github.com/bahlo/go-styleguide)
 - [Project Layout](https://github.com/golang-standards/project-layout)
+- [Go Report Card](https://goreportcard.com)
 
 ## Security
 - [Machine Learning for Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)
