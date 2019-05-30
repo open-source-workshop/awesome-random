@@ -192,6 +192,9 @@ Firefox has a great set of first issues to start learning how to work with their
 ## Redux
 - [Official site](https://redux.js.org/)
 
+## Jupyter
+- [Official site](https://jupyter.org/)
+
 ## GraphQL
 - official [site](https://graphql.org/) 
 - [java](https://github.com/graphql-java/)
