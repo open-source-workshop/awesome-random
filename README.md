@@ -85,6 +85,7 @@ Firefox has a great set of first issues to start learning how to work with their
 - [Property Graph - Gremlin](http://kelvinlawrence.net/book/Gremlin-Graph-Guide.html#whygraph) 
 
 ## Books
+- [Deep Learning Book](https://www.nceclusters.no/globalassets/filer/nce/diverse/the-pragmatic-programmer.pdf)
 - [The Pragmatic Programmer: From Journeyman to Master](https://www.nceclusters.no/globalassets/filer/nce/diverse/the-pragmatic-programmer.pdf)
 - [Don't Make Me Think](http://www.scottsdevelopers.com/dont-make-me-think-revisited.pdf)
 - [Algorithm Design Manual](http://www.algorist.com/) - Awesome collection of classic algorithms
@@ -243,5 +244,6 @@ Active Opensource libraries for Reinforcement Learning Research
 
 ## Cool Youtube Channels 
 - https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw
+- https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA
 
 ## Write unit tests!
