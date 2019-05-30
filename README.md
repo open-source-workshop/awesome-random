@@ -53,6 +53,9 @@ Firefox has a great set of first issues to start learning how to work with their
 
 ## crypto
 
+Good textbook for beginners - https://www.amazon.com/Cryptography-Practice-Discrete-Mathematics-Applications/dp/1584885084
+
+
 ## Hadoop Projects
 
 ## AWS EMR Projects
