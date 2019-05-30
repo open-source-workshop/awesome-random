@@ -214,6 +214,7 @@ Firefox has a great set of first issues to start learning how to work with their
 
 ## Podcasts
 - [Anna Faris is Unqualified](https://www.unqualified.com/)
+- StarTalk Radio, by Neil deGrasse Tyson (https://podcasts.apple.com/us/podcast/id325404506)
 
 ## Devops
  - https://www.schoolofdevops.net/p/ultimate-devops-bootcamp - Free and a handson approach to get started
