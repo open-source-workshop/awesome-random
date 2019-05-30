@@ -8,6 +8,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 - [Building TypeScript Projects with Bazel](https://blog.mgechev.com/2018/11/19/introduction-bazel-typescript-tutorial/) - a brief introduction to what Bazel is and how we can build our TypeScript projects with it
 
 ## Good Books
+Gone with the wind
 
 - https://github.com/Automation-Tools/karate-test-mojo -  Generate integration tests from springboot or jersey source code.
 - https://developers.google.com/web/fundamentals/performance/why-performance-matters - Why performance matters
