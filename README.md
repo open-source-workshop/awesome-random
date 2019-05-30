@@ -78,6 +78,7 @@ Firefox has a great set of first issues to start learning how to work with their
 
 ## MACHINE LEARNING
 - [Coursera Open Source ML Course](https://www.coursera.org/learn/machine-learning) - A free online course that people can take to learn about Machine Learning. It is from Stanford.
+- [IBM Watson Machine Learning](https://www.ibm.com/cloud/machine-learning)
 
 ## Theory
 - [What Every Computer Scientist Should Know About Floating Point Arithmetic](https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/02Numerics/Double/paper.pdf)
@@ -97,6 +98,7 @@ Firefox has a great set of first issues to start learning how to work with their
 - https://developers.google.com/web/fundamentals/performance/why-performance-matters - Why performance matters
 - https://pragprog.com/book/tpp/the-pragmatic-programmer - Timeless patterns for thinking about designing good software.
 - http://greenteapress.com/wp/think-java/ - Think Java
+- [Flatland - A Romance of Many Dimensions](https://en.wikipedia.org/wiki/Flatland)
 
 ## Editors
 - [Emacs](https://www.gnu.org/software/emacs/) 
