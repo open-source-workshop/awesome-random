@@ -65,6 +65,8 @@ Firefox has a great set of first issues to start learning how to work with their
 
 - [Big Data Article](https://journalofbigdata.springeropen.com/articles) - The Journal of Big Data publishes high-quality, scholarly research papers, methodologies and case studies covering a broad range of topics, from big data analytics to data-intensive computing and all applications of big data research.
 
+- [Data and userful information](https://www.kaggle.com/) - This website is good for beginners who want to learn big data and machine learning.
+
 ## MongoDB
 
 - [MongoDB Tutorial] (https://docs.mongodb.com/manual/tutorial/) - The MongoDB tutorials.
