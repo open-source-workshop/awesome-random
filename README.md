@@ -32,7 +32,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 - [Java] (https://docs.oracle.com/javase/tutorial/)
 
-- [avascript](https://www.javascript.com/)
+- [Javascript](https://www.javascript.com/)
 
 ## Front-End Development
 
