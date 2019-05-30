@@ -85,6 +85,7 @@ Firefox has a great set of first issues to start learning how to work with their
 - [Property Graph - Gremlin](http://kelvinlawrence.net/book/Gremlin-Graph-Guide.html#whygraph) 
 
 ## Books
+- [The Hitchhiker's Guide to the Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy), Always bring a towel.
 - [The Pragmatic Programmer: From Journeyman to Master](https://www.nceclusters.no/globalassets/filer/nce/diverse/the-pragmatic-programmer.pdf)
 - [Don't Make Me Think](http://www.scottsdevelopers.com/dont-make-me-think-revisited.pdf)
 - [Algorithm Design Manual](http://www.algorist.com/) - Awesome collection of classic algorithms
