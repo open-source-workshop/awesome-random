@@ -42,6 +42,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 
 ### Browsers
+- https://intuitcloud.sharepoint.com/Pages/home.aspx/ - insight
 
 #### Firefox
 
