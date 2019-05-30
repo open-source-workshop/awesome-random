@@ -97,6 +97,7 @@ Firefox has a great set of first issues to start learning how to work with their
 - https://developers.google.com/web/fundamentals/performance/why-performance-matters - Why performance matters
 - https://pragprog.com/book/tpp/the-pragmatic-programmer - Timeless patterns for thinking about designing good software.
 - http://greenteapress.com/wp/think-java/ - Think Java
+- [Neuromancer](https://en.wikipedia.org/wiki/Neuromancer) - Great scifi novel involving a computer hacker, AI, and cyberspace
 
 ## Editors
 - [Emacs](https://www.gnu.org/software/emacs/) 
@@ -163,8 +164,6 @@ Firefox has a great set of first issues to start learning how to work with their
 ## Work
 - [Intuit](https://intuit.com)
 - [Intuit Israel](https://careers.intuit.com/country/israel)
-
-## Networkinig
 
 ## Social Media
 - [Intuit Facebook Page](https://www.facebook.com/intuit/)
