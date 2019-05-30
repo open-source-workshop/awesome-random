@@ -13,6 +13,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 - https://developers.google.com/web/fundamentals/performance/why-performance-matters - Why performance matters
 - https://pragprog.com/book/tpp/the-pragmatic-programmer - Timeless patterns for thinking about designing good software.
 - https://eloquentjavascript.net/ - This is a book about JavaScript, programming, and the wonders of the digital.
+- Introduction to Algorithms, 3rd Edition (The MIT Press) - This is a book about Algorithms.
 
 ## Platforms
 
