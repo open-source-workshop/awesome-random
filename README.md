@@ -188,6 +188,7 @@ Firefox has a great set of first issues to start learning how to work with their
 
 ## React
 - [Official site](https://reactjs.org/)
+- [Bob Ziroll - Tutorial](https://scrimba.com/g/glearnreact)
 
 ## Redux
 - [Official site](https://redux.js.org/)
