@@ -78,6 +78,7 @@ Firefox has a great set of first issues to start learning how to work with their
 
 ## MACHINE LEARNING
 - [Coursera Open Source ML Course](https://www.coursera.org/learn/machine-learning) - A free online course that people can take to learn about Machine Learning. It is from Stanford.
+- [Neural Networks and Deep Learning Online Book] (http://neuralnetworksanddeeplearning.com/) - A free online book that includes a great theoretical introduction to neural networks.
 
 ## Theory
 - [What Every Computer Scientist Should Know About Floating Point Arithmetic](https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/02Numerics/Double/paper.pdf)
