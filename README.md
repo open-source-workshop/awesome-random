@@ -71,6 +71,7 @@ Firefox has a great set of first issues to start learning how to work with their
 
 ## Blockchain
 - [Blockchain definition](https://en.wikipedia.org/wiki/Blockchain)
+- [Princeton bitcoin book] (https://www.lopp.net/pdf/princeton_bitcoin_book.pdf)
 
 
 ## AI by Andrew NG
