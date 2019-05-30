@@ -220,6 +220,7 @@ Firefox has a great set of first issues to start learning how to work with their
 
 ## Data Visualizations
 - https://www.jasondavies.com/ - Awesome interactive data visualizations
+- https://d3js.org/
 
 ## Reinforcement Learning
 
