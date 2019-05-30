@@ -131,6 +131,7 @@ Firefox has a great set of first issues to start learning how to work with their
 - [Foremast - AI/ML Infrastructure Health Monitoring](https://github.com/intuit/foremast)
 
 ## Media
+- [ROODAY's Mixtape](https://play.google.com/music/playlist/AMaBXymNA7ffaknU8xxR4-Dbe8-cRINnKXC67Kefa2Cb-WyPwnyk4ST_9xCl_fsI6v-pxZ9PW680uiA_vImrxl53-Ant2I3fSw%3D%3D)
 
 ## Learn
 - [Clean Code by Robert Martin](https://www.amazon.ca/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM) - A book on good software development practices and writing clean code!
