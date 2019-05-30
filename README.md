@@ -99,7 +99,7 @@ Firefox has a great set of first issues to start learning how to work with their
 - http://greenteapress.com/wp/think-java/ - Think Java
 
 ## Editors
-- [Emacs](https://www.gnu.org/software/emacs/) 
+- [Emacs](https://www.gnu.org/software/emacs/)
 - [Vim](https://www.vim.org/) - edit text at the speed of thought ;)
 - [Visual Studio Code](https://code.visualstudio.com/) - great for front end development, Visual Studio Code Editor by Microsoft
 - [Neovim](https://neovim.io/) 
@@ -142,6 +142,9 @@ Firefox has a great set of first issues to start learning how to work with their
 
 ## Python
 - [Python Documentation](https://docs.python.org/3/)
+
+## Rust
+- [Rust Playground](https://play.rust-lang.org)
 
 ## Go
 - [Awesome Go](https://github.com/avelino/awesome-go)
