@@ -98,6 +98,7 @@ Firefox has a great set of first issues to start learning how to work with their
 - https://developers.google.com/web/fundamentals/performance/why-performance-matters - Why performance matters
 - https://pragprog.com/book/tpp/the-pragmatic-programmer - Timeless patterns for thinking about designing good software.
 - http://greenteapress.com/wp/think-java/ - Think Java
+- [The name of the wind](https://www.amazon.com/Name-Wind-Patrick-Rothfuss/dp/0756404746)
 
 ## Editors
 - [Emacs](https://www.gnu.org/software/emacs/) 
