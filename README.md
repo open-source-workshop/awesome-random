@@ -98,7 +98,7 @@ Firefox has a great set of first issues to start learning how to work with their
 - https://developers.google.com/web/fundamentals/performance/why-performance-matters - Why performance matters
 - https://pragprog.com/book/tpp/the-pragmatic-programmer - Timeless patterns for thinking about designing good software.
 - http://greenteapress.com/wp/think-java/ - Think Java
-
+- [Metaprogramming Ruby 2](https://pragprog.com/book/ppmetr2/metaprogramming-ruby-2)
 ## Editors
 - [Emacs](https://www.gnu.org/software/emacs/) 
 - [Vim](https://www.vim.org/) - edit text at the speed of thought ;)
