@@ -165,7 +165,7 @@ Firefox has a great set of first issues to start learning how to work with their
 - [Intuit](https://intuit.com)
 - [Intuit Israel](https://careers.intuit.com/country/israel)
 
-## Networkinig
+## Networking
 
 ## Social Media
 - [Intuit Facebook Page](https://www.facebook.com/intuit/)
