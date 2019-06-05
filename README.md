@@ -89,6 +89,7 @@ Firefox has a great set of first issues to start learning how to work with their
 - [The Pragmatic Programmer: From Journeyman to Master](https://www.nceclusters.no/globalassets/filer/nce/diverse/the-pragmatic-programmer.pdf)
 - [Don't Make Me Think](http://www.scottsdevelopers.com/dont-make-me-think-revisited.pdf)
 - [Algorithm Design Manual](http://www.algorist.com/) - Awesome collection of classic algorithms
+- [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844) - Classic   Algorithm book
 - [Code Complete, Second Edition](https://www.oreilly.com/library/view/code-complete-second/0735619670/)
 - [Ender's Game](https://en.wikipedia.org/wiki/Ender%27s_Game)
 - [Ender's Shadow](https://en.wikipedia.org/wiki/Ender%27s_Shadow)
