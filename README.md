@@ -164,6 +164,7 @@ Firefox has a great set of first issues to start learning how to work with their
 ## Content Management Systems
 
 ## Hardware
+- [Basic Computer Hardware](https://openlab.citytech.cuny.edu/com-basics/hardware-guide/)
 
 ## Business
 - [Greaterfool Blog. Canadian real estate and politics.](https://www.greaterfool.ca/)
