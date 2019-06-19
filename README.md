@@ -216,6 +216,7 @@ Firefox has a great set of first issues to start learning how to work with their
 
 ## Podcasts
 - [Anna Faris is Unqualified](https://www.unqualified.com/)
+- [Dissect - A Serialized Music Podcast](https://dissectpodcast.com/)
 
 ## Devops
  - https://www.schoolofdevops.net/p/ultimate-devops-bootcamp - Free and a handson approach to get started
