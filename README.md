@@ -31,6 +31,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 - [Java] (https://docs.oracle.com/javase/tutorial/)
 
+- [Julia] (https://julialang.org/)
 
 ## Front-End Development
 
