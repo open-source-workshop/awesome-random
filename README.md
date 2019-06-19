@@ -13,6 +13,9 @@ A not so curated and random list of amazingly awesome awesomeness.
 - https://pragprog.com/book/tpp/the-pragmatic-programmer - Timeless patterns for thinking about designing good software.
 - https://eloquentjavascript.net/ - This is a book about JavaScript, programming, and the wonders of the digital.
 
+## Deep Learning
+- https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd - Tensorflow without a phD
+
 ## Platforms
 
 ## Programming Languages
