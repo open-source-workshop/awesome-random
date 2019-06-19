@@ -253,6 +253,7 @@ Active Opensource libraries for Reinforcement Learning Research
 ## Cool Youtube Channels 
 - https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw
 - https://www.youtube.com/channel/UCodbH5mUeF-m_BsNueRDjcw
+- [MKBHD, all things tech] https://www.youtube.com/user/marquesbrownlee
 
 ## Write unit tests!
 
