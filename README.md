@@ -161,6 +161,7 @@ Firefox has a great set of first issues to start learning how to work with their
 
 ## Python
 - [Python Documentation](https://docs.python.org/3/)
+- [Python Virtual Environments: A Primer](https://realpython.com/python-virtual-environments-a-primer)
 
 ## Rust
 - [Rust Playground](https://play.rust-lang.org)
