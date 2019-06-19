@@ -13,6 +13,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 - https://pragprog.com/book/tpp/the-pragmatic-programmer - Timeless patterns for thinking about designing good software.
 - https://eloquentjavascript.net/ - This is a book about JavaScript, programming, and the wonders of the digital.
 -https://www.hackingtutorials.org/infosec-books/the-best-hacking-books-2018/
+-https://www.hackingtutorials.org/infosec-books/the-best-hacking-books-2018/
 
 ## Platforms
 
