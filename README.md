@@ -1,4 +1,4 @@
-# My awesome-random!!
+ My awesome-random!!
 ## Welcome 
 A not so curated and random list of amazingly awesome awesomeness.
 
@@ -120,6 +120,7 @@ Firefox has a great set of first issues to start learning how to work with their
 - [Rotten Tomatoes](https://www.rottentomatoes.com/)
 - [Plex](https://github.com/plexinc)
 - [Things to do in San Francisco](https://www.thrillist.com/entertainment/san-francisco/things-to-do-in-san-francisco)
+- [Things to do in San Diego](https://www.tripadvisor.com/Attractions-g60750-Activities-San_Diego_California.html)
 
 ## Databases
 
@@ -137,6 +138,8 @@ Firefox has a great set of first issues to start learning how to work with their
 ## Learn
 - [Clean Code by Robert Martin](https://www.amazon.ca/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM) - A book on good software development practices and writing clean code!
 - [GraphQL](https://graphql.org/)
+- [Safari Books Online](https://learning.oreilly.com/home/)
+- [Safari Books Online](https://learning.oreilly.com/home/)
 - [Safari Books Online](https://learning.oreilly.com/home/)
 - [Wes Bos: great video courses on Advanced React, GraphQL, ES6, CSS Grid, Javascript, Node, etc.](https://wesbos.com/courses/)
 - [Reactive Extensions](http://reactivex.io/intro.html)
@@ -233,8 +236,6 @@ Active Opensource libraries for Reinforcement Learning Research
  - OpenAI's [Baselines](https://github.com/openai/baselines)
  - Google's [Dopamine](https://github.com/google/dopamine)
 
-## Music
-- [Rolling Stone's Greatest Songs Of All Time](https://www.rollingstone.com/music/music-lists/500-greatest-songs-of-all-time-151127/)
 - [Get Shwifty](https://www.youtube.com/watch?v=7ecYoSvGO60)
 - [Omer Adam - Two crazy people](https://www.youtube.com/watch?v=WLMmX17D2uw)
 - [Happy](https://www.youtube.com/watch?v=ZbZSe6N_BXs)
