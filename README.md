@@ -38,7 +38,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 - IDS Dropdown typeahead - When users need to select from a long list of options, use the drop-down typeahead. As soon as the user starts typing, the list changes to show suggestions that should get closer to what the user wants.
 - https://stateofjs.com/ - State of JS 2018
 - [Front End Happy Hour](https://frontendhappyhour.com) - A podcast featuring a panel of Software Engineers from Netflix, Evernote, Atlassian & LinkedIn talking over drinks about all things Front End development.
-- https://material.angular.io - Angular Component library for frontend development. Easy to use, has great looking scalable components and few different themes.
+- https://material.angular.io - Angular Component library for frontend development. Easy to use, has great looking scalable components and few different themes. 
 
 ### Browsers
 
@@ -50,6 +50,7 @@ Firefox has a great set of first issues to start learning how to work with their
 
 #### Chrome
 - [React Dev Tools for Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en) Adds React debugging tools to the Chrome Developer Tools.
+- https://developers.google.com/web/tools/chrome-devtools/beginners/html - devtools for chome html
 
 ## crypto
 
