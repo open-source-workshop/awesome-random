@@ -1,4 +1,3 @@
-
 # My awesome-random!!
 ## Welcome 
 A not so curated and random list of amazingly awesome awesomeness.
@@ -245,6 +244,7 @@ Active Opensource libraries for Reinforcement Learning Research
 
 ## Cool Youtube Channels 
 - https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw
+- https://www.youtube.com/channel/UCodbH5mUeF-m_BsNueRDjcw
 
 ## Write unit tests!
 
