@@ -121,6 +121,7 @@ Firefox has a great set of first issues to start learning how to work with their
 - [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose
 - [Atom](https://atom.io/) - A text editor made by Github
 
+
 ## Gaming
 
 - [ULTIMATE GAMES WILL RELEASE PET CARE AND GUESS THE WORD FOR YOUNGER PLAYERS ON SWITCH](https://www.gonintendo.com/stories/328626-ultimate-games-will-release-pet-care-and-guess-the-word-for-young)
