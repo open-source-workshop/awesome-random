@@ -32,6 +32,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 - [Java] (https://docs.oracle.com/javase/tutorial/)
 
+- [Racket](https://racket-lang.org)
 
 ## Front-End Development
 
