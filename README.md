@@ -96,6 +96,7 @@ Firefox has a great set of first issues to start learning how to work with their
 - [What Every Computer Scientist Should Know About Floating Point Arithmetic](https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/02Numerics/Double/paper.pdf)
 - [An Axiomatic Basis for Computer Programming](https://www.cs.cmu.edu/~crary/819-f09/Hoare69.pdf)
 - [Property Graph - Gremlin](http://kelvinlawrence.net/book/Gremlin-Graph-Guide.html#whygraph) 
+- [Theory Of Computation](http://cglab.ca/~michiel/TheoryOfComputation/TheoryOfComputation.pdf)
 
 ## Books
 - [Deep Learning Book](https://www.nceclusters.no/globalassets/filer/nce/diverse/the-pragmatic-programmer.pdf)
