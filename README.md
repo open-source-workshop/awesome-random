@@ -77,6 +77,7 @@ Firefox has a great set of first issues to start learning how to work with their
 - [Deep learning by Andrew ng ](https://www.deeplearning.ai/)
 
 ## MACHINE LEARNING
+- [Google Teachable Machine](https://teachablemachine.withgoogle.com/) - A free, interactive exploration into machine learning geared for kids from Google.
 - [Coursera Open Source ML Course](https://www.coursera.org/learn/machine-learning) - A free online course that people can take to learn about Machine Learning. It is from Stanford.
 
 ## Spring Boot
