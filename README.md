@@ -29,7 +29,9 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 - [Rust](https://www.rust-lang.org/learn) - Rust as a language is different. Not because of its fancy syntax or welcoming community, but because of the confidence one gains when writing a program in it. 
 
-- [Java] (https://docs.oracle.com/javase/tutorial/)
+- [Java](https://docs.oracle.com/javase/tutorial/)
+
+- [Esoteric Programming Languages](https://en.wikipedia.org/wiki/Esoteric_programming_language) (Good for some laughes)
 
 
 ## Front-End Development
