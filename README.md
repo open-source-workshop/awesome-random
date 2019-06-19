@@ -143,6 +143,7 @@ Firefox has a great set of first issues to start learning how to work with their
 
 ## Python
 - [Python Documentation](https://docs.python.org/3/)
+- [Python Editor](https://jupyter.org/install)
 
 ## Go
 - [Awesome Go](https://github.com/avelino/awesome-go)
