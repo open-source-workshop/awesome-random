@@ -36,6 +36,8 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 - [Esoteric Programming Languages](https://en.wikipedia.org/wiki/Esoteric_programming_language) (Good for some laughes)
 
+- [Swift](https://developer.apple.com/swift/)
+
 
 ## Front-End Development
 
