@@ -38,6 +38,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 - [Swift](https://developer.apple.com/swift/)
 
+- [Julia] (https://julialang.org/)
 
 ## Front-End Development
 
