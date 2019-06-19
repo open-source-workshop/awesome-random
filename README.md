@@ -131,6 +131,7 @@ Firefox has a great set of first issues to start learning how to work with their
 ## Development Environment
 
 - [VS Code](https://code.visualstudio.com/)
+- [Eclipse](https://www.eclipse.org/downloads/)
 - [Oh My Zsh](https://ohmyz.sh/)
 
 ## Entertainment
