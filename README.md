@@ -252,6 +252,8 @@ Active Opensource libraries for Reinforcement Learning Research
 ## Productivity
 -  https://github.com/helmus/Jira-Hot-Linker - Jira HotLinker, quick access to Jira metadata when hovering over ticket numbers on github or other sites!
 
+## Package Managers
+- [Homebrew (Mac)](https://brew.sh/)
 
 
 
