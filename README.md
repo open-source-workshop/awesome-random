@@ -51,7 +51,8 @@ Firefox has a great set of first issues to start learning how to work with their
 #### Chrome
 - [React Dev Tools for Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en) Adds React debugging tools to the Chrome Developer Tools.
 
-## crypto
+## Crypto
+- [RustCrypto](https://github.com/RustCrypto) - Implementation of many crypto algorithms in Rust
 
 ## Hadoop Projects
 
