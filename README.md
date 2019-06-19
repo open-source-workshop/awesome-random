@@ -115,7 +115,7 @@ Firefox has a great set of first issues to start learning how to work with their
 ## Development Environment
 
 - [VS Code](https://code.visualstudio.com/)
-
+- [Eclipse](https://www.eclipse.org/downloads/)
 ## Entertainment
 - [Rotten Tomatoes](https://www.rottentomatoes.com/)
 - [Plex](https://github.com/plexinc)
