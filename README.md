@@ -104,6 +104,7 @@ Firefox has a great set of first issues to start learning how to work with their
 - [Visual Studio Code](https://code.visualstudio.com/) - great for front end development, Visual Studio Code Editor by Microsoft
 - [Neovim](https://neovim.io/) 
 - [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose
+- [Brackets](http://brackets.io/) - An open source text editor that's great for web development, live prototyping as you code!
 
 ## Gaming
 
