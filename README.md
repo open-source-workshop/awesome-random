@@ -1,4 +1,3 @@
-
 # My awesome-random!!
 ## Welcome 
 A not so curated and random list of amazingly awesome awesomeness.
@@ -30,7 +29,9 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 - [Rust](https://www.rust-lang.org/learn) - Rust as a language is different. Not because of its fancy syntax or welcoming community, but because of the confidence one gains when writing a program in it. 
 
-- [Java] (https://docs.oracle.com/javase/tutorial/)
+- [Java](https://docs.oracle.com/javase/tutorial/)
+
+- [Esoteric Programming Languages](https://en.wikipedia.org/wiki/Esoteric_programming_language) (Good for some laughes)
 
 
 ## Front-End Development
@@ -39,7 +40,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 - IDS Dropdown typeahead - When users need to select from a long list of options, use the drop-down typeahead. As soon as the user starts typing, the list changes to show suggestions that should get closer to what the user wants.
 - https://stateofjs.com/ - State of JS 2018
 - [Front End Happy Hour](https://frontendhappyhour.com) - A podcast featuring a panel of Software Engineers from Netflix, Evernote, Atlassian & LinkedIn talking over drinks about all things Front End development.
-
+- https://material.angular.io - Angular Component library for frontend development. Easy to use, has great looking scalable components and few different themes.
 
 ### Browsers
 
@@ -50,8 +51,10 @@ Firefox has a great set of first issues to start learning how to work with their
 - [Firefox Javascript debugger](https://github.com/firefox-devtools/debugger)
 
 #### Chrome
+- [React Dev Tools for Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en) Adds React debugging tools to the Chrome Developer Tools.
 
-## crypto
+## Crypto
+- [RustCrypto](https://github.com/RustCrypto) - Implementation of many crypto algorithms in Rust
 
 ## Hadoop Projects
 
@@ -79,6 +82,9 @@ Firefox has a great set of first issues to start learning how to work with their
 ## MACHINE LEARNING
 - [Coursera Open Source ML Course](https://www.coursera.org/learn/machine-learning) - A free online course that people can take to learn about Machine Learning. It is from Stanford.
 
+## Spring Boot
+- [Spring Boot by Baeldung](https://www.baeldung.com/spring-boot) - A free online website that people can use for learning spring boot with examples.
+
 ## Theory
 - [What Every Computer Scientist Should Know About Floating Point Arithmetic](https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/02Numerics/Double/paper.pdf)
 - [An Axiomatic Basis for Computer Programming](https://www.cs.cmu.edu/~crary/819-f09/Hoare69.pdf)
@@ -100,7 +106,7 @@ Firefox has a great set of first issues to start learning how to work with their
 - http://greenteapress.com/wp/think-java/ - Think Java
 
 ## Editors
-- [Emacs](https://www.gnu.org/software/emacs/) 
+- [Emacs](https://www.gnu.org/software/emacs/)
 - [Vim](https://www.vim.org/) - edit text at the speed of thought ;)
 - [Visual Studio Code](https://code.visualstudio.com/) - great for front end development, Visual Studio Code Editor by Microsoft
 - [Neovim](https://neovim.io/) 
@@ -115,6 +121,7 @@ Firefox has a great set of first issues to start learning how to work with their
 ## Development Environment
 
 - [VS Code](https://code.visualstudio.com/)
+- [Oh My Zsh](https://ohmyz.sh/)
 
 ## Entertainment
 - [Rotten Tomatoes](https://www.rottentomatoes.com/)
@@ -126,6 +133,7 @@ Firefox has a great set of first issues to start learning how to work with their
 - [Importing Graph data into Neo4j](https://neo4j.com/developer/example-data/)
 - [Apache TinkerPop Tutorial](https://kelvinlawrence.net/book/Gremlin-Graph-Guide.html)
 - [Sybase](https://www.sap.com/products/sybase-ase.html)
+- [SQL Tutorial](https://www.w3schools.com/sql/)
 
 ## Cloud Infrastructure and Kubernetes
 - [KAtlas - Multi-Cluster Discoverability and Auditability](https://github.com/intuit/katlas)
@@ -143,6 +151,9 @@ Firefox has a great set of first issues to start learning how to work with their
 
 ## Python
 - [Python Documentation](https://docs.python.org/3/)
+
+## Rust
+- [Rust Playground](https://play.rust-lang.org)
 
 ## Go
 - [Awesome Go](https://github.com/avelino/awesome-go)
@@ -197,6 +208,7 @@ Firefox has a great set of first issues to start learning how to work with their
 - official [site](https://graphql.org/) 
 - [java](https://github.com/graphql-java/)
 - [TOOL](https://www.insomnia.rest/)
+- [GraphQL Error Handling Article](https://itnext.io/the-definitive-guide-to-handling-graphql-errors-e0c58b52b5e1) - How best to handle errors is something the GraphQL community is struggling to define a definitive pattern on. This article explains one implementation that might work for you!
 
 ## Laptops
 
@@ -245,5 +257,14 @@ Active Opensource libraries for Reinforcement Learning Research
 ## Cool Youtube Channels 
 - https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw
 - https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA
+- https://www.youtube.com/channel/UCodbH5mUeF-m_BsNueRDjcw
 
 ## Write unit tests!
+
+
+## Productivity
+-  https://github.com/helmus/Jira-Hot-Linker - Jira HotLinker, quick access to Jira metadata when hovering over ticket numbers on github or other sites!
+
+
+
+
