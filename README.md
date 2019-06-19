@@ -74,7 +74,7 @@ Firefox has a great set of first issues to start learning how to work with their
 
 ## Blockchain
 - [Blockchain definition](https://en.wikipedia.org/wiki/Blockchain)
-
+- [Solidity tutorial] (https://solidity.readthedocs.io/en/v0.5.8/)
 
 ## AI by Andrew NG
 - [Deep learning by Andrew ng ](https://www.deeplearning.ai/)
