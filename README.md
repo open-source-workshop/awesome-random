@@ -120,6 +120,7 @@ Firefox has a great set of first issues to start learning how to work with their
 - [Neovim](https://neovim.io/) 
 - [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose
 - [Atom](https://atom.io/) - A text editor made by Github
+- [Notepad++](https://notepad-plus-plus.org/) - Only use the best text editor
 
 
 ## Gaming
