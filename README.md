@@ -38,6 +38,8 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 - [Swift](https://developer.apple.com/swift/)
 
+- [Haskell] (https://www.haskell.org/)
+
 
 ## Front-End Development
 
