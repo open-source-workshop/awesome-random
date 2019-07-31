@@ -77,7 +77,7 @@ Firefox has a great set of first issues to start learning how to work with their
 
 ## MongoDB
 
-- [MongoDB Tutorial] (https://docs.mongodb.com/manual/tutorial/) - The MongoDB tutorials.
+- [MongoDB Tutorial](https://docs.mongodb.com/manual/tutorial/) - The MongoDB tutorials.
 
 ## Blockchain
 - [Blockchain definition](https://en.wikipedia.org/wiki/Blockchain)
@@ -224,10 +224,10 @@ Firefox has a great set of first issues to start learning how to work with their
 
 ## Design
  - [Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)
- - [Refactoring][https://refactoring.guru/refactoring]
+ - [Refactoring](https://refactoring.guru/refactoring)
 
-- [MacBook] (www.apple.com)
-- [Windows] (www.microsoft.com)
+- [MacBook](www.apple.com)
+- [Windows](www.microsoft.com)
 
 ## Android Things 
 - https://developer.android.com/things/get-started/kits 
