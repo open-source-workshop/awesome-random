@@ -145,6 +145,10 @@ Firefox has a great set of first issues to start learning how to work with their
 - [Sybase](https://www.sap.com/products/sybase-ase.html)
 - [SQL Tutorial](https://www.w3schools.com/sql/)
 
+## NoSQL Databases
+- [Cassandra Tutorial](https://cassandra.apache.org/)
+
+
 ## Cloud Infrastructure and Kubernetes
 - [KAtlas - Multi-Cluster Discoverability and Auditability](https://github.com/intuit/katlas)
 - [Foremast - AI/ML Infrastructure Health Monitoring](https://github.com/intuit/foremast)
