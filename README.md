@@ -158,7 +158,7 @@ Firefox has a great set of first issues to start learning how to work with their
 - [Wes Bos: great video courses on Advanced React, GraphQL, ES6, CSS Grid, Javascript, Node, etc.](https://wesbos.com/courses/)
 - [Reactive Extensions](http://reactivex.io/intro.html)
 - [Lightbot](https://itunes.apple.com/us/app/lightbot-programming-puzzles/id657638474)
-
+- [The Log - real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 ## Python
 - [Python Documentation](https://docs.python.org/3/)
 
