@@ -148,6 +148,8 @@ Firefox has a great set of first issues to start learning how to work with their
 ## Cloud Infrastructure and Kubernetes
 - [KAtlas - Multi-Cluster Discoverability and Auditability](https://github.com/intuit/katlas)
 - [Foremast - AI/ML Infrastructure Health Monitoring](https://github.com/intuit/foremast)
+- [Kubernetes Playground](https://www.katacoda.com/courses/kubernetes/playground)
+- [Kubernetes blog posts](https://thenewstack.io/category/kubernetes/)
 
 ## Media
 
