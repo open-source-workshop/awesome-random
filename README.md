@@ -112,7 +112,7 @@ Firefox has a great set of first issues to start learning how to work with their
 - https://developers.google.com/web/fundamentals/performance/why-performance-matters - Why performance matters
 - https://pragprog.com/book/tpp/the-pragmatic-programmer - Timeless patterns for thinking about designing good software.
 - http://greenteapress.com/wp/think-java/ - Think Java
-- [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems By Martin Kleppmann] (http://shop.oreilly.com/product/0636920032175.do)
+- [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems By Martin Kleppmann](http://shop.oreilly.com/product/0636920032175.do)
 
 ## Editors
 - [Emacs](https://www.gnu.org/software/emacs/)
