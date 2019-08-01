@@ -88,6 +88,7 @@ Firefox has a great set of first issues to start learning how to work with their
 
 ## MACHINE LEARNING
 - [Coursera Open Source ML Course](https://www.coursera.org/learn/machine-learning) - A free online course that people can take to learn about Machine Learning. It is from Stanford.
+- https://www.deeplearning.ai/machine-learning-yearning/ - A book by Andrew Ng that teaches techniques for measuring, understanding and improving performance of ML methods.
 
 ## Spring Boot
 - [Spring Boot by Baeldung](https://www.baeldung.com/spring-boot) - A free online website that people can use for learning spring boot with examples.
