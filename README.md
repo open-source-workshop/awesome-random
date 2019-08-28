@@ -168,6 +168,7 @@ Firefox has a great set of first issues to start learning how to work with their
 - [Wes Bos: great video courses on Advanced React, GraphQL, ES6, CSS Grid, Javascript, Node, etc.](https://wesbos.com/courses/)
 - [Reactive Extensions](http://reactivex.io/intro.html)
 - [Lightbot](https://itunes.apple.com/us/app/lightbot-programming-puzzles/id657638474)
+- [Learn Git Branching] (https://learngitbranching.js.org/) - visual and interactive way to learn Git on the web
 
 ## Python
 - [Python Documentation](https://docs.python.org/3/)
