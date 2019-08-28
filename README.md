@@ -218,6 +218,7 @@ Firefox has a great set of first issues to start learning how to work with their
 
 ## React
 - [Official site](https://reactjs.org/)
+- [Intro to using hooks](https://reactjs.org/docs/hooks-intro.html)
 
 ## Redux
 - [Official site](https://redux.js.org/)
