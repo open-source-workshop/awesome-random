@@ -6,6 +6,9 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 - [Building TypeScript Projects with Bazel](https://blog.mgechev.com/2018/11/19/introduction-bazel-typescript-tutorial/) - a brief introduction to what Bazel is and how we can build our TypeScript projects with it
 
+## Coding Camps
+- [FreeCodeCamp](www.freecodecamp.org) - an awesome bootcamp to hone your programming skills, whether you're a complete beginner or a seasoned master. It has a TON of material and is free!
+
 ## Good Books
 
 - https://github.com/Automation-Tools/karate-test-mojo -  Generate integration tests from springboot or jersey source code.
@@ -292,7 +295,3 @@ Active Opensource libraries for Reinforcement Learning Research
 
 ## Productivity
 -  https://github.com/helmus/Jira-Hot-Linker - Jira HotLinker, quick access to Jira metadata when hovering over ticket numbers on github or other sites!
-
-
-
-
