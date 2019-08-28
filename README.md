@@ -8,6 +8,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 ## Good Books
 
+- https://www.oreilly.com/library/view/effective-java-3rd/9780134686097/ - Effective Java 3rd edition - Must Read for Java devs.
 - https://github.com/Automation-Tools/karate-test-mojo -  Generate integration tests from springboot or jersey source code.
 - https://developers.google.com/web/fundamentals/performance/why-performance-matters - Why performance matters
 - https://pragprog.com/book/tpp/the-pragmatic-programmer - Timeless patterns for thinking about designing good software.
