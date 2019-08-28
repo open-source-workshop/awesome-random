@@ -49,6 +49,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 - [Front End Happy Hour](https://frontendhappyhour.com) - A podcast featuring a panel of Software Engineers from Netflix, Evernote, Atlassian & LinkedIn talking over drinks about all things Front End development.
 - https://materializecss.com/ - A responsive front-end framework
 - https://material.angular.io - Angular Component library for frontend development. Easy to use, has great looking scalable components and few different themes.
+- https://frontendmasters.com/ - A great resource that provides front-end courses 
 
 
 ### Browsers
