@@ -40,6 +40,9 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 - [Swift](https://developer.apple.com/swift/)
 
+## Esoteric Programming Languages
+
+- [Piet](http://www.dangermouse.net/esoteric/piet.html) - Piet is a language in which programs look like abstract paintings. It uses 20 colors, of which 18 are related cyclically through a lightness cycle and a hue cycle. A single stack is used for data storage, together with some unusual operations.
 
 ## Front-End Development
  
