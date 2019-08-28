@@ -215,7 +215,7 @@ Firefox has a great set of first issues to start learning how to work with their
 - [Task Switching](https://www.joelonsoftware.com/2001/02/12/human-task-switches-considered-harmful/) - An interesting write-up on why task switching is so costly for engineers
 
 ## ES6
-
+- [New Features and Comparisons] (http://es6-features.org/)
 ## React
 - [Official site](https://reactjs.org/)
 
