@@ -288,6 +288,7 @@ Active Opensource libraries for Reinforcement Learning Research
 
 
 ## Write unit tests!
+- [A quick guide for Python](https://docs.python-guide.org/writing/tests/)
 
 
 ## Productivity
