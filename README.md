@@ -40,6 +40,8 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 - [Swift](https://developer.apple.com/swift/)
 
+- [TypeScript](https://www.typescriptlang.org/) is a typed superset of JavaScript that compiles to plain JavaScript.
+
 
 ## Front-End Development
  
