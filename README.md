@@ -265,6 +265,7 @@ Active Opensource libraries for Reinforcement Learning Research
  - Google's [Dopamine](https://github.com/google/dopamine)
 
 ## Music
+- [Aimer - Kataomoi](https://www.youtube.com/watch?v=zSOJk7ggJts)
 - [Rolling Stone's Greatest Songs Of All Time](https://www.rollingstone.com/music/music-lists/500-greatest-songs-of-all-time-151127/)
 - [Get Shwifty](https://www.youtube.com/watch?v=7ecYoSvGO60)
 - [Omer Adam - Two crazy people](https://www.youtube.com/watch?v=WLMmX17D2uw)
