@@ -158,6 +158,7 @@ Firefox has a great set of first issues to start learning how to work with their
 - [SQL Tutorial](https://www.w3schools.com/sql/)
 
 ## Cloud Infrastructure and Kubernetes
+- [Kubernetes Basics - Walkthrough Tutorial](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
 - [KAtlas - Multi-Cluster Discoverability and Auditability](https://github.com/intuit/katlas)
 - [Foremast - AI/ML Infrastructure Health Monitoring](https://github.com/intuit/foremast)
 
