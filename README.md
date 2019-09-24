@@ -279,6 +279,7 @@ Active Opensource libraries for Reinforcement Learning Research
 - [ROODAY's Mixtape](https://play.google.com/music/playlist/AMaBXymNA7ffaknU8xxR4-Dbe8-cRINnKXC67Kefa2Cb-WyPwnyk4ST_9xCl_fsI6v-pxZ9PW680uiA_vImrxl53-Ant2I3fSw%3D%3D)
 - [Old Town Road](https://www.youtube.com/watch?v=w2Ov5jzm3j8)
 - [King Princess - 1950](https://www.youtube.com/watch?v=LNxWTS25Tbk)
+- [Rick Atley - Never Gonna Give You Up] (https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## SELinux
 - http://selinuxproject.org
