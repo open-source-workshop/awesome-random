@@ -13,6 +13,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 - https://pragprog.com/book/tpp/the-pragmatic-programmer - Timeless patterns for thinking about designing good software.
 - https://eloquentjavascript.net/ - This is a book about JavaScript, programming, and the wonders of the digital.
 - https://csapp.cs.cmu.edu/ - Greate book for Computer Systems
+- https://www.goodreads.com/book/show/70156.Patterns_of_Enterprise_Application_Architecture - Good book on design patterns.
 
 ## Deep Learning
 - https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd - Tensorflow without a phD
