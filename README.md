@@ -47,8 +47,10 @@ A not so curated and random list of amazingly awesome awesomeness.
 - IDS Dropdown typeahead - When users need to select from a long list of options, use the drop-down typeahead. As soon as the user starts typing, the list changes to show suggestions that should get closer to what the user wants.
 - https://stateofjs.com/ - State of JS 2018
 - [Front End Happy Hour](https://frontendhappyhour.com) - A podcast featuring a panel of Software Engineers from Netflix, Evernote, Atlassian & LinkedIn talking over drinks about all things Front End development.
+- [VueJS Documentation](https://vuejs.org/v2/guide/) - This is a new JavaScript framework and is maintained by an open sourced community!
 - https://materializecss.com/ - A responsive front-end framework
 - https://material.angular.io - Angular Component library for frontend development. Easy to use, has great looking scalable components and few different themes.
+
 
 
 ### Browsers
