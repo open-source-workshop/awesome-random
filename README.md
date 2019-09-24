@@ -134,6 +134,9 @@ Firefox has a great set of first issues to start learning how to work with their
 - [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose
 - [Atom](https://atom.io/) - A text editor made by Github
 
+## Git Clients
+- [Sublime Merge](https://www.sublimemerge.com) - Git Client, done Sublime - A new Git Client, from the makers of Sublime Text
+
 
 ## Gaming
 
