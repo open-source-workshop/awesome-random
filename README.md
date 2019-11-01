@@ -248,6 +248,7 @@ Firefox has a great set of first issues to start learning how to work with their
 
 ## Podcasts
 - [Anna Faris is Unqualified](https://www.unqualified.com/)
+- [The Daily](https://www.nytimes.com/column/the-daily)
 
 ## Ted Talks
 - [Change your mindset, change the game | Dr. Alia Crum | TEDxTraverseCity](https://www.youtube.com/watch?v=0tqq66zwa7g) - She explores scientific results that show the influence of the mindset on the body, and how changing the subjective mindset produced different outcomes.
