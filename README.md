@@ -291,13 +291,10 @@ Active Opensource libraries for Reinforcement Learning Research
 - https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA
 - https://www.youtube.com/channel/UCodbH5mUeF-m_BsNueRDjcw
 
+## Real World Applications Examples
+- https://github.com/gothinkster/realworld
 
 ## Write unit tests!
 
-
 ## Productivity
 -  https://github.com/helmus/Jira-Hot-Linker - Jira HotLinker, quick access to Jira metadata when hovering over ticket numbers on github or other sites!
-
-
-
-
