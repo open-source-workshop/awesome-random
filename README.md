@@ -18,7 +18,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 - https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd - Tensorflow without a phD
 
 ## Platforms
-
+- Stuff
 ## Programming Languages
 
 - https://kotlinlang.org/ - Kotlin is a cross-platform, statically typed, general-purpose programming language with type inference (From [Wikipedia](https://en.wikipedia.org/wiki/Kotlin_(programming_language))).
