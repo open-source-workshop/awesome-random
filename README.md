@@ -141,8 +141,9 @@ Firefox has a great set of first issues to start learning how to work with their
 - [Video game reviews and fun times](https://videochums.com/)
 - [CM 2001/2 - Best Game EVER!](https://www.fmscout.com/a-championship-manager-0102-free-download.html)
 
-## Development Environment
 
+## Development Environment
+- [Godot Game Engine](https://godotengine.org/)
 - [VS Code](https://code.visualstudio.com/)
 - [Oh My Zsh](https://ohmyz.sh/)
 
@@ -218,6 +219,10 @@ Firefox has a great set of first issues to start learning how to work with their
 - [Task Switching](https://www.joelonsoftware.com/2001/02/12/human-task-switches-considered-harmful/) - An interesting write-up on why task switching is so costly for engineers
 
 ## ES6
+
+## p5js
+
+- [Official site](https://p5js.org/)
 
 ## React
 - [Official site](https://reactjs.org/)
