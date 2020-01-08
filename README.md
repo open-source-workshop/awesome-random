@@ -16,14 +16,15 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 ## Deep Learning
 - https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd - Tensorflow without a phD
-
+- [Deep Learning by Ian Goodfellow](https://www.deeplearningbook.org)
 ## Platforms
-- Stuff
+
 ## Programming Languages
 
 - https://kotlinlang.org/ - Kotlin is a cross-platform, statically typed, general-purpose programming language with type inference (From [Wikipedia](https://en.wikipedia.org/wiki/Kotlin_(programming_language))).
 - [jest](https://jestjs.io/) -learn jest
 - [Python - Deep Dive](http://histo.ucsf.edu/BMS270/diveintopython3-r802.pdf) - Best book for starters
+
 
 - [Go](https://golang.org/) - Go is an open source programming language that makes it easy to build simple, reliable, and efficient software (From [golang](https://golang.org/)).
 
