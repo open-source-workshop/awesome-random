@@ -178,6 +178,9 @@ Firefox has a great set of first issues to start learning how to work with their
 ## Rust
 - [Rust Playground](https://play.rust-lang.org)
 
+##Star Citizen
+- [Star Citizen homepage](https://robertsspaceindustries.com/)
+
 ## Go
 - [Awesome Go](https://github.com/avelino/awesome-go)
 - [Go Style Guide](https://github.com/bahlo/go-styleguide)
