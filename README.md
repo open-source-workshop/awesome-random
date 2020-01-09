@@ -296,7 +296,7 @@ Active Opensource libraries for Reinforcement Learning Research
 
 
 ## Write unit tests!
-
+- https://blog.stevensanderson.com/2009/08/24/writing-great-unit-tests-best-and-worst-practises/
 
 ## Productivity
 -  https://github.com/helmus/Jira-Hot-Linker - Jira HotLinker, quick access to Jira metadata when hovering over ticket numbers on github or other sites!
