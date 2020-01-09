@@ -258,7 +258,7 @@ Firefox has a great set of first issues to start learning how to work with their
 - [TDD, Where did it all go wrong? | Ian Cooper])(https://www.youtube.com/watch?v=EZ05e7EMOLM) - learn how to structure your unit tests so that your code is refactorable and maintainable.
 
 ## Devops
- - https://www.schoolofdevops.net/p/ultimate-devops-bootcamp - Free and a handson approach to get started
+ - https://www.schoolofdevops.net/p/ultimate-devops-bootcamp - Free and a hands on approach to get started
 
 ## Data Visualizations
 - https://www.jasondavies.com/ - Awesome interactive data visualizations
