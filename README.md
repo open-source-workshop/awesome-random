@@ -230,6 +230,7 @@ Firefox has a great set of first issues to start learning how to work with their
 - [java](https://github.com/graphql-java/)
 - [TOOL](https://www.insomnia.rest/)
 - [GraphQL Error Handling Article](https://itnext.io/the-definitive-guide-to-handling-graphql-errors-e0c58b52b5e1) - How best to handle errors is something the GraphQL community is struggling to define a definitive pattern on. This article explains one implementation that might work for you!
+- [kgraphql](https://github.com/aPureBase/KGraphQL) KGraphQL is Kotlin implementation of GraphQL. It provides rich DSL to setup GraphQL schema.
 
 ## Laptops
 
