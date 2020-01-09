@@ -148,6 +148,7 @@ Firefox has a great set of first issues to start learning how to work with their
 
 - [VS Code](https://code.visualstudio.com/)
 - [Oh My Zsh](https://ohmyz.sh/)
+- [Eclipse](https://eclipse.org/)
 
 ## Entertainment
 - [Rotten Tomatoes](https://www.rottentomatoes.com/)
