@@ -183,6 +183,12 @@ Firefox has a great set of first issues to start learning how to work with their
 - [Go Style Guide](https://github.com/bahlo/go-styleguide)
 - [Project Layout](https://github.com/golang-standards/project-layout)
 
+## Scala
+Scala Guide (https://danielwestheide.com/books/the-neophytes-guide-to-scala/)
+
+## Kafka 
+Kafka Introduction (https://medium.com/@danielsamfdo/journey-into-kafka-part-e02a90a04255)
+
 ## Security
 - [Machine Learning for Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)
 - [Digital Identity](https://qz.com/1525661/your-digital-identity-has-three-layers-and-you-can-only-protect-one-of-them/)
