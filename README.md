@@ -149,6 +149,7 @@ Firefox has a great set of first issues to start learning how to work with their
 ## Development Environment
 
 - [VS Code](https://code.visualstudio.com/)
+- [Intellij] (https://www.jetbrains.com/idea/)
 - [Oh My Zsh](https://ohmyz.sh/)
 - [Eclipse](https://eclipse.org/)
 
