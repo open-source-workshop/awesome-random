@@ -148,6 +148,7 @@ Firefox has a great set of first issues to start learning how to work with their
 
 - [VS Code](https://code.visualstudio.com/)
 - [Oh My Zsh](https://ohmyz.sh/)
+- [Eclipse](https://eclipse.org/)
 
 ## Entertainment
 - [Rotten Tomatoes](https://www.rottentomatoes.com/)
@@ -160,6 +161,7 @@ Firefox has a great set of first issues to start learning how to work with their
 - [Apache TinkerPop Tutorial](https://kelvinlawrence.net/book/Gremlin-Graph-Guide.html)
 - [Sybase](https://www.sap.com/products/sybase-ase.html)
 - [SQL Tutorial](https://www.w3schools.com/sql/)
+- [SQLite](https://sqlite.org/index.html)
 
 ## Cloud Infrastructure and Kubernetes
 - [KAtlas - Multi-Cluster Discoverability and Auditability](https://github.com/intuit/katlas)
@@ -261,7 +263,7 @@ Firefox has a great set of first issues to start learning how to work with their
 - [TDD, Where did it all go wrong? | Ian Cooper](https://www.youtube.com/watch?v=EZ05e7EMOLM) - learn how to structure your unit tests so that your code is refactorable and maintainable.
 
 ## Devops
- - https://www.schoolofdevops.net/p/ultimate-devops-bootcamp - Free and a handson approach to get started
+ - https://www.schoolofdevops.net/p/ultimate-devops-bootcamp - Free and a hands on approach to get started
 
 ## Data Visualizations
 - https://www.jasondavies.com/ - Awesome interactive data visualizations
@@ -310,5 +312,5 @@ Active Opensource libraries for Reinforcement Learning Research
 ## Tech Leadership
 - https://softwareleadweekly.com/ - newsletter with a nice digest every week of thought-provoking articles, Tweet threads, etc. that can help take your leadership skills and team to the next level
 
-
-
+## Performance Testing
+- [Gatling] (https://gatling.io/)
