@@ -180,6 +180,7 @@ Firefox has a great set of first issues to start learning how to work with their
 
 ## Rust
 - [Rust Playground](https://play.rust-lang.org)
+- [This Week in Rust](https://this-week-in-rust.org/)
 
 ## Go
 - [Awesome Go](https://github.com/avelino/awesome-go)
