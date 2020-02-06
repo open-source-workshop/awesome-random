@@ -128,6 +128,8 @@ Firefox has a great set of first issues to start learning how to work with their
 - [Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon](https://www.goodreads.com/book/show/18465875-countdown-to-zero-day)
 - [Neuromancer](https://en.wikipedia.org/wiki/Neuromancer) - Great scifi novel involving a computer hacker, AI, and cyberspace
 - Steve Jobs https://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537 - book about Steve Jobs
+- [Effective Java](https://wiki.c2.com/?EffectiveJava)
+
 
 ## Editors
 - [Emacs](https://www.gnu.org/software/emacs/)
@@ -148,6 +150,7 @@ Firefox has a great set of first issues to start learning how to work with their
 
 - [VS Code](https://code.visualstudio.com/)
 - [Oh My Zsh](https://ohmyz.sh/)
+- [Eclipse](https://eclipse.org/)
 
 ## Entertainment
 - [Rotten Tomatoes](https://www.rottentomatoes.com/)
@@ -160,6 +163,7 @@ Firefox has a great set of first issues to start learning how to work with their
 - [Apache TinkerPop Tutorial](https://kelvinlawrence.net/book/Gremlin-Graph-Guide.html)
 - [Sybase](https://www.sap.com/products/sybase-ase.html)
 - [SQL Tutorial](https://www.w3schools.com/sql/)
+- [SQLite](https://sqlite.org/index.html)
 
 ## Cloud Infrastructure and Kubernetes
 - [KAtlas - Multi-Cluster Discoverability and Auditability](https://github.com/intuit/katlas)
@@ -233,6 +237,7 @@ Firefox has a great set of first issues to start learning how to work with their
 - [java](https://github.com/graphql-java/)
 - [TOOL](https://www.insomnia.rest/)
 - [GraphQL Error Handling Article](https://itnext.io/the-definitive-guide-to-handling-graphql-errors-e0c58b52b5e1) - How best to handle errors is something the GraphQL community is struggling to define a definitive pattern on. This article explains one implementation that might work for you!
+- [kgraphql](https://github.com/aPureBase/KGraphQL) KGraphQL is Kotlin implementation of GraphQL. It provides rich DSL to setup GraphQL schema.
 
 ## Laptops
 
@@ -257,10 +262,10 @@ Firefox has a great set of first issues to start learning how to work with their
 - [Change your mindset, change the game | Dr. Alia Crum | TEDxTraverseCity](https://www.youtube.com/watch?v=0tqq66zwa7g) - She explores scientific results that show the influence of the mindset on the body, and how changing the subjective mindset produced different outcomes.
 
 ## Tech Talks
-- [TDD, Where did it all go wrong? | Ian Cooper])(https://www.youtube.com/watch?v=EZ05e7EMOLM) - learn how to structure your unit tests so that your code is refactorable and maintainable.
+- [TDD, Where did it all go wrong? | Ian Cooper](https://www.youtube.com/watch?v=EZ05e7EMOLM) - learn how to structure your unit tests so that your code is refactorable and maintainable.
 
 ## Devops
- - https://www.schoolofdevops.net/p/ultimate-devops-bootcamp - Free and a handson approach to get started
+ - https://www.schoolofdevops.net/p/ultimate-devops-bootcamp - Free and a hands on approach to get started
 
 ## Data Visualizations
 - https://www.jasondavies.com/ - Awesome interactive data visualizations
@@ -297,6 +302,7 @@ Active Opensource libraries for Reinforcement Learning Research
 - https://www.youtube.com/user/keeroyz
 - https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA
 - https://www.youtube.com/channel/UCodbH5mUeF-m_BsNueRDjcw
+- https://www.youtube.com/user/CodeOrg
 
 
 ## Write unit tests!
@@ -304,6 +310,9 @@ Active Opensource libraries for Reinforcement Learning Research
 
 ## Productivity
 -  https://github.com/helmus/Jira-Hot-Linker - Jira HotLinker, quick access to Jira metadata when hovering over ticket numbers on github or other sites!
+
+## Performance Testing
+- [Gatling] (https://gatling.io/)
 
 
 
