@@ -1,5 +1,5 @@
 # My awesome-random!!
-## Welcome 
+## Welcome
 A not so curated and random list of amazingly awesome awesomeness.
 
 ## Building Software
@@ -31,7 +31,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 - [Elixir](https://elixir-lang.org/) - Elixir is a dynamic, functional language designed for building scalable and maintainable applications.
 
-- [Rust](https://www.rust-lang.org/learn) - Rust as a language is different. Not because of its fancy syntax or welcoming community, but because of the confidence one gains when writing a program in it. 
+- [Rust](https://www.rust-lang.org/learn) - Rust as a language is different. Not because of its fancy syntax or welcoming community, but because of the confidence one gains when writing a program in it.
 
 - [Java](https://docs.oracle.com/javase/tutorial/)
 
@@ -43,7 +43,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 
 ## Front-End Development
- 
+
 - https://css-tricks.com/ - A front-end blog with up to date topics that release weekly
 - IDS Dropdown typeahead - When users need to select from a long list of options, use the drop-down typeahead. As soon as the user starts typing, the list changes to show suggestions that should get closer to what the user wants.
 - https://stateofjs.com/ - State of JS 2018
@@ -104,7 +104,7 @@ Firefox has a great set of first issues to start learning how to work with their
 ## Theory
 - [What Every Computer Scientist Should Know About Floating Point Arithmetic](https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/02Numerics/Double/paper.pdf)
 - [An Axiomatic Basis for Computer Programming](https://www.cs.cmu.edu/~crary/819-f09/Hoare69.pdf)
-- [Property Graph - Gremlin](http://kelvinlawrence.net/book/Gremlin-Graph-Guide.html#whygraph) 
+- [Property Graph - Gremlin](http://kelvinlawrence.net/book/Gremlin-Graph-Guide.html#whygraph)
 - [Theory Of Computation](http://cglab.ca/~michiel/TheoryOfComputation/TheoryOfComputation.pdf)
 
 
@@ -135,7 +135,7 @@ Firefox has a great set of first issues to start learning how to work with their
 - [Emacs](https://www.gnu.org/software/emacs/)
 - [Vim](https://www.vim.org/) - edit text at the speed of thought ;)
 - [Visual Studio Code](https://code.visualstudio.com/) - great for front end development, Visual Studio Code Editor by Microsoft
-- [Neovim](https://neovim.io/) 
+- [Neovim](https://neovim.io/)
 - [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose
 - [Atom](https://atom.io/) - A text editor made by Github
 
@@ -184,6 +184,7 @@ Firefox has a great set of first issues to start learning how to work with their
 
 ## Python
 - [Python Documentation](https://docs.python.org/3/)
+- [Python Package Index](https://pypi.org/)
 
 ## Rust
 - [Rust Playground](https://play.rust-lang.org)
@@ -237,7 +238,7 @@ Firefox has a great set of first issues to start learning how to work with their
 - [Official site](https://redux.js.org/)
 
 ## GraphQL
-- official [site](https://graphql.org/) 
+- official [site](https://graphql.org/)
 - [java](https://github.com/graphql-java/)
 - [TOOL](https://www.insomnia.rest/)
 - [GraphQL Error Handling Article](https://itnext.io/the-definitive-guide-to-handling-graphql-errors-e0c58b52b5e1) - How best to handle errors is something the GraphQL community is struggling to define a definitive pattern on. This article explains one implementation that might work for you!
@@ -252,10 +253,10 @@ Firefox has a great set of first issues to start learning how to work with their
 - [MacBook] (www.apple.com)
 - [Windows] (www.microsoft.com)
 
-## Android Things 
-- https://developer.android.com/things/get-started/kits 
+## Android Things
+- https://developer.android.com/things/get-started/kits
 
-## Observability 
+## Observability
 - https://en.wikipedia.org/wiki/Observability
 
 ## Podcasts
@@ -303,7 +304,7 @@ Active Opensource libraries for Reinforcement Learning Research
 ## SELinux
 - http://selinuxproject.org
 
-## Cool Youtube Channels 
+## Cool Youtube Channels
 - https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw
 - https://www.youtube.com/user/keeroyz
 - https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA
