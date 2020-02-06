@@ -12,7 +12,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 - https://developers.google.com/web/fundamentals/performance/why-performance-matters - Why performance matters
 - https://pragprog.com/book/tpp/the-pragmatic-programmer - Timeless patterns for thinking about designing good software.
 - https://eloquentjavascript.net/ - This is a book about JavaScript, programming, and the wonders of the digital.
-- https://csapp.cs.cmu.edu/ - Greate book for Computer Systems
+- https://csapp.cs.cmu.edu/ - Great book for Computer Systems
 
 ## Deep Learning
 - https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd - Tensorflow without a phD
@@ -178,6 +178,8 @@ Firefox has a great set of first issues to start learning how to work with their
 - [Wes Bos: great video courses on Advanced React, GraphQL, ES6, CSS Grid, Javascript, Node, etc.](https://wesbos.com/courses/)
 - [Reactive Extensions](http://reactivex.io/intro.html)
 - [Lightbot](https://itunes.apple.com/us/app/lightbot-programming-puzzles/id657638474)
+- [Eloquent Javascript](https://eloquentjavascript.net/) - A free, thorough introduction to JavaScript, including it's quirks/features.
+
 
 ## Python
 - [Python Documentation](https://docs.python.org/3/)
@@ -266,6 +268,8 @@ Firefox has a great set of first issues to start learning how to work with their
 - [TDD, Where did it all go wrong? | Ian Cooper](https://www.youtube.com/watch?v=EZ05e7EMOLM) - learn how to structure your unit tests so that your code is refactorable and maintainable.
 
 ## Devops
+
+ - https://www.schoolofdevops.net/p/ultimate-devops-bootcamp - Free and a hands-on approach to get started
  - https://www.schoolofdevops.net/p/ultimate-devops-bootcamp - Free and a hands on approach to get started
 
 ## Data Visualizations
@@ -282,7 +286,7 @@ Active Opensource libraries for Reinforcement Learning Research
 - [Get Shwifty](https://www.youtube.com/watch?v=7ecYoSvGO60)
 - [Omer Adam - Two crazy people](https://www.youtube.com/watch?v=WLMmX17D2uw)
 - [Happy](https://www.youtube.com/watch?v=ZbZSe6N_BXs)
-- [Everythinng is awesome](https://www.youtube.com/watch?v=StTqXEQ2l-Y)
+- [Everything is awesome](https://www.youtube.com/watch?v=StTqXEQ2l-Y)
 - [Shania Twain - Man! I Feel Like A Woman](https://www.youtube.com/watch?v=ZJL4UGSbeFg)
 - [Dubstep - Kill the Noise - Pt 1](https://youtu.be/jVfU1DY73Tk)
 - [The Revenge Song - The Magic Flute](https://www.youtube.com/watch?v=YuBeBjqKSGQ)
