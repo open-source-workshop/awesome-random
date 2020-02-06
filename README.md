@@ -249,6 +249,7 @@ Firefox has a great set of first issues to start learning how to work with their
 
 ## Observability 
 - https://en.wikipedia.org/wiki/Observability
+- [Open Telemetry](https://github.com/open-telemetry)
 
 ## Podcasts
 - [Anna Faris is Unqualified](https://www.unqualified.com/)
