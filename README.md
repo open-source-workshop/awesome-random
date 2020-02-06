@@ -311,9 +311,8 @@ Active Opensource libraries for Reinforcement Learning Research
 ## Productivity
 -  https://github.com/helmus/Jira-Hot-Linker - Jira HotLinker, quick access to Jira metadata when hovering over ticket numbers on github or other sites!
 
+## Tech Leadership
+- https://softwareleadweekly.com/ - newsletter with a nice digest every week of thought-provoking articles, Tweet threads, etc. that can help take your leadership skills and team to the next level
+
 ## Performance Testing
 - [Gatling] (https://gatling.io/)
-
-
-
-
