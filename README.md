@@ -96,6 +96,7 @@ Firefox has a great set of first issues to start learning how to work with their
 ## MACHINE LEARNING
 - [Coursera Open Source ML Course](https://www.coursera.org/learn/machine-learning) - A free online course that people can take to learn about Machine Learning. It is from Stanford.
 - https://www.deeplearning.ai/machine-learning-yearning/ - A book by Andrew Ng that teaches techniques for measuring, understanding and improving performance of ML methods.
+- [Deep Learning vs Machine Learning](https://www.infoworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.html)
 
 ## Spring Boot
 - [Spring Boot by Baeldung](https://www.baeldung.com/spring-boot) - A free online website that people can use for learning spring boot with examples.
@@ -105,6 +106,7 @@ Firefox has a great set of first issues to start learning how to work with their
 - [An Axiomatic Basis for Computer Programming](https://www.cs.cmu.edu/~crary/819-f09/Hoare69.pdf)
 - [Property Graph - Gremlin](http://kelvinlawrence.net/book/Gremlin-Graph-Guide.html#whygraph) 
 - [Theory Of Computation](http://cglab.ca/~michiel/TheoryOfComputation/TheoryOfComputation.pdf)
+
 
 ## Books
 - [Deep Learning Book](https://www.nceclusters.no/globalassets/filer/nce/diverse/the-pragmatic-programmer.pdf)
@@ -125,6 +127,9 @@ Firefox has a great set of first issues to start learning how to work with their
 - [Harry Potter and the Sorcerer's Stone](https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone)
 - [Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon](https://www.goodreads.com/book/show/18465875-countdown-to-zero-day)
 - [Neuromancer](https://en.wikipedia.org/wiki/Neuromancer) - Great scifi novel involving a computer hacker, AI, and cyberspace
+- Steve Jobs https://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537 - book about Steve Jobs
+- [Effective Java](https://wiki.c2.com/?EffectiveJava)
+
 
 ## Editors
 - [Emacs](https://www.gnu.org/software/emacs/)
@@ -145,6 +150,7 @@ Firefox has a great set of first issues to start learning how to work with their
 
 - [VS Code](https://code.visualstudio.com/)
 - [Oh My Zsh](https://ohmyz.sh/)
+- [Eclipse](https://eclipse.org/)
 
 ## Entertainment
 - [Rotten Tomatoes](https://www.rottentomatoes.com/)
@@ -157,6 +163,7 @@ Firefox has a great set of first issues to start learning how to work with their
 - [Apache TinkerPop Tutorial](https://kelvinlawrence.net/book/Gremlin-Graph-Guide.html)
 - [Sybase](https://www.sap.com/products/sybase-ase.html)
 - [SQL Tutorial](https://www.w3schools.com/sql/)
+- [SQLite](https://sqlite.org/index.html)
 
 ## Cloud Infrastructure and Kubernetes
 - [KAtlas - Multi-Cluster Discoverability and Auditability](https://github.com/intuit/katlas)
@@ -179,6 +186,7 @@ Firefox has a great set of first issues to start learning how to work with their
 
 ## Rust
 - [Rust Playground](https://play.rust-lang.org)
+- [This Week in Rust](https://this-week-in-rust.org/)
 
 ## Go
 - [Awesome Go](https://github.com/avelino/awesome-go)
@@ -232,6 +240,7 @@ Firefox has a great set of first issues to start learning how to work with their
 - [java](https://github.com/graphql-java/)
 - [TOOL](https://www.insomnia.rest/)
 - [GraphQL Error Handling Article](https://itnext.io/the-definitive-guide-to-handling-graphql-errors-e0c58b52b5e1) - How best to handle errors is something the GraphQL community is struggling to define a definitive pattern on. This article explains one implementation that might work for you!
+- [kgraphql](https://github.com/aPureBase/KGraphQL) KGraphQL is Kotlin implementation of GraphQL. It provides rich DSL to setup GraphQL schema.
 
 ## Laptops
 
@@ -250,12 +259,18 @@ Firefox has a great set of first issues to start learning how to work with their
 
 ## Podcasts
 - [Anna Faris is Unqualified](https://www.unqualified.com/)
+- [The Adventure Zone](https://maximumfun.org/podcasts/adventure-zone/) - DnD has never been so entertaining!
 
 ## Ted Talks
 - [Change your mindset, change the game | Dr. Alia Crum | TEDxTraverseCity](https://www.youtube.com/watch?v=0tqq66zwa7g) - She explores scientific results that show the influence of the mindset on the body, and how changing the subjective mindset produced different outcomes.
 
+## Tech Talks
+- [TDD, Where did it all go wrong? | Ian Cooper](https://www.youtube.com/watch?v=EZ05e7EMOLM) - learn how to structure your unit tests so that your code is refactorable and maintainable.
+
 ## Devops
+
  - https://www.schoolofdevops.net/p/ultimate-devops-bootcamp - Free and a hands-on approach to get started
+ - https://www.schoolofdevops.net/p/ultimate-devops-bootcamp - Free and a hands on approach to get started
 
 ## Data Visualizations
 - https://www.jasondavies.com/ - Awesome interactive data visualizations
@@ -292,6 +307,7 @@ Active Opensource libraries for Reinforcement Learning Research
 - https://www.youtube.com/user/keeroyz
 - https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA
 - https://www.youtube.com/channel/UCodbH5mUeF-m_BsNueRDjcw
+- https://www.youtube.com/user/CodeOrg
 
 
 ## Write unit tests!
@@ -300,6 +316,8 @@ Active Opensource libraries for Reinforcement Learning Research
 ## Productivity
 -  https://github.com/helmus/Jira-Hot-Linker - Jira HotLinker, quick access to Jira metadata when hovering over ticket numbers on github or other sites!
 
+## Tech Leadership
+- https://softwareleadweekly.com/ - newsletter with a nice digest every week of thought-provoking articles, Tweet threads, etc. that can help take your leadership skills and team to the next level
 
-
-
+## Performance Testing
+- [Gatling] (https://gatling.io/)
