@@ -314,6 +314,8 @@ Active Opensource libraries for Reinforcement Learning Research
 ## Performance Testing
 - [Gatling] (https://gatling.io/)
 
+## Clean code book
+- https://www.oreilly.com/library/view/clean-code/9780136083238/
 
 
 
