@@ -127,7 +127,9 @@ Firefox has a great set of first issues to start learning how to work with their
 - [Harry Potter and the Sorcerer's Stone](https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone)
 - [Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon](https://www.goodreads.com/book/show/18465875-countdown-to-zero-day)
 - [Neuromancer](https://en.wikipedia.org/wiki/Neuromancer) - Great scifi novel involving a computer hacker, AI, and cyberspace
+- Steve Jobs https://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537 - book about Steve Jobs
 - [Effective Java](https://wiki.c2.com/?EffectiveJava)
+
 
 ## Editors
 - [Emacs](https://www.gnu.org/software/emacs/)
