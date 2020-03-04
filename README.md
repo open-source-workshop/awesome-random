@@ -301,6 +301,9 @@ Active Opensource libraries for Reinforcement Learning Research
 - [Old Town Road](https://www.youtube.com/watch?v=w2Ov5jzm3j8)
 - [King Princess - 1950](https://www.youtube.com/watch?v=LNxWTS25Tbk)
 
+## Pets
+- [Dog Rates](https://twitter.com/dog_rates)
+
 ## SELinux
 - http://selinuxproject.org
 
