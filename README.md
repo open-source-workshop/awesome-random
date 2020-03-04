@@ -323,3 +323,6 @@ Active Opensource libraries for Reinforcement Learning Research
 
 ## Performance Testing
 - [Gatling] (https://gatling.io/)
+
+## Useful Technical Bolgs
+- MIT Technology Review - https://www.technologyreview.com/
