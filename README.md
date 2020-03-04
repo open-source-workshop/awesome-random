@@ -151,6 +151,7 @@ Firefox has a great set of first issues to start learning how to work with their
 - [VS Code](https://code.visualstudio.com/)
 - [Intellij] (https://www.jetbrains.com/idea/)
 - [Oh My Zsh](https://ohmyz.sh/)
+- [Git-open Zsh Plugin] (https://github.com/paulirish/git-open) - ZSH plugin to open the repo's respective website.
 - [Eclipse](https://eclipse.org/)
 
 ## Entertainment
