@@ -13,7 +13,9 @@ A not so curated and random list of amazingly awesome awesomeness.
 - https://pragprog.com/book/tpp/the-pragmatic-programmer - Timeless patterns for thinking about designing good software.
 - https://eloquentjavascript.net/ - This is a book about JavaScript, programming, and the wonders of the digital.
 - https://csapp.cs.cmu.edu/ - Great book for Computer Systems
+- https://dataintensive.net/ - Great book for designing data intensive distributed applications.
 - https://www.oreilly.com/library/view/code-complete-second/0735619670/ - Best practical guides to programming
+
 
 ## Deep Learning
 - https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd - Tensorflow without a phD
@@ -62,6 +64,12 @@ A not so curated and random list of amazingly awesome awesomeness.
 Firefox has a great set of first issues to start learning how to work with their codebase. Their debugger is written in javascript!
 
 - [Firefox Javascript debugger](https://github.com/firefox-devtools/debugger)
+
+#### Firefox DevEdition
+The new Firefox DevTools are powerful, flexible, and best of all, hackable. This includes a best-in-class JavaScript debugger, which can target multiple browsers and is built in React and Redux.
+
+- [Firefox DevEdition](https://www.mozilla.org/en-US/firefox/developer)
+
 
 #### Chrome
 - [React Dev Tools for Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en) Adds React debugging tools to the Chrome Developer Tools.
