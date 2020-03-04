@@ -62,6 +62,12 @@ Firefox has a great set of first issues to start learning how to work with their
 
 - [Firefox Javascript debugger](https://github.com/firefox-devtools/debugger)
 
+#### Firefox DevEdition
+The new Firefox DevTools are powerful, flexible, and best of all, hackable. This includes a best-in-class JavaScript debugger, which can target multiple browsers and is built in React and Redux.
+
+- [Firefox DevEdition](https://www.mozilla.org/en-US/firefox/developer)
+
+
 #### Chrome
 - [React Dev Tools for Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en) Adds React debugging tools to the Chrome Developer Tools.
 
