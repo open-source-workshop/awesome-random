@@ -19,6 +19,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 ## Deep Learning
 - https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd - Tensorflow without a phD
+- https://www.fast.ai/?source=post_page--------------------------- -Learn deep learning with projects.
 
 ## Platforms
 
