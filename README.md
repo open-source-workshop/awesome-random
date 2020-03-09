@@ -84,6 +84,8 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 ## Back-End Development
 
 [Setup a Custom Domain for Lambda & API Gateway with Serverless](https://serverless.com/blog/serverless-api-gateway-domain/)
+[Do more AWS stuff]
+[AWS service AWESOME!!!!]
 
 ## Big Data
 
