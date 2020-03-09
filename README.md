@@ -110,6 +110,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 
 ## Spring Boot
 - [Spring Boot by Baeldung](https://www.baeldung.com/spring-boot) - A free online website that people can use for learning spring boot with examples.
+- [datacamp.com](https://www.datacamp.com) - A subscription-based website to take courses pertaining to data science. 
 
 ## Theory
 - [What Every Computer Scientist Should Know About Floating Point Arithmetic](https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/02Numerics/Double/paper.pdf)
