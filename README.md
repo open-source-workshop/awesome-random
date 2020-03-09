@@ -226,6 +226,9 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Intuit Facebook Page](https://www.facebook.com/intuit/)
 - [Intuit Twitter Handle](https://twitter.com/Intuit)
 
+## Important People
+- Stephen Cioffi
+
 ## Fun Customization
  - A way to write things using the emojis from the [intuit-slack emoji](https://github.com/hplewis/emoji-slack) selection!
  ![](screenshot.png)
