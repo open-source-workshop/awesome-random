@@ -44,6 +44,8 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 - [Swift](https://developer.apple.com/swift/)
 
+- [.NET Core](https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-core-3-0) - .NET Core is a free and open-source, managed computer software framework for Windows, Linux, and macOS operating systems. It is a cross-platform successor to .NET Framework. (From [Wikipedia](https://en.wikipedia.org/wiki/.NET_Core))
+
 
 ## Front-End Development
 
