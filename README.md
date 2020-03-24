@@ -340,3 +340,6 @@ Active Opensource libraries for Reinforcement Learning Research
 
 ## Useful Technical Bolgs
 - MIT Technology Review - https://www.technologyreview.com/
+
+## Android Blogs
+- https://blog.mindorks.com/
