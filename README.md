@@ -97,6 +97,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 
 ## Blockchain
 - [Blockchain definition](https://en.wikipedia.org/wiki/Blockchain)
+- [Princeton bitcoin book] (https://www.lopp.net/pdf/princeton_bitcoin_book.pdf)
 
 
 ## AI by Andrew NG
