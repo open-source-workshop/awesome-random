@@ -201,6 +201,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 ## Rust
 - [Rust Playground](https://play.rust-lang.org)
 - [This Week in Rust](https://this-week-in-rust.org/)
+- [Rust Reddit Community](https://www.reddit.com/r/rust/)
 
 ## Go
 - [Awesome Go](https://github.com/avelino/awesome-go)
