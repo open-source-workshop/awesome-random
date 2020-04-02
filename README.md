@@ -332,6 +332,7 @@ Active Opensource libraries for Reinforcement Learning Research
 ### Math Videos
 - [3blue1brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 - [Numberphile](https://www.youtube.com/user/numberphile)
+- [Vihart](https://www.youtube.com/user/Vihart)
 - [Mathologer](https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg)
 - [Eddie Woo](https://www.youtube.com/user/misterwootube)
 
