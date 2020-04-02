@@ -1,5 +1,7 @@
 # My awesome-random!!
+
 ## Welcome
+
 A not so curated and random list of amazingly awesome awesomeness.
 
 ## Building Software
@@ -16,7 +18,8 @@ A not so curated and random list of amazingly awesome awesomeness.
 - https://dataintensive.net/ - Great book for designing data intensive distributed applications.
 - https://www.oreilly.com/library/view/code-complete-second/0735619670/ - Best practical guides to programming
 - https://learning.oreilly.com/library/view/spark-the-definitive/9781491912201/ - Spark: The Definitive Guide
-
+- https://learning.oreilly.com/library/view/modern-php/9781491905173/ - Good book for new features of PHP
+- https://landing.google.com/sre/sre-book/toc/index.html - Google's Book about Site Reliability Engineering
 
 
 ## Deep Learning
@@ -45,7 +48,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 - [Esoteric Programming Languages](https://en.wikipedia.org/wiki/Esoteric_programming_language) (Good for some laughes)
 
 - [Swift](https://developer.apple.com/swift/)
-
+- [NodeJS](https://nodejs.org/) - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 
 ## Front-End Development
 
@@ -179,6 +182,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Sybase](https://www.sap.com/products/sybase-ase.html)
 - [SQL Tutorial](https://www.w3schools.com/sql/)
 - [SQLite](https://sqlite.org/index.html)
+- [Google Firebase](https://firebase.google.com/docs/database)
 
 ## Cloud Infrastructure and Kubernetes
 - [KAtlas - Multi-Cluster Discoverability and Auditability](https://github.com/intuit/katlas)
@@ -328,6 +332,7 @@ Active Opensource libraries for Reinforcement Learning Research
 - https://www.youtube.com/channel/UCodbH5mUeF-m_BsNueRDjcw
 - https://www.youtube.com/user/CodeOrg
 - https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA
+- https://www.youtube.com/user/Brackeys
 
 ## Write unit tests!
 
@@ -343,3 +348,6 @@ Active Opensource libraries for Reinforcement Learning Research
 
 ## Useful Technical Bolgs
 - MIT Technology Review - https://www.technologyreview.com/
+
+## Software Engineering
+ - [C2 Wiki](https://wiki.c2.com/) - Venerable archive of software engineering and programming pages and discussion. Has pages on every programming topic under the sun, in a much older perspective.
