@@ -15,7 +15,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 - https://csapp.cs.cmu.edu/ - Great book for Computer Systems
 - https://dataintensive.net/ - Great book for designing data intensive distributed applications.
 - https://www.oreilly.com/library/view/code-complete-second/0735619670/ - Best practical guides to programming
-
+- https://landing.google.com/sre/sre-book/toc/index.html - Google's Book about Site Reliability Engineering
 
 ## Deep Learning
 - https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd - Tensorflow without a phD
