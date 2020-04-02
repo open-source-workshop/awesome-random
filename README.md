@@ -16,7 +16,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 - https://dataintensive.net/ - Great book for designing data intensive distributed applications.
 - https://www.oreilly.com/library/view/code-complete-second/0735619670/ - Best practical guides to programming
 - http://shop.oreilly.com/product/0636920046516.do - Introducing Go
-
+- https://landing.google.com/sre/sre-book/toc/index.html - Google's Book about Site Reliability Engineering
 
 ## Deep Learning
 - https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd - Tensorflow without a phD
@@ -44,7 +44,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 - [Esoteric Programming Languages](https://en.wikipedia.org/wiki/Esoteric_programming_language) (Good for some laughes)
 
 - [Swift](https://developer.apple.com/swift/)
-
+- [NodeJS](https://nodejs.org/) - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 
 ## Front-End Development
 
@@ -327,6 +327,7 @@ Active Opensource libraries for Reinforcement Learning Research
 - https://www.youtube.com/channel/UCodbH5mUeF-m_BsNueRDjcw
 - https://www.youtube.com/user/CodeOrg
 - https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA
+- https://www.youtube.com/user/Brackeys
 
 ## Write unit tests!
 
