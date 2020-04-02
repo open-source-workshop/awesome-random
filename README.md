@@ -341,3 +341,4 @@ Active Opensource libraries for Reinforcement Learning Research
 
 ## Useful Technical Bolgs
 - MIT Technology Review - https://www.technologyreview.com/
+- Joel On Software https://www.joelonsoftware.com/
