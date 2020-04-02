@@ -60,7 +60,8 @@ A not so curated and random list of amazingly awesome awesomeness.
 - https://materializecss.com/ - A responsive front-end framework
 - https://material.angular.io - Angular Component library for frontend development. Easy to use, has great looking scalable components and few different themes.
 
-
+###Mobile Resources
+Android: https://developer.android.com
 
 ### Browsers
 
