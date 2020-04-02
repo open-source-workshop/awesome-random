@@ -320,12 +320,22 @@ Active Opensource libraries for Reinforcement Learning Research
 - http://selinuxproject.org
 
 ## Cool Youtube Channels
-- https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw
-- https://www.youtube.com/user/keeroyz
-- https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA
-- https://www.youtube.com/channel/UCodbH5mUeF-m_BsNueRDjcw
-- https://www.youtube.com/user/CodeOrg
-- https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA
+
+### AI Videos
+- [Two Minute Papers](https://www.youtube.com/user/keeroyz)
+
+### Math Videos
+- [3blue1brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+- [Numberphile](https://www.youtube.com/user/numberphile)
+- [Mathologer](https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg)
+- [Eddie Woo](https://www.youtube.com/user/misterwootube)
+
+### Misc
+- [TechLead](https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw)
+- [Vsauce](https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA)
+- [Overly Sarcastic Productions](https://www.youtube.com/channel/UCodbH5mUeF-m_BsNueRDjcw)
+- [Code.org](https://www.youtube.com/user/CodeOrg)
+- [Primitive Technology](https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA)
 
 ## Write unit tests!
 
