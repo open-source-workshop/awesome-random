@@ -132,6 +132,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Code Complete, Second Edition](https://www.oreilly.com/library/view/code-complete-second/0735619670/)
 - [Ender's Game](https://en.wikipedia.org/wiki/Ender%27s_Game)
 - [Ender's Shadow](https://en.wikipedia.org/wiki/Ender%27s_Shadow)
+- [Annihilation](https://en.wikipedia.org/wiki/Annihilation_(VanderMeer_novel))
 - [Clean Code](https://www.oreilly.com/library/view/clean-code/9780136083238/)
 - [Ready Player One](https://en.wikipedia.org/wiki/Ready_Player_One)
 - https://github.com/Automation-Tools/karate-test-mojo -  Generate integration tests from springboot or jersey source code.
