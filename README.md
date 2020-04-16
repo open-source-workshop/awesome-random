@@ -98,7 +98,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 
 ## MongoDB
 
-- [MongoDB Tutorial] (https://docs.mongodb.com/manual/tutorial/) - The MongoDB tutorials.
+- [MongoDB Tutorial](https://docs.mongodb.com/manual/tutorial/) - The MongoDB tutorials.
 
 ## Blockchain
 - [Blockchain definition](https://en.wikipedia.org/wiki/Blockchain)
@@ -266,10 +266,10 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 
 ## Design
  - [Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)
- - [Refactoring][https://refactoring.guru/refactoring]
+ - [Refactoring](https://refactoring.guru/refactoring)
 
-- [MacBook] (www.apple.com)
-- [Windows] (www.microsoft.com)
+- [MacBook](www.apple.com)
+- [Windows](www.microsoft.com)
 
 ## Android Things
 - https://developer.android.com/things/get-started/kits
