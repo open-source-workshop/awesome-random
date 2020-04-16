@@ -184,6 +184,10 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [SQLite](https://sqlite.org/index.html)
 - [Google Firebase](https://firebase.google.com/docs/database)
 
+## NoSQL Databases
+- [Cassandra Tutorial](https://cassandra.apache.org/)
+
+
 ## Cloud Infrastructure and Kubernetes
 - [KAtlas - Multi-Cluster Discoverability and Auditability](https://github.com/intuit/katlas)
 - [Foremast - AI/ML Infrastructure Health Monitoring](https://github.com/intuit/foremast)
