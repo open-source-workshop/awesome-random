@@ -263,6 +263,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [kgraphql](https://github.com/aPureBase/KGraphQL) KGraphQL is Kotlin implementation of GraphQL. It provides rich DSL to setup GraphQL schema.
 
 ## Laptops
+- MacBook Pro(www.apple.com)
 
 ## Design
  - [Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)
