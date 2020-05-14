@@ -110,12 +110,14 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 
 ## MACHINE LEARNING
 - [Coursera Open Source ML Course](https://www.coursera.org/learn/machine-learning) - A free online course that people can take to learn about Machine Learning. It is from Stanford.
+- [Neural Networks and Deep Learning Online Book] (http://neuralnetworksanddeeplearning.com/) - A free online book that includes a great theoretical introduction to neural networks.
 - https://www.deeplearning.ai/machine-learning-yearning/ - A book by Andrew Ng that teaches techniques for measuring, understanding and improving performance of ML methods.
 - [Deep Learning vs Machine Learning](https://www.infoworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.html)
 - [Machine Learning for numerical time series data] https://towardsdatascience.com/dynamic-time-warping-3933f25fcdd
 
 ## Spring Boot
 - [Spring Boot by Baeldung](https://www.baeldung.com/spring-boot) - A free online website that people can use for learning spring boot with examples.
+
 
 ## Theory
 - [What Every Computer Scientist Should Know About Floating Point Arithmetic](https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/02Numerics/Double/paper.pdf)
