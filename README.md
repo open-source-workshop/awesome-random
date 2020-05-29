@@ -27,6 +27,9 @@ A not so curated and random list of amazingly awesome awesomeness.
 ## Deep Learning
 - https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd - Tensorflow without a phD
 
+## Django 
+- https://www.djangoproject.com/start/ - Django set up 
+
 ## Platforms
 
 ## Programming Languages
