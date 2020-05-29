@@ -209,6 +209,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 ## Python
 - [Python Documentation](https://docs.python.org/3/)
 - [Python Package Index](https://pypi.org/)
+- [Python Tutorial](https://youtu.be/rfscVS0vtbw)
 
 ## Rust
 - [Rust Playground](https://play.rust-lang.org)
