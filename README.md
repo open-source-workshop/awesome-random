@@ -176,6 +176,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Eclipse](https://eclipse.org/)
 - [Pycharm](https://www.jetbrains.com/pycharm/)
 - [Jupyter Notebook](https://jupyter.org/) 
+- [JetBrains](https://www.jetbrains.com/)
 
 ## Entertainment
 - [Rotten Tomatoes](https://www.rottentomatoes.com/)
@@ -301,6 +302,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 
 ## Data Visualizations
 - https://www.jasondavies.com/ - Awesome interactive data visualizations
+- https://observablehq.com/@d3/gallery - Cool visualizations written in JS
 
 ## Reinforcement Learning
 
