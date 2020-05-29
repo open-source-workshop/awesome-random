@@ -193,6 +193,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 ## Cloud Infrastructure and Kubernetes
 - [KAtlas - Multi-Cluster Discoverability and Auditability](https://github.com/intuit/katlas)
 - [Foremast - AI/ML Infrastructure Health Monitoring](https://github.com/intuit/foremast)
+- [Kubernetes Tutorial](https://github.com/derek-ho/awesome-random.git)
 
 ## Media
 
