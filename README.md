@@ -8,6 +8,8 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 - [Building TypeScript Projects with Bazel](https://blog.mgechev.com/2018/11/19/introduction-bazel-typescript-tutorial/) - a brief introduction to what Bazel is and how we can build our TypeScript projects with it
 
+- [Learn How to Use Git - get Lit with Git!](https://learngitbranching.js.org/) - it teaches and visualizes how to use git, very useful for beginning on software development.
+
 ## Good Books
 
 - https://github.com/Automation-Tools/karate-test-mojo -  Generate integration tests from springboot or jersey source code.
