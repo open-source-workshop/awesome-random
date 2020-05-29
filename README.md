@@ -340,7 +340,7 @@ Active Opensource libraries for Reinforcement Learning Research
 - https://www.youtube.com/user/CodeOrg
 - https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA
 - https://www.youtube.com/user/Brackeys
-
+- https://www.youtube.com/channel/UCBa659QWEk1AI4Tg--mrJ2A
 ## Write unit tests!
 
 
