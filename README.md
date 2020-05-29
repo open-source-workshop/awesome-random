@@ -260,6 +260,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 ## Social Media
 - [Intuit Facebook Page](https://www.facebook.com/intuit/)
 - [Intuit Twitter Handle](https://twitter.com/Intuit)
+- [Intuit LinkedIn](https://linkedin.com/company/intuit)
 
 ## Fun Customization
  - A way to write things using the emojis from the [intuit-slack emoji](https://github.com/hplewis/emoji-slack) selection!
