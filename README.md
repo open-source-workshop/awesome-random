@@ -150,6 +150,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Neuromancer](https://en.wikipedia.org/wiki/Neuromancer) - Great scifi novel involving a computer hacker, AI, and cyberspace
 - Steve Jobs https://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537 - book about Steve Jobs
 - [Effective Java](https://wiki.c2.com/?EffectiveJava)
+- [Surely You're Joking, Mr. Feynman!] (http://sistemas.fciencias.unam.mx/~compcuantica/RICHARD%20P.%20FEYNMAN-SURELY%20YOU%27RE%20JOKING%20MR.%20FEYNMAN.PDF) - Richard Feynman's autobiography.
 
 
 ## Editors
