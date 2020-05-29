@@ -36,6 +36,8 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 
 
+## Ml on Source Code 
+- : https://github.com/src-d/awesome-machine-learning-on-source-code#machine-learning
 ## Platforms
 
 ## Programming Languages
@@ -403,6 +405,9 @@ Active Opensource libraries for Reinforcement Learning Research
 
 
 first
+<<<<<<< HEAD
+=======
 ## Random websites 
 - Wait But Why - [https://waitbutwhy.com/] 
+>>>>>>> 2c0c2c376c98fda7bb0c9dece6d3224be0b05d44
 
