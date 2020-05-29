@@ -80,6 +80,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 
 #### Chrome
 - [React Dev Tools for Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en) Adds React debugging tools to the Chrome Developer Tools.
+- [new item](https://github.intuit.com/open-source)
 
 ## Crypto
 - [RustCrypto](https://github.com/RustCrypto) - Implementation of many crypto algorithms in Rust
