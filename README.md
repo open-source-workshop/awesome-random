@@ -26,6 +26,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 ## Deep Learning
 - https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd - Tensorflow without a phD
+-[Adversarial Attacks on Deep Neural Networks](https://arxiv.org/pdf/1412.6572.pdf) check out this paper to see how one can easily "trick" neural networks by perturbing the input data.
 
 ## Platforms
 
