@@ -51,6 +51,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 - [Esoteric Programming Languages](https://en.wikipedia.org/wiki/Esoteric_programming_language) (Good for some laughes)
 
 - [Swift](https://developer.apple.com/swift/)
+
 - [NodeJS](https://nodejs.org/) - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 
 ## Front-End Development
@@ -212,6 +213,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 ## Python
 - [Python Documentation](https://docs.python.org/3/)
 - [Python Package Index](https://pypi.org/)
+- [Python Tutor] (https://http://www.pythontutor.com/) An interactive website to visualize your python code
 
 ## Rust
 - [Rust Playground](https://play.rust-lang.org)
