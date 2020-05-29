@@ -27,8 +27,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 ## Deep Learning
 - https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd - Tensorflow without a phD
 
-## Django 
-- https://www.djangoproject.com/start/ - Django set up 
+
 
 ## Platforms
 
@@ -270,6 +269,9 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [TOOL](https://www.insomnia.rest/)
 - [GraphQL Error Handling Article](https://itnext.io/the-definitive-guide-to-handling-graphql-errors-e0c58b52b5e1) - How best to handle errors is something the GraphQL community is struggling to define a definitive pattern on. This article explains one implementation that might work for you!
 - [kgraphql](https://github.com/aPureBase/KGraphQL) KGraphQL is Kotlin implementation of GraphQL. It provides rich DSL to setup GraphQL schema.
+
+## Django 
+- https://www.djangoproject.com/start/ - Django set up 
 
 ## Laptops
 
