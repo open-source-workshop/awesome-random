@@ -80,6 +80,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 
 #### Chrome
 - [React Dev Tools for Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en) Adds React debugging tools to the Chrome Developer Tools.
+- [Eyedropper Extension](https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka?hl=en) - A chrome extension that allows you to select any colour on your webpage and obtain details such as its hex code and RGB values.
 
 ## Crypto
 - [RustCrypto](https://github.com/RustCrypto) - Implementation of many crypto algorithms in Rust
