@@ -51,6 +51,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 - [Swift](https://developer.apple.com/swift/)
 - [NodeJS](https://nodejs.org/) - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+- [Kotlin](https://kotlinlang.org/)
 
 ## Front-End Development
 
