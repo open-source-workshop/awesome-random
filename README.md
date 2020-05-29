@@ -101,6 +101,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 ## MongoDB
 
 - [MongoDB Tutorial] (https://docs.mongodb.com/manual/tutorial/) - The MongoDB tutorials.
+- [RocksDB for GO] https://github.com/tecbot/gorocksdb
 
 ## Blockchain
 - [Blockchain definition](https://en.wikipedia.org/wiki/Blockchain)
