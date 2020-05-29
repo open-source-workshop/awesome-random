@@ -26,6 +26,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 ## Deep Learning
 - https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd - Tensorflow without a phD
+- http://d2l.ai/ - Dive into Deep Learning, an interactive deep learning book with code, math, and discussions, based on the NumPy interface
 
 ## Platforms
 
