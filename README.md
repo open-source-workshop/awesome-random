@@ -300,6 +300,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 
 ## Data Visualizations
 - https://www.jasondavies.com/ - Awesome interactive data visualizations
+- [COVID-19 Infographic](https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/) - COVID-19 data visualizations
 
 ## Reinforcement Learning
 
