@@ -358,4 +358,9 @@ Active Opensource libraries for Reinforcement Learning Research
 ## Software Engineering
  - [C2 Wiki](https://wiki.c2.com/) - Venerable archive of software engineering and programming pages and discussion. Has pages on every programming topic under the sun, in a much older perspective.
 
+## Coding Problem Practice
+- [Advent Of Code](https://adventofcode.com) - New problems for the first 25 days every December, that tell a fun story along the way!
+- [LeetCode](https://leetcode.com)
+- [Project Euler](https://projecteuler.net)
+
 first
