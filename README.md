@@ -295,6 +295,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 ## Podcasts
 - [Anna Faris is Unqualified](https://www.unqualified.com/)
 - [The Adventure Zone](https://maximumfun.org/podcasts/adventure-zone/) - DnD has never been so entertaining!
+- [Jesus & Jollof](https://jesusandjollof.simplecast.com/)
 
 ## Ted Talks
 - [Change your mindset, change the game | Dr. Alia Crum | TEDxTraverseCity](https://www.youtube.com/watch?v=0tqq66zwa7g) - She explores scientific results that show the influence of the mindset on the body, and how changing the subjective mindset produced different outcomes.
@@ -337,6 +338,7 @@ Active Opensource libraries for Reinforcement Learning Research
 - [ROODAY's Mixtape](https://play.google.com/music/playlist/AMaBXymNA7ffaknU8xxR4-Dbe8-cRINnKXC67Kefa2Cb-WyPwnyk4ST_9xCl_fsI6v-pxZ9PW680uiA_vImrxl53-Ant2I3fSw%3D%3D)
 - [Old Town Road](https://www.youtube.com/watch?v=w2Ov5jzm3j8)
 - [King Princess - 1950](https://www.youtube.com/watch?v=LNxWTS25Tbk)
+- [Hard Place](https://www.youtube.com/watch?v=zfHbuTG8IHE)
 
 ## Pets
 - [Dog Rates](https://twitter.com/dog_rates)
