@@ -276,6 +276,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Task Switching](https://www.joelonsoftware.com/2001/02/12/human-task-switches-considered-harmful/) - An interesting write-up on why task switching is so costly for engineers
 
 ## ES6
+- [Official site](http://www.ecma-international.org/ecma-262/6.0/)
 - [An overview of what’s new in ES6](https://exploringjs.com/es6/ch_overviews.html)
 
 ## React
