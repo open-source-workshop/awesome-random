@@ -26,6 +26,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 ## Deep Learning
 - https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd - Tensorflow without a phD
+- http://d2l.ai/ - Dive into Deep Learning, an interactive deep learning book with code, math, and discussions, based on the NumPy interface
 - https://bigdatabeard.com/ultimate-list-of-tensorflow-resources-for-machine-learning-engineers/
 
 ## Platforms
@@ -51,6 +52,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 - [Esoteric Programming Languages](https://en.wikipedia.org/wiki/Esoteric_programming_language) (Good for some laughes)
 
 - [Swift](https://developer.apple.com/swift/)
+
 - [NodeJS](https://nodejs.org/) - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 
 ## Front-End Development
@@ -81,6 +83,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 
 #### Chrome
 - [React Dev Tools for Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en) Adds React debugging tools to the Chrome Developer Tools.
+- [Eyedropper Extension](https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka?hl=en) - A chrome extension that allows you to select any colour on your webpage and obtain details such as its hex code and RGB values.
 
 ## Crypto
 - [RustCrypto](https://github.com/RustCrypto) - Implementation of many crypto algorithms in Rust
@@ -176,6 +179,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Git-open Zsh Plugin] (https://github.com/paulirish/git-open) - ZSH plugin to open the repo's respective website.
 - [Eclipse](https://eclipse.org/)
 - [Pycharm](https://www.jetbrains.com/pycharm/)
+- [JetBrains](https://www.jetbrains.com/)
 
 ## Entertainment
 - [Rotten Tomatoes](https://www.rottentomatoes.com/)
@@ -210,6 +214,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 ## Python
 - [Python Documentation](https://docs.python.org/3/)
 - [Python Package Index](https://pypi.org/)
+- [Python Tutor] (https://http://www.pythontutor.com/) An interactive website to visualize your python code
 
 ## Rust
 - [Rust Playground](https://play.rust-lang.org)
@@ -228,7 +233,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 ## Content Management Systems
 
 ## Hardware
-
+  Mac
 ## Business
 - [Greaterfool Blog. Canadian real estate and politics.](https://www.greaterfool.ca/)
 
@@ -301,12 +306,16 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 
 ## Data Visualizations
 - https://www.jasondavies.com/ - Awesome interactive data visualizations
+- https://observablehq.com/@d3/gallery - Cool visualizations written in JS
 
 ## Reinforcement Learning
 
 Active Opensource libraries for Reinforcement Learning Research
  - OpenAI's [Baselines](https://github.com/openai/baselines)
  - Google's [Dopamine](https://github.com/google/dopamine)
+
+## Mental Health
+- [Lockdown Productivity: Spaceship You](https://www.youtube.com/watch?v=snAhsXyO3Ck) - An incredibly helpful way to think about partitioning your life for the sake of your overall health (particularly during the pandemic)
 
 ## Music
 - [Rolling Stone's Greatest Songs Of All Time](https://www.rollingstone.com/music/music-lists/500-greatest-songs-of-all-time-151127/)
