@@ -181,6 +181,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Plex](https://github.com/plexinc)
 - [Things to do in San Francisco](https://www.thrillist.com/entertainment/san-francisco/things-to-do-in-san-francisco)
 - [Bored Button] (https://www.boredbutton.com/)
+- [Essay Typer] (http://www.essaytyper.com/) - to save you when you have an essay due quickly
 
 ## Databases
 
