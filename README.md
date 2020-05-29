@@ -205,6 +205,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Lightbot](https://itunes.apple.com/us/app/lightbot-programming-puzzles/id657638474)
 - [Eloquent Javascript](https://eloquentjavascript.net/) - A free, thorough introduction to JavaScript, including it's quirks/features.
 - [Free Code Camp] (https://www.freecodecamp.org/learn/)
+- Harvard's CS 50 Class (https://online-learning.harvard.edu/course/cs50-introduction-computer-science) - A free course that really helps to nail down the fundamentals to make you a successful programmer.
 
 ## Python
 - [Python Documentation](https://docs.python.org/3/)
