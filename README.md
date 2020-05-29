@@ -273,6 +273,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 ## Design
  - [Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)
  - [Refactoring][https://refactoring.guru/refactoring]
+ - [Flat UI Color Schemes] (https://flatuicolors.com/) site containing a bunch of beautiful color schemes--programmers don't need to pick their own {neon} colors anymore!
 
 - [MacBook] (www.apple.com)
 - [Windows] (www.microsoft.com)
@@ -352,7 +353,7 @@ Active Opensource libraries for Reinforcement Learning Research
 ## Performance Testing
 - [Gatling] (https://gatling.io/)
 
-## Useful Technical Bolgs
+## Useful Technical Blogs
 - MIT Technology Review - https://www.technologyreview.com/
 
 ## Software Engineering
