@@ -49,7 +49,8 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 - [Esoteric Programming Languages](https://en.wikipedia.org/wiki/Esoteric_programming_language) (Good for some laughes)
 
-- [Swift](https://developer.apple.com/swift/)
+- [Swift](https://developer.apple.com/swift/) - Swift is a general-purpose programming language built using a modern approach to safety, performance, and software design patterns.
+
 - [NodeJS](https://nodejs.org/) - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 
 ## Front-End Development
