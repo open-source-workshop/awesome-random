@@ -279,6 +279,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 
 ## Android Things
 - https://developer.android.com/things/get-started/kits
+- https://codelabs.developers.google.com/codelabs/kotlin-android-training-welcome/index.html#1
 
 ## Observability
 - https://en.wikipedia.org/wiki/Observability
