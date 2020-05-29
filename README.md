@@ -53,8 +53,8 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 - [Java](https://docs.oracle.com/javase/tutorial/) - Java is a Object Oriented Programming Languages
 
-- [C] (https://devdocs.io/c/)
-- [C#] (https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/)
+- [C](https://devdocs.io/c/)
+- [C#](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/)
 
 - [Esoteric Programming Languages](https://en.wikipedia.org/wiki/Esoteric_programming_language) (Good for some laughes)
 
@@ -113,11 +113,11 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 
 ## MongoDB
 
-- [MongoDB Tutorial] (https://docs.mongodb.com/manual/tutorial/) - The MongoDB tutorials.
+- [MongoDB Tutorial](https://docs.mongodb.com/manual/tutorial/) - The MongoDB tutorials.
 
 ## Blockchain
 - [Blockchain definition](https://en.wikipedia.org/wiki/Blockchain)
-- [Princeton bitcoin book] (https://www.lopp.net/pdf/princeton_bitcoin_book.pdf)
+- [Princeton bitcoin book](https://www.lopp.net/pdf/princeton_bitcoin_book.pdf)
 
 
 ## AI by Andrew NG
@@ -125,7 +125,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 
 ## MACHINE LEARNING
 - [Coursera Open Source ML Course](https://www.coursera.org/learn/machine-learning) - A free online course that people can take to learn about Machine Learning. It is from Stanford.
-- [Neural Networks and Deep Learning Online Book] (http://neuralnetworksanddeeplearning.com/) - A free online book that includes a great theoretical introduction to neural networks.
+- [Neural Networks and Deep Learning Online Book](http://neuralnetworksanddeeplearning.com/) - A free online book that includes a great theoretical introduction to neural networks.
 - https://www.deeplearning.ai/machine-learning-yearning/ - A book by Andrew Ng that teaches techniques for measuring, understanding and improving performance of ML methods.
 - [Deep Learning vs Machine Learning](https://www.infoworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.html)
 - [Machine Learning for numerical time series data] https://towardsdatascience.com/dynamic-time-warping-3933f25fcdd
@@ -186,9 +186,9 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 ## Development Environment
 
 - [VS Code](https://code.visualstudio.com/)
-- [Intellij] (https://www.jetbrains.com/idea/)
+- [Intellij](https://www.jetbrains.com/idea/)
 - [Oh My Zsh](https://ohmyz.sh/)
-- [Git-open Zsh Plugin] (https://github.com/paulirish/git-open) - ZSH plugin to open the repo's respective website.
+- [Git-open Zsh Plugin](https://github.com/paulirish/git-open) - ZSH plugin to open the repo's respective website.
 - [Eclipse](https://eclipse.org/)
 - [Pycharm](https://www.jetbrains.com/pycharm/)
 - [Android Studio](https://developer.android.com/studio)
@@ -223,7 +223,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Reactive Extensions](http://reactivex.io/intro.html)
 - [Lightbot](https://itunes.apple.com/us/app/lightbot-programming-puzzles/id657638474)
 - [Eloquent Javascript](https://eloquentjavascript.net/) - A free, thorough introduction to JavaScript, including it's quirks/features.
-- [Free Code Camp] (https://www.freecodecamp.org/learn/)
+- [Free Code Camp](https://www.freecodecamp.org/learn/)
 - [Automate the Boring Stuff With Python By Al Sweigart](https://automatetheboringstuff.com/) - A good introduction to automating simple task with Python
 
 ## Python
@@ -231,6 +231,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Python Package Index](https://pypi.org/)
 - [WebScraping using Python](https://scrapy.org/)
 - [Python Tutor] (https://http://www.pythontutor.com/) An interactive website to visualize your python code
+
 
 ## Rust
 - [Rust Playground](https://play.rust-lang.org)
@@ -302,8 +303,8 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
  - [Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)
  - [Refactoring][https://refactoring.guru/refactoring]
 
-- [MacBook] (www.apple.com)
-- [Windows] (www.microsoft.com)
+- [MacBook](www.apple.com)
+- [Windows](www.microsoft.com)
 
 ## Android Things
 - https://developer.android.com/things/get-started/kits
@@ -358,6 +359,7 @@ Active Opensource libraries for Reinforcement Learning Research
 - [ROODAY's Mixtape](https://play.google.com/music/playlist/AMaBXymNA7ffaknU8xxR4-Dbe8-cRINnKXC67Kefa2Cb-WyPwnyk4ST_9xCl_fsI6v-pxZ9PW680uiA_vImrxl53-Ant2I3fSw%3D%3D)
 - [Old Town Road](https://www.youtube.com/watch?v=w2Ov5jzm3j8)
 - [King Princess - 1950](https://www.youtube.com/watch?v=LNxWTS25Tbk)
+- [Breathe - Pink Floyd](https://www.youtube.com/watch?v=mrojrDCI02k)
 - [Hard Place](https://www.youtube.com/watch?v=zfHbuTG8IHE)
 
 ## Pets
@@ -385,7 +387,7 @@ Active Opensource libraries for Reinforcement Learning Research
 - https://softwareleadweekly.com/ - newsletter with a nice digest every week of thought-provoking articles, Tweet threads, etc. that can help take your leadership skills and team to the next level
 
 ## Performance Testing
-- [Gatling] (https://gatling.io/)
+- [Gatling](https://gatling.io/)
 
 ## Useful Technical Bolgs
 - MIT Technology Review - https://www.technologyreview.com/
@@ -394,7 +396,7 @@ Active Opensource libraries for Reinforcement Learning Research
  - [C2 Wiki](https://wiki.c2.com/) - Venerable archive of software engineering and programming pages and discussion. Has pages on every programming topic under the sun, in a much older perspective.
  
  ## Recipes
-- [Chicken Katsu] (https://www.allrecipes.com/recipe/72068/chicken-katsu/) - Straight fire 🔥 
+- [Chicken Katsu](https://www.allrecipes.com/recipe/72068/chicken-katsu/) - Straight fire 🔥 
 
 
 ## Social Networks
