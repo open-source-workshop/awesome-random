@@ -122,6 +122,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 
 ## Spring Boot
 - [Spring Boot by Baeldung](https://www.baeldung.com/spring-boot) - A free online website that people can use for learning spring boot with examples.
+- [Spring Professional Certification Study Guide](https://d1fto35gcfffzn.cloudfront.net/academy/Spring-Professional-Certification-Study-Guide.pdf)
 
 
 ## Theory
@@ -260,6 +261,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Task Switching](https://www.joelonsoftware.com/2001/02/12/human-task-switches-considered-harmful/) - An interesting write-up on why task switching is so costly for engineers
 
 ## ES6
+- [An overview of what’s new in ES6](https://exploringjs.com/es6/ch_overviews.html)
 
 ## React
 - [Official site](https://reactjs.org/)
