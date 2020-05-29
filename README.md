@@ -300,6 +300,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 
 ## Data Visualizations
 - https://www.jasondavies.com/ - Awesome interactive data visualizations
+- https://plotly.com/graphing-libraries/ - Plotly Open Source Graphing Libraries
 
 ## Reinforcement Learning
 
