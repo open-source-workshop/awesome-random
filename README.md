@@ -26,7 +26,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 ## Deep Learning
 - https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd - Tensorflow without a phD
--https://pytorch.org/tutorials/ -Pytorch tutorials
+- https://pytorch.org/tutorials/ -Pytorch tutorials
 
 ## Platforms
 
