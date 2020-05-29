@@ -175,6 +175,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Git-open Zsh Plugin] (https://github.com/paulirish/git-open) - ZSH plugin to open the repo's respective website.
 - [Eclipse](https://eclipse.org/)
 - [Pycharm](https://www.jetbrains.com/pycharm/)
+- [Jupyter](https://jupyter.org/)
 
 ## Entertainment
 - [Rotten Tomatoes](https://www.rottentomatoes.com/)
@@ -252,6 +253,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 ## Miscellaneous
 - [Docker-removing-containers-images](https://www.digitalocean.com/community/tutorials/how-to-remove-docker-images-containers-and-volumes)
 - [Task Switching](https://www.joelonsoftware.com/2001/02/12/human-task-switches-considered-harmful/) - An interesting write-up on why task switching is so costly for engineers
+- [Bad UI Game](https://userinyerface.com/)
 
 ## ES6
 
