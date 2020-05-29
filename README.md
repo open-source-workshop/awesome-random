@@ -357,5 +357,9 @@ Active Opensource libraries for Reinforcement Learning Research
 
 ## Software Engineering
  - [C2 Wiki](https://wiki.c2.com/) - Venerable archive of software engineering and programming pages and discussion. Has pages on every programming topic under the sun, in a much older perspective.
+ 
+ ## Recipes
+- [Chicken Katsu] (https://www.allrecipes.com/recipe/72068/chicken-katsu/) - Straight fire 🔥 
+
 
 first
