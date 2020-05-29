@@ -29,6 +29,10 @@ A not so curated and random list of amazingly awesome awesomeness.
 - http://d2l.ai/ - Dive into Deep Learning, an interactive deep learning book with code, math, and discussions, based on the NumPy interface
 - https://bigdatabeard.com/ultimate-list-of-tensorflow-resources-for-machine-learning-engineers/
 
+- https://github.com/fchollet/deep-learning-with-python-notebooks
+
+  Jupyter notebooks for the code samples of the book "Deep Learning with Python"
+
 ## Platforms
 
 ## Programming Languages
@@ -156,6 +160,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Neuromancer](https://en.wikipedia.org/wiki/Neuromancer) - Great scifi novel involving a computer hacker, AI, and cyberspace
 - Steve Jobs https://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537 - book about Steve Jobs
 - [Effective Java](https://wiki.c2.com/?EffectiveJava)
+- [Blindsight by Peter Watts](https://rifters.com/real/Blindsight.htm)
 
 
 ## Editors
