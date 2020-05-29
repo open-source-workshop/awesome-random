@@ -86,6 +86,9 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 
 ## Hadoop Projects
 
+## AWS
+- [Official Website](https://aws.amazon.com)
+
 ## AWS EMR Projects
 
 ## Back-End Development
