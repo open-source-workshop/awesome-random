@@ -54,8 +54,9 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 - [Java](https://docs.oracle.com/javase/tutorial/) - Java is a Object Oriented Programming Languages
 
-- [C] (https://devdocs.io/c/)
-- [C#] (https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/)
+- [C](https://devdocs.io/c/)
+
+- [C#](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/)
 
 - [Esoteric Programming Languages](https://en.wikipedia.org/wiki/Esoteric_programming_language) (Good for some laughes)
 
@@ -114,11 +115,11 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 
 ## MongoDB
 
-- [MongoDB Tutorial] (https://docs.mongodb.com/manual/tutorial/) - The MongoDB tutorials.
+- [MongoDB Tutorial](https://docs.mongodb.com/manual/tutorial/) - The MongoDB tutorials.
 
 ## Blockchain
 - [Blockchain definition](https://en.wikipedia.org/wiki/Blockchain)
-- [Princeton bitcoin book] (https://www.lopp.net/pdf/princeton_bitcoin_book.pdf)
+- [Princeton bitcoin book](https://www.lopp.net/pdf/princeton_bitcoin_book.pdf)
 
 
 ## AI by Andrew NG
@@ -187,9 +188,9 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 ## Development Environment
 
 - [VS Code](https://code.visualstudio.com/)
-- [Intellij] (https://www.jetbrains.com/idea/)
+- [Intellij](https://www.jetbrains.com/idea/)
 - [Oh My Zsh](https://ohmyz.sh/)
-- [Git-open Zsh Plugin] (https://github.com/paulirish/git-open) - ZSH plugin to open the repo's respective website.
+- [Git-open Zsh Plugin](https://github.com/paulirish/git-open) - ZSH plugin to open the repo's respective website.
 - [Eclipse](https://eclipse.org/)
 - [Pycharm](https://www.jetbrains.com/pycharm/)
 - [Android Studio](https://developer.android.com/studio)
@@ -224,7 +225,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Reactive Extensions](http://reactivex.io/intro.html)
 - [Lightbot](https://itunes.apple.com/us/app/lightbot-programming-puzzles/id657638474)
 - [Eloquent Javascript](https://eloquentjavascript.net/) - A free, thorough introduction to JavaScript, including it's quirks/features.
-- [Free Code Camp] (https://www.freecodecamp.org/learn/)
+- [Free Code Camp](https://www.freecodecamp.org/learn/)
 - [Automate the Boring Stuff With Python By Al Sweigart](https://automatetheboringstuff.com/) - A good introduction to automating simple task with Python
 
 ## Python
@@ -302,8 +303,8 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
  - [Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)
  - [Refactoring][https://refactoring.guru/refactoring]
 
-- [MacBook] (www.apple.com)
-- [Windows] (www.microsoft.com)
+- [MacBook](www.apple.com)
+- [Windows](www.microsoft.com)
 
 ## Android Things
 - https://developer.android.com/things/get-started/kits
@@ -385,7 +386,7 @@ Active Opensource libraries for Reinforcement Learning Research
 - https://softwareleadweekly.com/ - newsletter with a nice digest every week of thought-provoking articles, Tweet threads, etc. that can help take your leadership skills and team to the next level
 
 ## Performance Testing
-- [Gatling] (https://gatling.io/)
+- [Gatling](https://gatling.io/)
 
 ## Useful Technical Bolgs
 - MIT Technology Review - https://www.technologyreview.com/
