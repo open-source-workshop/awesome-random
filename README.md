@@ -289,6 +289,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 
 ## Ted Talks
 - [Change your mindset, change the game | Dr. Alia Crum | TEDxTraverseCity](https://www.youtube.com/watch?v=0tqq66zwa7g) - She explores scientific results that show the influence of the mindset on the body, and how changing the subjective mindset produced different outcomes.
+- [How to Make Stress Your Friend | Kelly McGonigal](https://www.ted.com/talks/kelly_mcgonigal_how_to_make_stress_your_friend/transcript?language=en) - She talks about the negative impacts of long term stress on the body and how looking at stress as a way your body helps you overcome a challenge can help you live a longer, healthier life.
 
 ## Tech Talks
 - [TDD, Where did it all go wrong? | Ian Cooper](https://www.youtube.com/watch?v=EZ05e7EMOLM) - learn how to structure your unit tests so that your code is refactorable and maintainable.
