@@ -37,7 +37,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 - [Go](https://golang.org/) - Go is an open source programming language that makes it easy to build simple, reliable, and efficient software (From [golang](https://golang.org/)).
 
--[Scala](https://www.scala-lang.org/)
+- [Scala](https://www.scala-lang.org/)
 
 - https://www.scala-lang.org/ - Scala combines object-oriented and functional programming in one concise, high-level language.
 
