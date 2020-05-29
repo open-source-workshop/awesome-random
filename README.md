@@ -177,6 +177,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Git-open Zsh Plugin] (https://github.com/paulirish/git-open) - ZSH plugin to open the repo's respective website.
 - [Eclipse](https://eclipse.org/)
 - [Pycharm](https://www.jetbrains.com/pycharm/)
+- [Jupyter Notebook](https://jupyter.org/) 
 - [JetBrains](https://www.jetbrains.com/)
 
 ## Entertainment
