@@ -151,6 +151,9 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - Steve Jobs https://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537 - book about Steve Jobs
 - [Effective Java](https://wiki.c2.com/?EffectiveJava)
 
+## Webtoons
+-[Haxor](https://www.webtoons.com/en/sf/haxor/list?title_no=1325)
+
 
 ## Editors
 - [Emacs](https://www.gnu.org/software/emacs/)
