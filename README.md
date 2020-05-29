@@ -63,6 +63,8 @@ A not so curated and random list of amazingly awesome awesomeness.
 - https://material.angular.io - Angular Component library for frontend development. Easy to use, has great looking scalable components and few different themes.
 - http://jsonviewer.stack.hu - Quick and easy JSON object explorer
 
+## GCP Certifications
+https://cloud.google.com/certification
 
 ### Browsers
 
