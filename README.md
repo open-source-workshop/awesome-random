@@ -20,12 +20,21 @@ A not so curated and random list of amazingly awesome awesomeness.
 - https://learning.oreilly.com/library/view/spark-the-definitive/9781491912201/ - Spark: The Definitive Guide
 - https://learning.oreilly.com/library/view/modern-php/9781491905173/ - Good book for new features of PHP
 - https://landing.google.com/sre/sre-book/toc/index.html - Google's Book about Site Reliability Engineering
+- https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow - Thinking, Fast and Slow
 
 ## Book on Real Life Events
 - http://www.tgot.org/images/1_File-PDF-MLMM.pdf - Many Lives, Many Masters - Dr. Brian Weiss - The true story of a prominent psychiatrist, his patient, and past-life therapy, that changed both their lives.
 
 ## Deep Learning
 - https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd - Tensorflow without a phD
+- http://d2l.ai/ - Dive into Deep Learning, an interactive deep learning book with code, math, and discussions, based on the NumPy interface
+- https://bigdatabeard.com/ultimate-list-of-tensorflow-resources-for-machine-learning-engineers/
+
+- https://github.com/fchollet/deep-learning-with-python-notebooks
+
+  Jupyter notebooks for the code samples of the book "Deep Learning with Python"
+
+
 
 ## Platforms
 
@@ -46,11 +55,14 @@ A not so curated and random list of amazingly awesome awesomeness.
 - [Java](https://docs.oracle.com/javase/tutorial/)
 
 - [C] (https://devdocs.io/c/)
+- [C#] (https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/)
 
 - [Esoteric Programming Languages](https://en.wikipedia.org/wiki/Esoteric_programming_language) (Good for some laughes)
 
 - [Swift](https://developer.apple.com/swift/)
+
 - [NodeJS](https://nodejs.org/) - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+- [Kotlin](https://kotlinlang.org/)
 
 ## Front-End Development
 
@@ -62,6 +74,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 - https://materializecss.com/ - A responsive front-end framework
 - https://material.angular.io - Angular Component library for frontend development. Easy to use, has great looking scalable components and few different themes.
 - http://jsonviewer.stack.hu - Quick and easy JSON object explorer
+- [Dwitter](https://www.dwitter.net/) - Cool JavaScript demos in 140 characters or less
 
 
 ### Browsers
@@ -80,6 +93,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 
 #### Chrome
 - [React Dev Tools for Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en) Adds React debugging tools to the Chrome Developer Tools.
+- [Eyedropper Extension](https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka?hl=en) - A chrome extension that allows you to select any colour on your webpage and obtain details such as its hex code and RGB values.
 
 ## Crypto
 - [RustCrypto](https://github.com/RustCrypto) - Implementation of many crypto algorithms in Rust
@@ -116,9 +130,11 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - https://www.deeplearning.ai/machine-learning-yearning/ - A book by Andrew Ng that teaches techniques for measuring, understanding and improving performance of ML methods.
 - [Deep Learning vs Machine Learning](https://www.infoworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.html)
 - [Machine Learning for numerical time series data] https://towardsdatascience.com/dynamic-time-warping-3933f25fcdd
+- [Deep Learning book by Ian Goodfellow etc.] https://www.deeplearningbook.org/
 
 ## Spring Boot
 - [Spring Boot by Baeldung](https://www.baeldung.com/spring-boot) - A free online website that people can use for learning spring boot with examples.
+- [Spring Professional Certification Study Guide](https://d1fto35gcfffzn.cloudfront.net/academy/Spring-Professional-Certification-Study-Guide.pdf)
 
 
 ## Theory
@@ -150,6 +166,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Neuromancer](https://en.wikipedia.org/wiki/Neuromancer) - Great scifi novel involving a computer hacker, AI, and cyberspace
 - Steve Jobs https://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537 - book about Steve Jobs
 - [Effective Java](https://wiki.c2.com/?EffectiveJava)
+- [Blindsight by Peter Watts](https://rifters.com/real/Blindsight.htm)
 
 
 ## Editors
@@ -175,6 +192,8 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Git-open Zsh Plugin] (https://github.com/paulirish/git-open) - ZSH plugin to open the repo's respective website.
 - [Eclipse](https://eclipse.org/)
 - [Pycharm](https://www.jetbrains.com/pycharm/)
+- [Android Studio](https://developer.android.com/studio)
+- [JetBrains](https://www.jetbrains.com/)
 
 ## Entertainment
 - [Rotten Tomatoes](https://www.rottentomatoes.com/)
@@ -189,6 +208,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [SQL Tutorial](https://www.w3schools.com/sql/)
 - [SQLite](https://sqlite.org/index.html)
 - [Google Firebase](https://firebase.google.com/docs/database)
+- [PostgreSQL](https://www.postgresql.org/)
 
 ## Cloud Infrastructure and Kubernetes
 - [KAtlas - Multi-Cluster Discoverability and Auditability](https://github.com/intuit/katlas)
@@ -205,10 +225,12 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Lightbot](https://itunes.apple.com/us/app/lightbot-programming-puzzles/id657638474)
 - [Eloquent Javascript](https://eloquentjavascript.net/) - A free, thorough introduction to JavaScript, including it's quirks/features.
 - [Free Code Camp] (https://www.freecodecamp.org/learn/)
+- [Automate the Boring Stuff With Python By Al Sweigart](https://automatetheboringstuff.com/) - A good introduction to automating simple task with Python
 
 ## Python
 - [Python Documentation](https://docs.python.org/3/)
 - [Python Package Index](https://pypi.org/)
+- [Python Tutor] (https://http://www.pythontutor.com/) An interactive website to visualize your python code
 
 ## Rust
 - [Rust Playground](https://play.rust-lang.org)
@@ -227,7 +249,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 ## Content Management Systems
 
 ## Hardware
-
+  Mac
 ## Business
 - [Greaterfool Blog. Canadian real estate and politics.](https://www.greaterfool.ca/)
 
@@ -255,6 +277,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 
 ## ES6
 - [Official site](http://www.ecma-international.org/ecma-262/6.0/)
+- [An overview of what’s new in ES6](https://exploringjs.com/es6/ch_overviews.html)
 
 ## React
 - [Official site](https://reactjs.org/)
@@ -268,6 +291,9 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [TOOL](https://www.insomnia.rest/)
 - [GraphQL Error Handling Article](https://itnext.io/the-definitive-guide-to-handling-graphql-errors-e0c58b52b5e1) - How best to handle errors is something the GraphQL community is struggling to define a definitive pattern on. This article explains one implementation that might work for you!
 - [kgraphql](https://github.com/aPureBase/KGraphQL) KGraphQL is Kotlin implementation of GraphQL. It provides rich DSL to setup GraphQL schema.
+
+## Django 
+- https://www.djangoproject.com/start/ - Django set up 
 
 ## Laptops
 
@@ -287,6 +313,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 ## Podcasts
 - [Anna Faris is Unqualified](https://www.unqualified.com/)
 - [The Adventure Zone](https://maximumfun.org/podcasts/adventure-zone/) - DnD has never been so entertaining!
+- [Jesus & Jollof](https://jesusandjollof.simplecast.com/)
 
 ## Ted Talks
 - [Change your mindset, change the game | Dr. Alia Crum | TEDxTraverseCity](https://www.youtube.com/watch?v=0tqq66zwa7g) - She explores scientific results that show the influence of the mindset on the body, and how changing the subjective mindset produced different outcomes.
@@ -301,12 +328,17 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 
 ## Data Visualizations
 - https://www.jasondavies.com/ - Awesome interactive data visualizations
+- https://observablehq.com/@d3/gallery - Cool visualizations written in JS
+- https://pudding.cool - Digital Publication using Visual Essays
 
 ## Reinforcement Learning
 
 Active Opensource libraries for Reinforcement Learning Research
  - OpenAI's [Baselines](https://github.com/openai/baselines)
  - Google's [Dopamine](https://github.com/google/dopamine)
+
+## Mental Health
+- [Lockdown Productivity: Spaceship You](https://www.youtube.com/watch?v=snAhsXyO3Ck) - An incredibly helpful way to think about partitioning your life for the sake of your overall health (particularly during the pandemic)
 
 ## Music
 - [Rolling Stone's Greatest Songs Of All Time](https://www.rollingstone.com/music/music-lists/500-greatest-songs-of-all-time-151127/)
@@ -325,6 +357,7 @@ Active Opensource libraries for Reinforcement Learning Research
 - [ROODAY's Mixtape](https://play.google.com/music/playlist/AMaBXymNA7ffaknU8xxR4-Dbe8-cRINnKXC67Kefa2Cb-WyPwnyk4ST_9xCl_fsI6v-pxZ9PW680uiA_vImrxl53-Ant2I3fSw%3D%3D)
 - [Old Town Road](https://www.youtube.com/watch?v=w2Ov5jzm3j8)
 - [King Princess - 1950](https://www.youtube.com/watch?v=LNxWTS25Tbk)
+- [Hard Place](https://www.youtube.com/watch?v=zfHbuTG8IHE)
 
 ## Pets
 - [Dog Rates](https://twitter.com/dog_rates)
@@ -358,5 +391,16 @@ Active Opensource libraries for Reinforcement Learning Research
 
 ## Software Engineering
  - [C2 Wiki](https://wiki.c2.com/) - Venerable archive of software engineering and programming pages and discussion. Has pages on every programming topic under the sun, in a much older perspective.
+ 
+ ## Recipes
+- [Chicken Katsu] (https://www.allrecipes.com/recipe/72068/chicken-katsu/) - Straight fire 🔥 
+
+
+## Social Networks
+- Instagram - https://www.instagram.com/
+
 
 first
+## Random websites 
+- Wait But Why - [https://waitbutwhy.com/] 
+
