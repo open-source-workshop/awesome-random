@@ -26,6 +26,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 ## Deep Learning
 - https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd - Tensorflow without a phD
+- https://www.deeplearningbook.org/front_matter.pdf - Great book on deeplearning from MIT
 
 ## Platforms
 
