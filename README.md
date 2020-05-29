@@ -62,6 +62,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 - https://materializecss.com/ - A responsive front-end framework
 - https://material.angular.io - Angular Component library for frontend development. Easy to use, has great looking scalable components and few different themes.
 - http://jsonviewer.stack.hu - Quick and easy JSON object explorer
+- [Flexbox Froggy](https://flexboxfroggy.com/) - Learn flexbox with a browser game
 
 
 ### Browsers
