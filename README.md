@@ -313,6 +313,9 @@ Active Opensource libraries for Reinforcement Learning Research
  - OpenAI's [Baselines](https://github.com/openai/baselines)
  - Google's [Dopamine](https://github.com/google/dopamine)
 
+## Mental Health
+- [Lockdown Productivity: Spaceship You](https://www.youtube.com/watch?v=snAhsXyO3Ck) - An incredibly helpful way to think about partitioning your life for the sake of your overall health (particularly during the pandemic)
+
 ## Music
 - [Rolling Stone's Greatest Songs Of All Time](https://www.rollingstone.com/music/music-lists/500-greatest-songs-of-all-time-151127/)
 - [Get Shwifty](https://www.youtube.com/watch?v=7ecYoSvGO60)
