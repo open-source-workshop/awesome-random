@@ -52,6 +52,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 - [Java](https://docs.oracle.com/javase/tutorial/)
 
 - [C] (https://devdocs.io/c/)
+- [C#] (https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/)
 
 - [Esoteric Programming Languages](https://en.wikipedia.org/wiki/Esoteric_programming_language) (Good for some laughes)
 
