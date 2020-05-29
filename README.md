@@ -300,6 +300,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 
 ## Data Visualizations
 - https://www.jasondavies.com/ - Awesome interactive data visualizations
+- https://observablehq.com/@d3/gallery - Cool visualizations written in JS
 
 ## Reinforcement Learning
 
