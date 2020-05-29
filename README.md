@@ -20,6 +20,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 - https://learning.oreilly.com/library/view/spark-the-definitive/9781491912201/ - Spark: The Definitive Guide
 - https://learning.oreilly.com/library/view/modern-php/9781491905173/ - Good book for new features of PHP
 - https://landing.google.com/sre/sre-book/toc/index.html - Google's Book about Site Reliability Engineering
+-https://www.oreill.com/library/view/operating-system-concepts/9781118063330/ - Good book for operating-system-concepts
 
 ## Book on Real Life Events
 - http://www.tgot.org/images/1_File-PDF-MLMM.pdf - Many Lives, Many Masters - Dr. Brian Weiss - The true story of a prominent psychiatrist, his patient, and past-life therapy, that changed both their lives.
