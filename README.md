@@ -33,8 +33,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 - https://github.com/fchollet/deep-learning-with-python-notebooks
 
   Jupyter notebooks for the code samples of the book "Deep Learning with Python"
-
-
+- https://pytorch.org/tutorials/ - PyTorch Tutorials
 
 ## Platforms
 
@@ -230,7 +229,9 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 ## Python
 - [Python Documentation](https://docs.python.org/3/)
 - [Python Package Index](https://pypi.org/)
-- [Python Tutor](https://http://www.pythontutor.com/) An interactive website to visualize your python code
+- [WebScraping using Python](https://scrapy.org/)
+- [Python Tutor] (https://http://www.pythontutor.com/) An interactive website to visualize your python code
+
 
 ## Rust
 - [Rust Playground](https://play.rust-lang.org)
