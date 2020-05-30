@@ -64,6 +64,8 @@ A not so curated and random list of amazingly awesome awesomeness.
 - [NodeJS](https://nodejs.org/) - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 - [Kotlin](https://kotlinlang.org/)
 
+- [React](https://reactjs.org/) - React is a JavaScript library for FrontEnd Development
+
 ## Front-End Development
 
 - https://css-tricks.com/ - A front-end blog with up to date topics that release weekly
