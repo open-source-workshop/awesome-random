@@ -194,6 +194,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Pycharm](https://www.jetbrains.com/pycharm/)
 - [Android Studio](https://developer.android.com/studio)
 - [JetBrains](https://www.jetbrains.com/)
+- [Jupyter Notebook](https://jupyter.org/)
 
 ## Entertainment
 - [Rotten Tomatoes](https://www.rottentomatoes.com/)
