@@ -76,6 +76,8 @@ A not so curated and random list of amazingly awesome awesomeness.
 - http://jsonviewer.stack.hu - Quick and easy JSON object explorer
 - [Dwitter](https://www.dwitter.net/) - Cool JavaScript demos in 140 characters or less
 
+## GCP Certifications
+https://cloud.google.com/certification
 
 ### Browsers
 
