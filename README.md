@@ -34,7 +34,8 @@ A not so curated and random list of amazingly awesome awesomeness.
 
   Jupyter notebooks for the code samples of the book "Deep Learning with Python"
 
-
+## AWS internals
+- Shuffel sharding in AWS - https://aws.amazon.com/builders-library/workload-isolation-using-shuffle-sharding/?did=ba_card&trk=ba_card#What_is_shuffle_sharding.3F
 
 ## Platforms
 
@@ -53,6 +54,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 - [Rust](https://www.rust-lang.org/learn) - Rust as a language is different. Not because of its fancy syntax or welcoming community, but because of the confidence one gains when writing a program in it.
 
 - [Java](https://docs.oracle.com/javase/tutorial/) - Java is a Object Oriented Programming Languages
+- [Java Video tutorial](https://www.udemy.com/course/java-the-complete-java-developer-course/) - Java Master class on Udemy
 
 - [C](https://devdocs.io/c/)
 - [C#](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/)
@@ -136,6 +138,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Spring Boot by Baeldung](https://www.baeldung.com/spring-boot) - A free online website that people can use for learning spring boot with examples.
 - [Spring Professional Certification Study Guide](https://d1fto35gcfffzn.cloudfront.net/academy/Spring-Professional-Certification-Study-Guide.pdf)
 - [Spring Boot Microservices Udemy course](https://intuit.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/learn/lecture/8005654t)
+- [Build a Quick API with Spring Data Rest](https://spring.io/guides/gs/accessing-data-rest/)
 
 ## Theory
 - [What Every Computer Scientist Should Know About Floating Point Arithmetic](https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/02Numerics/Double/paper.pdf)
@@ -226,6 +229,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Eloquent Javascript](https://eloquentjavascript.net/) - A free, thorough introduction to JavaScript, including it's quirks/features.
 - [Free Code Camp](https://www.freecodecamp.org/learn/)
 - [Automate the Boring Stuff With Python By Al Sweigart](https://automatetheboringstuff.com/) - A good introduction to automating simple task with Python
+- [Vertx - Asynchrnonous Programming for Java Developers](https://vertx.io/docs/guide-for-java-devs/)
 
 ## Python
 - [Python Documentation](https://docs.python.org/3/)
