@@ -245,6 +245,9 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Go Style Guide](https://github.com/bahlo/go-styleguide)
 - [Project Layout](https://github.com/golang-standards/project-layout)
 
+## Swift
+- [NSHipster](https://nshipster.com)
+
 ## Security
 - [Machine Learning for Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)
 - [Digital Identity](https://qz.com/1525661/your-digital-identity-has-three-layers-and-you-can-only-protect-one-of-them/)
