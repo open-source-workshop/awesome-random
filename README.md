@@ -34,7 +34,8 @@ A not so curated and random list of amazingly awesome awesomeness.
 
   Jupyter notebooks for the code samples of the book "Deep Learning with Python"
 
-
+## AWS internals
+- Shuffel sharding in AWS - https://aws.amazon.com/builders-library/workload-isolation-using-shuffle-sharding/?did=ba_card&trk=ba_card#What_is_shuffle_sharding.3F
 
 ## Platforms
 
