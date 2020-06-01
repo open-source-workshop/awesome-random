@@ -137,6 +137,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 ## Spring Boot
 - [Spring Boot by Baeldung](https://www.baeldung.com/spring-boot) - A free online website that people can use for learning spring boot with examples.
 - [Spring Professional Certification Study Guide](https://d1fto35gcfffzn.cloudfront.net/academy/Spring-Professional-Certification-Study-Guide.pdf)
+- [Build a Quick API with Spring Data Rest](https://spring.io/guides/gs/accessing-data-rest/)
 
 
 ## Theory
