@@ -404,7 +404,7 @@ Active Opensource libraries for Reinforcement Learning Research
 
 ## Social Networks
 - Instagram - https://www.instagram.com/
-
+- Hackernews - https://news.ycombinator.com/ - like reddit but more tech-focused
 
 first
 ## Random websites 
