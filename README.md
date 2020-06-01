@@ -103,7 +103,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 ## Hadoop Projects
 
 ## AWS EMR Projects
-
+- [Migrate big data from on-premises to AWS] (https://d1.awsstatic.com/whitepapers/amazon_emr_migration_guide.pdf)
 ## Back-End Development
 
 [Setup a Custom Domain for Lambda & API Gateway with Serverless](https://serverless.com/blog/serverless-api-gateway-domain/)
