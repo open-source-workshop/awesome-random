@@ -226,6 +226,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Eloquent Javascript](https://eloquentjavascript.net/) - A free, thorough introduction to JavaScript, including it's quirks/features.
 - [Free Code Camp](https://www.freecodecamp.org/learn/)
 - [Automate the Boring Stuff With Python By Al Sweigart](https://automatetheboringstuff.com/) - A good introduction to automating simple task with Python
+- [Vertx - Asynchrnonous Programming for Java Developers](https://vertx.io/docs/guide-for-java-devs/)
 
 ## Python
 - [Python Documentation](https://docs.python.org/3/)
