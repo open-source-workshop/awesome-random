@@ -10,6 +10,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 ## Good Books
 
+
 - https://github.com/Automation-Tools/karate-test-mojo -  Generate integration tests from springboot or jersey source code.
 - https://developers.google.com/web/fundamentals/performance/why-performance-matters - Why performance matters
 - https://pragprog.com/book/tpp/the-pragmatic-programmer - Timeless patterns for thinking about designing good software.
@@ -407,6 +408,8 @@ Active Opensource libraries for Reinforcement Learning Research
 - Instagram - https://www.instagram.com/
 
 
+## Competitive programming practice
+- [Leetcode](https://leetcode.com/) 
 first
 ## Random websites 
 - Wait But Why - [https://waitbutwhy.com/] 
