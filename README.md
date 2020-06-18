@@ -44,7 +44,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 - https://kotlinlang.org/ - Kotlin is a cross-platform, statically typed, general-purpose programming language with type inference (From [Wikipedia](https://en.wikipedia.org/wiki/Kotlin_(programming_language))).
 - [jest](https://jestjs.io/) -learn jest
 - [Python - Deep Dive](http://histo.ucsf.edu/BMS270/diveintopython3-r802.pdf) - Best book for starters
-
+- [flutter](https://flutter.dev) - Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
 - [Go](https://golang.org/) - Go is an open source programming language that makes it easy to build simple, reliable, and efficient software (From [golang](https://golang.org/)).
 
 - https://www.scala-lang.org/ - Scala combines object-oriented and functional programming in one concise, high-level language.
