@@ -55,6 +55,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 - [Java](https://docs.oracle.com/javase/tutorial/) - Java is a Object Oriented Programming Languages
 - [Java Video tutorial](https://www.udemy.com/course/java-the-complete-java-developer-course/) - Java Master class on Udemy
+- [Effective Java](https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997) - Great book to read for best practices on Java
 
 - [C](https://devdocs.io/c/)
 - [C#](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/)
