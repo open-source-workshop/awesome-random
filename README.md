@@ -32,6 +32,8 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 - https://github.com/fchollet/deep-learning-with-python-notebooks
 
+- https://pytorch.org/mobile/home/
+
   Jupyter notebooks for the code samples of the book "Deep Learning with Python"
 
 ## AWS internals
