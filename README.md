@@ -65,6 +65,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 - [NodeJS](https://nodejs.org/) - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 - [Kotlin](https://kotlinlang.org/)
+- [SML/NJ](https://www.smlnj.org/) - A nice functional programming language
 
 ## Front-End Development
 
@@ -401,7 +402,7 @@ Active Opensource libraries for Reinforcement Learning Research
  
  ## Recipes
 - [Chicken Katsu](https://www.allrecipes.com/recipe/72068/chicken-katsu/) - Straight fire 🔥 
-
+- [Binging with Babish](https://www.bingingwithbabish.com/#top) - Aweseome and easy to follow recipes 
 
 ## Social Networks
 - Instagram - https://www.instagram.com/
