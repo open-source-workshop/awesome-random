@@ -300,6 +300,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 
 ## Django 
 - https://www.djangoproject.com/start/ - Django set up 
+- https://docs.djangoproject.com/en/3.0/topics/db/models/ - Django models
 
 ## Laptops
 
