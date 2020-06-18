@@ -24,6 +24,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 ## Book on Real Life Events
 - http://www.tgot.org/images/1_File-PDF-MLMM.pdf - Many Lives, Many Masters - Dr. Brian Weiss - The true story of a prominent psychiatrist, his patient, and past-life therapy, that changed both their lives.
+-https://en.wikipedia.org/wiki/When_Breath_Becomes_Air - When Breath Becomes Air - The memoir of a neurosurgeon who battles lung cancer.
 
 ## Deep Learning
 - https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd - Tensorflow without a phD
