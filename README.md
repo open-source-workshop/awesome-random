@@ -370,6 +370,7 @@ Active Opensource libraries for Reinforcement Learning Research
 - [King Princess - 1950](https://www.youtube.com/watch?v=LNxWTS25Tbk)
 - [Breathe - Pink Floyd](https://www.youtube.com/watch?v=mrojrDCI02k)
 - [Hard Place](https://www.youtube.com/watch?v=zfHbuTG8IHE)
+- [Bittersweet Poetry](https://www.youtube.com/watch?reload=9&v=4P03a2_IsX4)
 
 ## Pets
 - [Dog Rates](https://twitter.com/dog_rates)
