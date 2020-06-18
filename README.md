@@ -119,6 +119,8 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 
 - [Data and userful information](https://www.kaggle.com/) - This website is good for beginners who want to learn big data and machine learning.
 
+- [Apache Spark](https://spark.apache.org/) - A unified analytics engine for large-scale data processing.
+
 ## MongoDB
 
 - [MongoDB Tutorial](https://docs.mongodb.com/manual/tutorial/) - The MongoDB tutorials.
