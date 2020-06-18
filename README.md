@@ -54,9 +54,13 @@ A not so curated and random list of amazingly awesome awesomeness.
 - [Rust](https://www.rust-lang.org/learn) - Rust as a language is different. Not because of its fancy syntax or welcoming community, but because of the confidence one gains when writing a program in it.
 
 - [Java](https://docs.oracle.com/javase/tutorial/) - Java is a Object Oriented Programming Languages
+
 - [Java Video tutorial](https://www.udemy.com/course/java-the-complete-java-developer-course/) - Java Master class on Udemy
 
+- [C++] (https://en.cppreference.com/w/)
+
 - [C](https://devdocs.io/c/)
+
 - [C#](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/)
 
 - [Esoteric Programming Languages](https://en.wikipedia.org/wiki/Esoteric_programming_language) (Good for some laughes)
@@ -65,6 +69,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 - [NodeJS](https://nodejs.org/) - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 - [Kotlin](https://kotlinlang.org/)
+
 
 ## Front-End Development
 
