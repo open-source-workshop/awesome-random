@@ -407,6 +407,9 @@ Active Opensource libraries for Reinforcement Learning Research
 - Instagram - https://www.instagram.com/
 
 
+## Discord Bot development
+- Discord.py - https://discordpy.readthedocs.io/en/latest/
+
 first
 ## Random websites 
 - Wait But Why - [https://waitbutwhy.com/] 
