@@ -69,7 +69,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 - [NodeJS](https://nodejs.org/) - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 - [Kotlin](https://kotlinlang.org/)
-
+- [Standard ML](https://www.cl.cam.ac.uk/~lp15/MLbook/)
 
 ## Front-End Development
 
@@ -415,6 +415,4 @@ Active Opensource libraries for Reinforcement Learning Research
 first
 ## Random websites 
 - Wait But Why - [https://waitbutwhy.com/] 
-## Random Artists
-- Bad Bunny - https://www.youtube.com/watch?v=CPK_IdHe1Yg
 
