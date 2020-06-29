@@ -70,6 +70,8 @@ A not so curated and random list of amazingly awesome awesomeness.
 - [NodeJS](https://nodejs.org/) - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 - [Kotlin](https://kotlinlang.org/)
 
+- [PHP](https://php.net) - An old favorite. Not that popular today, but half of the world still runs on it.
+
 
 ## Front-End Development
 
