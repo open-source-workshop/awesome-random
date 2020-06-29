@@ -82,7 +82,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 - https://material.angular.io - Angular Component library for frontend development. Easy to use, has great looking scalable components and few different themes.
 - http://jsonviewer.stack.hu - Quick and easy JSON object explorer
 - [Dwitter](https://www.dwitter.net/) - Cool JavaScript demos in 140 characters or less
-
+- https://developer.mozilla.org/en-US/docs/Web - Mozzila JavaScript documentation
 
 ### Browsers
 
