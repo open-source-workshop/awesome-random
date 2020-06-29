@@ -138,6 +138,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Deep Learning vs Machine Learning](https://www.infoworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.html)
 - [Machine Learning for numerical time series data] https://towardsdatascience.com/dynamic-time-warping-3933f25fcdd
 - [Deep Learning book by Ian Goodfellow etc.] https://www.deeplearningbook.org/
+- [37 Reasons Why your Neural Network isn't Working] (https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607) - A really good article that steps through the many different pitfalls to making a neural network that may cause the results to be trash.
 
 ## Spring Boot
 - [Spring Boot by Baeldung](https://www.baeldung.com/spring-boot) - A free online website that people can use for learning spring boot with examples.
@@ -303,8 +304,8 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [GraphQL Error Handling Article](https://itnext.io/the-definitive-guide-to-handling-graphql-errors-e0c58b52b5e1) - How best to handle errors is something the GraphQL community is struggling to define a definitive pattern on. This article explains one implementation that might work for you!
 - [kgraphql](https://github.com/aPureBase/KGraphQL) KGraphQL is Kotlin implementation of GraphQL. It provides rich DSL to setup GraphQL schema.
 
-## Django 
-- https://www.djangoproject.com/start/ - Django set up 
+## Django
+- https://www.djangoproject.com/start/ - Django set up
 
 ## Laptops
 
@@ -403,9 +404,9 @@ Active Opensource libraries for Reinforcement Learning Research
 
 ## Software Engineering
  - [C2 Wiki](https://wiki.c2.com/) - Venerable archive of software engineering and programming pages and discussion. Has pages on every programming topic under the sun, in a much older perspective.
- 
+
  ## Recipes
-- [Chicken Katsu](https://www.allrecipes.com/recipe/72068/chicken-katsu/) - Straight fire 🔥 
+- [Chicken Katsu](https://www.allrecipes.com/recipe/72068/chicken-katsu/) - Straight fire 🔥
 
 
 ## Social Networks
@@ -413,8 +414,7 @@ Active Opensource libraries for Reinforcement Learning Research
 
 
 first
-## Random websites 
-- Wait But Why - [https://waitbutwhy.com/] 
+## Random websites
+- Wait But Why - [https://waitbutwhy.com/]
 ## Random Artists
 - Bad Bunny - https://www.youtube.com/watch?v=CPK_IdHe1Yg
-
