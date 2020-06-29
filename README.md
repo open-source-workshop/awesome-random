@@ -181,6 +181,7 @@ Firefox has a great set of first issues to start learning how to work with their
 
 ## React
 - [Official site](https://reactjs.org/)
+- [Testing React Hooks in Jest](https://itnext.io/testing-components-built-using-react-hooks-with-jest-enzyme-edb87d703756)
 
 ## Redux
 - [Official site](https://redux.js.org/)
