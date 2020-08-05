@@ -311,7 +311,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 ## Laptops
 
 ## Chrome plugins
-- [uBlock Origin is an awesome content blocker] https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en
+- [uBlock Origin is an awesome content blocker](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)
 
 ## Design
  - [Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)
@@ -424,5 +424,4 @@ first
 - Wait But Why - [https://waitbutwhy.com/] 
 ## Random Artists
 - Bad Bunny - https://www.youtube.com/watch?v=CPK_IdHe1Yg
-
 
