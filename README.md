@@ -25,6 +25,10 @@ A not so curated and random list of amazingly awesome awesomeness.
 ## Book on Real Life Events
 - http://www.tgot.org/images/1_File-PDF-MLMM.pdf - Many Lives, Many Masters - Dr. Brian Weiss - The true story of a prominent psychiatrist, his patient, and past-life therapy, that changed both their lives.
 
+## Books Everyone Should Read At Least One In Their Lives
+A collection of powerful books that can help at different points in life
+- https://www.lifehack.org/articles/communication/30-books-that-everyone-should-read-least-once-their-lives.html
+
 ## Deep Learning
 - https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd - Tensorflow without a phD
 - http://d2l.ai/ - Dive into Deep Learning, an interactive deep learning book with code, math, and discussions, based on the NumPy interface
