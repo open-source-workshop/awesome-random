@@ -183,7 +183,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Emacs](https://www.gnu.org/software/emacs/)
 - [Vim](https://www.vim.org/) - edit text at the speed of thought ;)
 - [Visual Studio Code](https://code.visualstudio.com/) - great for front end development, Visual Studio Code Editor by Microsoft
-- [Visual Studio Code Tips and Tricks] (https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf) - handy cheat sheet for VSCode shortcuts and tricks. 
+- [Visual Studio Code Tips and Tricks](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf) - handy cheat sheet for VSCode shortcuts and tricks. 
 - [Neovim](https://neovim.io/)
 - [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose
 - [Atom](https://atom.io/) - A text editor made by Github
