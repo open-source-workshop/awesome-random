@@ -422,4 +422,4 @@ first
 ## Random Artists
 - Bad Bunny - https://www.youtube.com/watch?v=CPK_IdHe1Yg
 
-
+## Scala for the impatient
