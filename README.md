@@ -223,6 +223,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [SQLite](https://sqlite.org/index.html)
 - [Google Firebase](https://firebase.google.com/docs/database)
 - [PostgreSQL](https://www.postgresql.org/)
+- [Elasticsearch](https://elastic.co)
 
 ## Cloud Infrastructure and Kubernetes
 - [KAtlas - Multi-Cluster Discoverability and Auditability](https://github.com/intuit/katlas)
