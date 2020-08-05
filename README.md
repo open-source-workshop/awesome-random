@@ -146,7 +146,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Spring Professional Certification Study Guide](https://d1fto35gcfffzn.cloudfront.net/academy/Spring-Professional-Certification-Study-Guide.pdf)
 - [Spring Boot Microservices Udemy course](https://intuit.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/learn/lecture/8005654t)
 - [Build a Quick API with Spring Data Rest](https://spring.io/guides/gs/accessing-data-rest/)
-
+-[Building RESTful API with Spring Data,Hibernate,JPA](https://github.com/nityanavali1/awesome-random.git)
 ## Theory
 - [What Every Computer Scientist Should Know About Floating Point Arithmetic](https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/02Numerics/Double/paper.pdf)
 - [An Axiomatic Basis for Computer Programming](https://www.cs.cmu.edu/~crary/819-f09/Hoare69.pdf)
