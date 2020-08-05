@@ -72,6 +72,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 - [PHP](https://php.net) - An old favorite. Not that popular today, but half of the world still runs on it.
 
+- [Scala](https://www.scala-lang.org/)
 
 ## Front-End Development
 
