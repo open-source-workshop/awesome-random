@@ -77,6 +77,7 @@ A collection of powerful books that can help at different points in life
 
 - [PHP](https://php.net) - An old favorite. Not that popular today, but half of the world still runs on it.
 
+- [Scala](https://www.scala-lang.org/)
 
 ## Front-End Development
 
