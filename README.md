@@ -433,4 +433,5 @@ first
 ## Random Artists
 - Bad Bunny - https://www.youtube.com/watch?v=CPK_IdHe1Yg
 
-
+## Scala for the impatient
+https://learning.oreilly.com/videos/scala-for-the/9780134510613/9780134510613-SCLA_01_01
