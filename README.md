@@ -68,6 +68,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 - [Swift](https://developer.apple.com/swift/)
 
 - [NodeJS](https://nodejs.org/) - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+- [NodeJS](https://www.nodebeginner.org/#hello-world) - Getting started with nodejs.
 - [Kotlin](https://kotlinlang.org/)
 
 - [PHP](https://php.net) - An old favorite. Not that popular today, but half of the world still runs on it.
