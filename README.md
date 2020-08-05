@@ -238,6 +238,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Free Code Camp](https://www.freecodecamp.org/learn/)
 - [Automate the Boring Stuff With Python By Al Sweigart](https://automatetheboringstuff.com/) - A good introduction to automating simple task with Python
 - [Vertx - Asynchrnonous Programming for Java Developers](https://vertx.io/docs/guide-for-java-devs/)
+- [Go Programming](https://dave.cheney.net/practical-go)
 
 ## Python
 - [Python Documentation](https://docs.python.org/3/)
