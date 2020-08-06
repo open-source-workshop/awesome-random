@@ -420,6 +420,7 @@ Active Opensource libraries for Reinforcement Learning Research
  
  ## Recipes
 - [Chicken Katsu](https://www.allrecipes.com/recipe/72068/chicken-katsu/) - Straight fire 🔥 
+- [Mango Sticky Rice](epicurious.com/recipes/food/views/sticky-rice-with-mango-12066) - 🥭 go!
 
 
 ## Social Networks
