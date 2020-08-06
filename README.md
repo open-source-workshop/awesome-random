@@ -74,6 +74,7 @@ A collection of powerful books that can help at different points in life
 - [NodeJS](https://nodejs.org/) - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 - [NodeJS](https://www.nodebeginner.org/#hello-world) - Getting started with nodejs.
 - [Kotlin](https://kotlinlang.org/)
+- [SML/NJ](https://www.smlnj.org/) - A nice functional programming language.
 
 - [PHP](https://php.net) - An old favorite. Not that popular today, but half of the world still runs on it.
 
@@ -420,7 +421,7 @@ Active Opensource libraries for Reinforcement Learning Research
  
  ## Recipes
 - [Chicken Katsu](https://www.allrecipes.com/recipe/72068/chicken-katsu/) - Straight fire 🔥 
-
+- [Binging with Babish](https://www.bingingwithbabish.com/#top) - Aweseome and easy to follow recipes!
 
 ## Social Networks
 - Instagram - https://www.instagram.com/
