@@ -1,6 +1,14 @@
 # My awesome-random!!
-
+    
 ## Welcome
+
+
+#  |\_/|        ****************************    (\_/)
+# / @ @ \       *  "  Awesome Random    "  *   (='.'=)
+#( > º < )      *       Open Source        *   (")_(")
+# `>>x<<´       *                          *
+# /  O  \       ****************************
+#
 
 A not so curated and random list of amazingly awesome awesomeness.
 
