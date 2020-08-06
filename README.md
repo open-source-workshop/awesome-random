@@ -315,6 +315,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 
 ## Django 
 - https://www.djangoproject.com/start/ - Django set up 
+- https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/ - How to build and launch a website with Django. The version this tutorial is absed on is a little old but most of it is applicable.
 
 ## Laptops
 
