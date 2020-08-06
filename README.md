@@ -433,4 +433,9 @@ first
 ## Random Artists
 - Bad Bunny - https://www.youtube.com/watch?v=CPK_IdHe1Yg
 
+## Big data Analytics
+- 1. Tableau
+- 2. Splunk
+- 3. R
+
 
