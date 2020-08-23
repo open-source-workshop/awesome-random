@@ -21,6 +21,7 @@ Now clone the forked repository to your machine. Go to your GitHub account, open
 
 Open a terminal and run the following git command:
 
+
 ```
 git clone "url you just copied"
 ```
@@ -74,7 +75,7 @@ git add README.md
 Now commit those changes using the `git commit` command:
 
 ```
-git commit -m "Adding my awesome item"
+git commit -m "Adding my awesome item here"
 ```
 
 ## Push changes to GitHub
