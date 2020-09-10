@@ -270,6 +270,8 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 
 ## Hardware
   Mac
+  [Top gaming mice reviewed by Quake veteran](https://www.rocketjumpninja.com/top-mice)
+  
 ## Business
 - [Greaterfool Blog. Canadian real estate and politics.](https://www.greaterfool.ca/)
 
