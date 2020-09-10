@@ -121,6 +121,12 @@ A collection of powerful books that can help at different points in life
 - https://github.com/fchollet/deep-learning-with-python-notebooks
 - Jupyter notebooks for the code samples of the book "Deep Learning with Python"
 
+## Design
+- [Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)
+- [Refactoring][https://refactoring.guru/refactoring]
+- [MacBook](www.apple.com)
+- [Windows](www.microsoft.com)
+
 ## Development Environment
 - [VS Code](https://code.visualstudio.com/)
 - [Intellij](https://www.jetbrains.com/idea/)
@@ -130,12 +136,6 @@ A collection of powerful books that can help at different points in life
 - [Pycharm](https://www.jetbrains.com/pycharm/)
 - [Android Studio](https://developer.android.com/studio)
 - [JetBrains](https://www.jetbrains.com/)
-
-## Design
-- [Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)
-- [Refactoring][https://refactoring.guru/refactoring]
-- [MacBook](www.apple.com)
-- [Windows](www.microsoft.com)
 
 ## Devops
  - https://www.schoolofdevops.net/p/ultimate-devops-bootcamp - Free and a hands-on approach to get started
@@ -357,6 +357,11 @@ Active Opensource libraries for Reinforcement Learning Research
 - [This Week in Rust](https://this-week-in-rust.org/)
 
 # S
+## Security
+- [Machine Learning for Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)
+- [Digital Identity](https://qz.com/1525661/your-digital-identity-has-three-layers-and-you-can-only-protect-one-of-them/)
+- [How to Attack Windows 10 Machine with Metasploit on Kali Linux](https://resources.infosecinstitute.com/how-to-attack-windows-10-machine-with-metasploit-on-kali-linux/)
+
 ## SELinux
 - http://selinuxproject.org
 
@@ -377,11 +382,6 @@ Active Opensource libraries for Reinforcement Learning Research
 
 ## Software Engineering
  - [C2 Wiki](https://wiki.c2.com/) - Venerable archive of software engineering and programming pages and discussion. Has pages on every programming topic under the sun, in a much older perspective.
-
-## Security
-- [Machine Learning for Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)
-- [Digital Identity](https://qz.com/1525661/your-digital-identity-has-three-layers-and-you-can-only-protect-one-of-them/)
-- [How to Attack Windows 10 Machine with Metasploit on Kali Linux](https://resources.infosecinstitute.com/how-to-attack-windows-10-machine-with-metasploit-on-kali-linux/)
 
 # T
 ## Tech Leadership
