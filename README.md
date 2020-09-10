@@ -192,7 +192,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Neovim](https://neovim.io/)
 - [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose
 - [Atom](https://atom.io/) - A text editor made by Github
-
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 
 ## Gaming
 
@@ -215,6 +215,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Rotten Tomatoes](https://www.rottentomatoes.com/)
 - [Plex](https://github.com/plexinc)
 - [Things to do in San Francisco](https://www.thrillist.com/entertainment/san-francisco/things-to-do-in-san-francisco)
+- [Things to do in San Diego](https://www.tripadvisor.com/Attractions-g60750-Activities-San_Diego_California.html)
 
 ## Databases
 
@@ -237,6 +238,8 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 ## Learn
 - [Clean Code by Robert Martin](https://www.amazon.ca/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM) - A book on good software development practices and writing clean code!
 - [GraphQL](https://graphql.org/)
+- [Safari Books Online](https://learning.oreilly.com/home/)
+- [Safari Books Online](https://learning.oreilly.com/home/)
 - [Safari Books Online](https://learning.oreilly.com/home/)
 - [Wes Bos: great video courses on Advanced React, GraphQL, ES6, CSS Grid, Javascript, Node, etc.](https://wesbos.com/courses/)
 - [Reactive Extensions](http://reactivex.io/intro.html)
