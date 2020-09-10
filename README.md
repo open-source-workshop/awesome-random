@@ -92,6 +92,12 @@ A collection of powerful books that can help at different points in life
 - [Dwitter](https://www.dwitter.net/) - Cool JavaScript demos in 140 characters or less
 - https://developer.mozilla.org/en-US/docs/Web - Mozzila JavaScript documentation
 
+## Mobile Native
+### iOS
+- [Hacking With Swift](https://www.hackingwithswift.com)
+- [Swift by Sundell](https://www.swiftbysundell.com/)
+- [iOS Unit Testing](https://qualitycoding.org/ios-unit-testing/)
+
 ### Browsers
 
 #### Firefox (The Superior Browser)
@@ -164,6 +170,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [The Hitchhiker's Guide to the Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy), Always bring a towel.
 - [Deep Learning Book](https://www.nceclusters.no/globalassets/filer/nce/diverse/the-pragmatic-programmer.pdf)
 - [The Pragmatic Programmer: From Journeyman to Master](https://www.nceclusters.no/globalassets/filer/nce/diverse/the-pragmatic-programmer.pdf)
+- [The Pragmatic Programmer: 20th Anniversary Edition] (https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
 - [Don't Make Me Think](http://www.scottsdevelopers.com/dont-make-me-think-revisited.pdf)
 - [Algorithm Design Manual](http://www.algorist.com/) - Awesome collection of classic algorithms
 - [Code Complete, Second Edition](https://www.oreilly.com/library/view/code-complete-second/0735619670/)
