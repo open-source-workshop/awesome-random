@@ -100,6 +100,7 @@ Good textbook for beginners - https://www.amazon.com/Cryptography-Practice-Discr
 - https://developers.google.com/web/fundamentals/performance/why-performance-matters - Why performance matters
 - https://pragprog.com/book/tpp/the-pragmatic-programmer - Timeless patterns for thinking about designing good software.
 - http://greenteapress.com/wp/think-java/ - Think Java
+- https://www.goodreads.com/book/show/18693884-how-not-to-be-wrong - How Not to Be Wrong: The Power of Mathematical Thinking
 
 ## Editors
 - [Emacs](https://www.gnu.org/software/emacs/) 
