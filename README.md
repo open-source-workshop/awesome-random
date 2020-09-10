@@ -386,6 +386,7 @@ Active Opensource libraries for Reinforcement Learning Research
 
 ## Pets
 - [Dog Rates](https://twitter.com/dog_rates)
+- [Can Dogs Tell Time?] (https://dogtime.com/dog-health/dog-behavior/20728-can-dogs-tell-time#:~:text=Dogs%2C%20however%2C%20don't,romp%20at%20the%20dog%20park.&text=Or%20dogs%20may%20read%20environmental,scent%2C%20distance%2C%20and%20time.)
 
 ## SELinux
 - http://selinuxproject.org
