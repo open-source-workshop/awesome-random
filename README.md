@@ -91,6 +91,8 @@ A collection of powerful books that can help at different points in life
 - http://jsonviewer.stack.hu - Quick and easy JSON object explorer
 - [Dwitter](https://www.dwitter.net/) - Cool JavaScript demos in 140 characters or less
 - https://developer.mozilla.org/en-US/docs/Web - Mozzila JavaScript documentation
+- https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=en - Useful chrome extension for getting pixel perfect layouts
+- https://material-ui.com/ Material UI framework for react 
 
 ### Browsers
 
@@ -313,8 +315,8 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [GraphQL Error Handling Article](https://itnext.io/the-definitive-guide-to-handling-graphql-errors-e0c58b52b5e1) - How best to handle errors is something the GraphQL community is struggling to define a definitive pattern on. This article explains one implementation that might work for you!
 - [kgraphql](https://github.com/aPureBase/KGraphQL) KGraphQL is Kotlin implementation of GraphQL. It provides rich DSL to setup GraphQL schema.
 
-## Django 
-- https://www.djangoproject.com/start/ - Django set up 
+## Django
+- https://www.djangoproject.com/start/ - Django set up
 
 ## Laptops
 
@@ -417,9 +419,9 @@ Active Opensource libraries for Reinforcement Learning Research
 
 ## Software Engineering
  - [C2 Wiki](https://wiki.c2.com/) - Venerable archive of software engineering and programming pages and discussion. Has pages on every programming topic under the sun, in a much older perspective.
- 
+
  ## Recipes
-- [Chicken Katsu](https://www.allrecipes.com/recipe/72068/chicken-katsu/) - Straight fire 🔥 
+- [Chicken Katsu](https://www.allrecipes.com/recipe/72068/chicken-katsu/) - Straight fire 🔥
 
 
 ## Social Networks
@@ -428,9 +430,7 @@ Active Opensource libraries for Reinforcement Learning Research
 
 
 first
-## Random websites 
-- Wait But Why - [https://waitbutwhy.com/] 
+## Random websites
+- Wait But Why - [https://waitbutwhy.com/]
 ## Random Artists
 - Bad Bunny - https://www.youtube.com/watch?v=CPK_IdHe1Yg
-
-
