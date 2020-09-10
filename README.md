@@ -336,6 +336,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Anna Faris is Unqualified](https://www.unqualified.com/)
 - [The Adventure Zone](https://maximumfun.org/podcasts/adventure-zone/) - DnD has never been so entertaining!
 - [Jesus & Jollof](https://jesusandjollof.simplecast.com/)
+- [Command Line Heroes](https://www.redhat.com/en/command-line-heroes)
 
 ## Ted Talks
 - [Change your mindset, change the game | Dr. Alia Crum | TEDxTraverseCity](https://www.youtube.com/watch?v=0tqq66zwa7g) - She explores scientific results that show the influence of the mindset on the body, and how changing the subjective mindset produced different outcomes.
