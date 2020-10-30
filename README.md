@@ -200,8 +200,9 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Video game reviews and fun times](https://videochums.com/)
 - [CM 2001/2 - Best Game EVER!](https://www.fmscout.com/a-championship-manager-0102-free-download.html)
 
-## Development Environment
 
+## Development Environment
+- [Godot Game Engine](https://godotengine.org/)
 - [VS Code](https://code.visualstudio.com/)
 - [Intellij](https://www.jetbrains.com/idea/)
 - [Oh My Zsh](https://ohmyz.sh/)
@@ -299,6 +300,10 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 ## ES6
 - [Official site](http://www.ecma-international.org/ecma-262/6.0/)
 - [An overview of what’s new in ES6](https://exploringjs.com/es6/ch_overviews.html)
+
+## p5js
+
+- [Official site](https://p5js.org/)
 
 ## React
 - [Official site](https://reactjs.org/)
