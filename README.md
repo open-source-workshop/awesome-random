@@ -434,4 +434,4 @@ first
 - Bad Bunny - https://www.youtube.com/watch?v=CPK_IdHe1Yg
 
 ## Best keyboard layouts
-- Dvorak (there are dozens of us) - [https://en.wikipedia.org/wiki/Dvorak_keyboard_layout]
+- Dvorak (there are dozens of us) - https://en.wikipedia.org/wiki/Dvorak_keyboard_layout
