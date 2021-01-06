@@ -434,6 +434,7 @@ Active Opensource libraries for Reinforcement Learning Research
 first
 ## Random websites 
 - Wait But Why - [https://waitbutwhy.com/] 
+- The useless web - [https://theuselessweb.com/]
 ## Random Artists
 - Bad Bunny - https://www.youtube.com/watch?v=CPK_IdHe1Yg
 
