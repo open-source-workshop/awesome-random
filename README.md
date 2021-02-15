@@ -194,7 +194,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Neovim](https://neovim.io/)
 - [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose
 - [Atom](https://atom.io/) - A text editor made by Github
-
+- [Brackets](http://brackets.io)
 
 ## Gaming
 
