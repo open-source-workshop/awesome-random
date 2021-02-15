@@ -440,3 +440,6 @@ first
 
 ## Best keyboard layouts
 - Dvorak (there are dozens of us) - https://en.wikipedia.org/wiki/Dvorak_keyboard_layout
+
+## Entrepreneurial Fun
+- Fun info on business interviews & startups - https://www.youtube.com/channel/UCIHdDJ0tjn_3j-FS7s_X1kQ
