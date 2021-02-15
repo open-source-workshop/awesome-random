@@ -347,6 +347,14 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 ## Tech Talks
 - [TDD, Where did it all go wrong? | Ian Cooper](https://www.youtube.com/watch?v=EZ05e7EMOLM) - learn how to structure your unit tests so that your code is refactorable and maintainable.
 
+
+## Mobile Development
+- [Android](https://developer.android.com/)
+- [iOS](https://developer.apple.com/)
+- [React Native](https://reactnative.dev/)
+- [Flutter](https://flutter.dev/)
+= [Xamarin](https://dotnet.microsoft.com/apps/xamarin)
+
 ## Devops
 
  - https://www.schoolofdevops.net/p/ultimate-devops-bootcamp - Free and a hands-on approach to get started
