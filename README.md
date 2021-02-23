@@ -440,3 +440,6 @@ first
 
 ## Best keyboard layouts
 - Dvorak (there are dozens of us) - https://en.wikipedia.org/wiki/Dvorak_keyboard_layout
+
+##3d Printers
+[Voron Designs](https://vorondesign.com/) - AKA The best printers and best printer group
