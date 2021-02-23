@@ -61,7 +61,8 @@ A collection of powerful books that can help at different points in life
 
 - [Java Video tutorial](https://www.udemy.com/course/java-the-complete-java-developer-course/) - Java Master class on Udemy
 
-- [C++] (https://en.cppreference.com/w/)
+- [C++](https://en.cppreference.com/w/)
+- [C++](https://www.amazon.com/Object-Oriented-Programming-C-7Th/dp/9352607996) - This book is a great resource to learn this language.
 
 - [C](https://devdocs.io/c/)
 
