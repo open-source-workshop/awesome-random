@@ -44,8 +44,9 @@ A collection of powerful books that can help at different points in life
 ## Platforms
 
 ## Programming Languages
-
+- [Kotlin](https://kotlinlang.org/)
 - https://kotlinlang.org/ - Kotlin is a cross-platform, statically typed, general-purpose programming language with type inference (From [Wikipedia](https://en.wikipedia.org/wiki/Kotlin_(programming_language))).
+- [Kotlin Native](https://kotlinlang.org/docs/native-overview.html): Kotlin/Native is a technology for compiling Kotlin code to native binaries, which can run without a virtual machine. It is an LLVM based backend for the Kotlin compiler and native implementation of the Kotlin standard library.
 - [jest](https://jestjs.io/) -learn jest
 - [Python - Deep Dive](http://histo.ucsf.edu/BMS270/diveintopython3-r802.pdf) - Best book for starters
 
@@ -73,7 +74,6 @@ A collection of powerful books that can help at different points in life
 
 - [NodeJS](https://nodejs.org/) - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 - [NodeJS](https://www.nodebeginner.org/#hello-world) - Getting started with nodejs.
-- [Kotlin](https://kotlinlang.org/)
 
 - [PHP](https://php.net) - An old favorite. Not that popular today, but half of the world still runs on it.
 
@@ -149,6 +149,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Deep Learning book by Ian Goodfellow etc.] https://www.deeplearningbook.org/
 
 ## Spring Boot
+- [Spring Initializr](https://start.spring.io/): Spring Initializr provides an extensible API to generate JVM-based projects with implementations
 - [Spring Boot by Baeldung](https://www.baeldung.com/spring-boot) - A free online website that people can use for learning spring boot with examples.
 - [Spring Professional Certification Study Guide](https://d1fto35gcfffzn.cloudfront.net/academy/Spring-Professional-Certification-Study-Guide.pdf)
 - [Spring Boot Microservices Udemy course](https://intuit.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/learn/lecture/8005654t)
