@@ -70,6 +70,7 @@ A collection of powerful books that can help at different points in life
 - [Esoteric Programming Languages](https://en.wikipedia.org/wiki/Esoteric_programming_language) (Good for some laughes)
 
 - [Swift](https://developer.apple.com/swift/)
+- [Swift Tutorial](https://www.tutorialspoint.com/swift/index.htm)
 
 - [NodeJS](https://nodejs.org/) - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 - [NodeJS](https://www.nodebeginner.org/#hello-world) - Getting started with nodejs.
