@@ -127,6 +127,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Big Data Article](https://journalofbigdata.springeropen.com/articles) - The Journal of Big Data publishes high-quality, scholarly research papers, methodologies and case studies covering a broad range of topics, from big data analytics to data-intensive computing and all applications of big data research.
 
 - [Data and userful information](https://www.kaggle.com/) - This website is good for beginners who want to learn big data and machine learning.
+- [High Scalability](http://highscalability.com/) - Learn about highly scalable distributed system.
 
 ## MongoDB
 
