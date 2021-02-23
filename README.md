@@ -154,6 +154,10 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Spring Boot Microservices Udemy course](https://intuit.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/learn/lecture/8005654t)
 - [Build a Quick API with Spring Data Rest](https://spring.io/guides/gs/accessing-data-rest/)
 
+## Google Guice
+- [Guice](https://github.com/google/guice) - Guice (pronounced 'juice') is a lightweight dependency injection framework for Java 6 and above, brought to you by Google.
+- [Google Guice 5.0.1-SNAPSHOT API](https://google.github.io/guice/api-docs/latest/javadoc/index.html) - Overview of Google Guice 5.0.1-SNAPSHOT API
+
 ## Theory
 - [What Every Computer Scientist Should Know About Floating Point Arithmetic](https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/02Numerics/Double/paper.pdf)
 - [An Axiomatic Basis for Computer Programming](https://www.cs.cmu.edu/~crary/819-f09/Hoare69.pdf)
