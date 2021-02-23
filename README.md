@@ -217,6 +217,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Rotten Tomatoes](https://www.rottentomatoes.com/)
 - [Plex](https://github.com/plexinc)
 - [Things to do in San Francisco](https://www.thrillist.com/entertainment/san-francisco/things-to-do-in-san-francisco)
+- [Bucket List USA](https://www.thrillist.com/travel/nation/the-great-american-bucket-list-50-things-you-must-do-in-the-us-before-you-die)
 
 ## Databases
 
