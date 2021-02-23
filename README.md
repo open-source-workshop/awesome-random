@@ -278,6 +278,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 ## Work
 - [Intuit](https://intuit.com)
 - [Intuit Israel](https://careers.intuit.com/country/israel)
+- [Intuit Canada](https://www.intuit.com/ca/)
 
 ## Social Media
 - [Intuit Facebook Page](https://www.facebook.com/intuit/)
