@@ -28,6 +28,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 ## Books Everyone Should Read At Least Once In Their Lives
 A collection of powerful books that can help at different points in life
 - https://www.lifehack.org/articles/communication/30-books-that-everyone-should-read-least-once-their-lives.html
+- Sapiens: A Brief History of Humankind - The book that would change your aspect of the world and human being.
 
 ## Deep Learning
 - https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd - Tensorflow without a phD
