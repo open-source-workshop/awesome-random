@@ -79,6 +79,8 @@ A collection of powerful books that can help at different points in life
 
 - [Scala](https://www.scala-lang.org/)
 
+- [OCaml](https://ocaml.org/)
+
 ## Front-End Development
 
 - https://css-tricks.com/ - A front-end blog with up to date topics that release weekly
