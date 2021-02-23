@@ -25,6 +25,10 @@ A not so curated and random list of amazingly awesome awesomeness.
 ## Book on Real Life Events
 - http://www.tgot.org/images/1_File-PDF-MLMM.pdf - Many Lives, Many Masters - Dr. Brian Weiss - The true story of a prominent psychiatrist, his patient, and past-life therapy, that changed both their lives.
 
+## Books Everyone Should Read At Least Once In Their Lives
+A collection of powerful books that can help at different points in life
+- https://www.lifehack.org/articles/communication/30-books-that-everyone-should-read-least-once-their-lives.html
+
 ## Deep Learning
 - https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd - Tensorflow without a phD
 - http://d2l.ai/ - Dive into Deep Learning, an interactive deep learning book with code, math, and discussions, based on the NumPy interface
@@ -54,9 +58,13 @@ A not so curated and random list of amazingly awesome awesomeness.
 - [Rust](https://www.rust-lang.org/learn) - Rust as a language is different. Not because of its fancy syntax or welcoming community, but because of the confidence one gains when writing a program in it.
 
 - [Java](https://docs.oracle.com/javase/tutorial/) - Java is a Object Oriented Programming Languages
+
 - [Java Video tutorial](https://www.udemy.com/course/java-the-complete-java-developer-course/) - Java Master class on Udemy
 
+- [C++] (https://en.cppreference.com/w/)
+
 - [C](https://devdocs.io/c/)
+
 - [C#](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/)
 
 - [Esoteric Programming Languages](https://en.wikipedia.org/wiki/Esoteric_programming_language) (Good for some laughes)
@@ -64,7 +72,12 @@ A not so curated and random list of amazingly awesome awesomeness.
 - [Swift](https://developer.apple.com/swift/)
 
 - [NodeJS](https://nodejs.org/) - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+- [NodeJS](https://www.nodebeginner.org/#hello-world) - Getting started with nodejs.
 - [Kotlin](https://kotlinlang.org/)
+
+- [PHP](https://php.net) - An old favorite. Not that popular today, but half of the world still runs on it.
+
+- [Scala](https://www.scala-lang.org/)
 
 ## Front-End Development
 
@@ -77,7 +90,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 - https://material.angular.io - Angular Component library for frontend development. Easy to use, has great looking scalable components and few different themes.
 - http://jsonviewer.stack.hu - Quick and easy JSON object explorer
 - [Dwitter](https://www.dwitter.net/) - Cool JavaScript demos in 140 characters or less
-
+- https://developer.mozilla.org/en-US/docs/Web - Mozzila JavaScript documentation
 
 ### Browsers
 
@@ -96,6 +109,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 #### Chrome
 - [React Dev Tools for Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en) Adds React debugging tools to the Chrome Developer Tools.
 - [Eyedropper Extension](https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka?hl=en) - A chrome extension that allows you to select any colour on your webpage and obtain details such as its hex code and RGB values.
+- [Vimium ](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=en) An extension for chrome for those who feel at home when using vim keybindings.
 
 ## Crypto
 - [RustCrypto](https://github.com/RustCrypto) - Implementation of many crypto algorithms in Rust
@@ -162,8 +176,9 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - https://developers.google.com/web/fundamentals/performance/why-performance-matters - Why performance matters
 - https://pragprog.com/book/tpp/the-pragmatic-programmer - Timeless patterns for thinking about designing good software.
 - http://greenteapress.com/wp/think-java/ - Think Java
+- [The Way of Kings](https://en.wikipedia.org/wiki/The_Way_of_Kings)
 - [No Exit](https://en.wikipedia.org/wiki/No_Exit)
-- [The Hitchhiker's Guide to the Galaxy])(https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy)
+- [The Hitchhiker's Guide to the Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy)
 - [Harry Potter and the Sorcerer's Stone](https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone)
 - [Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon](https://www.goodreads.com/book/show/18465875-countdown-to-zero-day)
 - [Neuromancer](https://en.wikipedia.org/wiki/Neuromancer) - Great scifi novel involving a computer hacker, AI, and cyberspace
@@ -212,6 +227,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [SQLite](https://sqlite.org/index.html)
 - [Google Firebase](https://firebase.google.com/docs/database)
 - [PostgreSQL](https://www.postgresql.org/)
+- [Elasticsearch](https://elastic.co)
 
 ## Cloud Infrastructure and Kubernetes
 - [KAtlas - Multi-Cluster Discoverability and Auditability](https://github.com/intuit/katlas)
@@ -231,6 +247,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Free Code Camp](https://www.freecodecamp.org/learn/)
 - [Automate the Boring Stuff With Python By Al Sweigart](https://automatetheboringstuff.com/) - A good introduction to automating simple task with Python
 - [Vertx - Asynchrnonous Programming for Java Developers](https://vertx.io/docs/guide-for-java-devs/)
+- [Go Programming](https://dave.cheney.net/practical-go)
 
 ## Python
 - [Python Documentation](https://docs.python.org/3/)
@@ -287,6 +304,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 
 ## React
 - [Official site](https://reactjs.org/)
+- [Wes Bos - A great teacher on React topics](https://wesbos.com/)
 
 ## Redux
 - [Official site](https://redux.js.org/)
@@ -312,6 +330,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 
 ## Android Things
 - https://developer.android.com/things/get-started/kits
+- https://firebase.google.com/
 
 ## Observability
 - https://en.wikipedia.org/wiki/Observability
@@ -323,6 +342,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 
 ## Ted Talks
 - [Change your mindset, change the game | Dr. Alia Crum | TEDxTraverseCity](https://www.youtube.com/watch?v=0tqq66zwa7g) - She explores scientific results that show the influence of the mindset on the body, and how changing the subjective mindset produced different outcomes.
+- [Why work doesn't happen at work | Jason Fried | TED Talk](https://www.ted.com/talks/jason_fried_why_work_doesn_t_happen_at_work) - Jason Fried has a radical theory of working: that the office isn't a good place to do it. He calls out the two main offenders (call them the M&Ms) and offers three suggestions to make the workplace actually work.
 
 ## Tech Talks
 - [TDD, Where did it all go wrong? | Ian Cooper](https://www.youtube.com/watch?v=EZ05e7EMOLM) - learn how to structure your unit tests so that your code is refactorable and maintainable.
@@ -357,6 +377,7 @@ Active Opensource libraries for Reinforcement Learning Research
 - [The Revenge Song - The Magic Flute](https://www.youtube.com/watch?v=YuBeBjqKSGQ)
 - [Shape of you](https://www.youtube.com/watch?v=JGwWNGJdvx8)
 - [Old Town Road](https://www.youtube.com/watch?v=w2Ov5jzm3j8)
+- [Our Song](https://www.youtube.com/watch?v=Jb2stN7kH28)
 - [SAILORWAVE 2- MACROSS 82-99](https://macross82-99.bandcamp.com/album/sailorwave-ii)
 - [Empire of the clouds](https://www.youtube.com/watch?v=YbAhn7iKLPc)
 - [Illenium - Fractures](https://www.youtube.com/watch?v=ZCu2gwLj9ok)
@@ -365,6 +386,7 @@ Active Opensource libraries for Reinforcement Learning Research
 - [King Princess - 1950](https://www.youtube.com/watch?v=LNxWTS25Tbk)
 - [Breathe - Pink Floyd](https://www.youtube.com/watch?v=mrojrDCI02k)
 - [Hard Place](https://www.youtube.com/watch?v=zfHbuTG8IHE)
+- [Changes - Charles Bradley](https://youtu.be/zfaOf70M4xs)
 
 ## Pets
 - [Dog Rates](https://twitter.com/dog_rates)
@@ -386,6 +408,7 @@ Active Opensource libraries for Reinforcement Learning Research
 
 ## Productivity
 -  https://github.com/helmus/Jira-Hot-Linker - Jira HotLinker, quick access to Jira metadata when hovering over ticket numbers on github or other sites!
+-  [Notion](https://www.notion.so/) - take quick notes
 
 ## Tech Leadership
 - https://softwareleadweekly.com/ - newsletter with a nice digest every week of thought-provoking articles, Tweet threads, etc. that can help take your leadership skills and team to the next level
@@ -405,9 +428,15 @@ Active Opensource libraries for Reinforcement Learning Research
 
 ## Social Networks
 - Instagram - https://www.instagram.com/
+- [Check out Maddy's youtube](https://www.youtube.com/watch?v=CBR8VXCbVxM)
 
 
 first
 ## Random websites 
 - Wait But Why - [https://waitbutwhy.com/] 
+- The useless web - [https://theuselessweb.com/]
+## Random Artists
+- Bad Bunny - https://www.youtube.com/watch?v=CPK_IdHe1Yg
 
+## Best keyboard layouts
+- Dvorak (there are dozens of us) - https://en.wikipedia.org/wiki/Dvorak_keyboard_layout
