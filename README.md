@@ -362,6 +362,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 Active Opensource libraries for Reinforcement Learning Research
  - OpenAI's [Baselines](https://github.com/openai/baselines)
  - Google's [Dopamine](https://github.com/google/dopamine)
+ - Unity [Agents](https://github.com/Unity-Technologies/ml-agents)
 
 ## Mental Health
 - [Lockdown Productivity: Spaceship You](https://www.youtube.com/watch?v=snAhsXyO3Ck) - An incredibly helpful way to think about partitioning your life for the sake of your overall health (particularly during the pandemic)
