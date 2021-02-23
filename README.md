@@ -189,6 +189,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [SQL Tutorial](https://www.w3schools.com/sql/)
 - [SQLite](https://sqlite.org/index.html)
 - [Google Firebase](https://firebase.google.com/docs/database)
+- [DynamoDB](https://aws.amazon.com/dynamodb/)
 
 ## Cloud Infrastructure and Kubernetes
 - [KAtlas - Multi-Cluster Discoverability and Auditability](https://github.com/intuit/katlas)
