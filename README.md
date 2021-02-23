@@ -272,6 +272,8 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 
 ## Hardware
   Mac
+  Windows
+  
 ## Business
 - [Greaterfool Blog. Canadian real estate and politics.](https://www.greaterfool.ca/)
 
