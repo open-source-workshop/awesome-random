@@ -147,6 +147,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Deep Learning vs Machine Learning](https://www.infoworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.html)
 - [Machine Learning for numerical time series data] https://towardsdatascience.com/dynamic-time-warping-3933f25fcdd
 - [Deep Learning book by Ian Goodfellow etc.] https://www.deeplearningbook.org/
+  [Artificial Intelligence: A Modern Approach] http://aima.cs.berkeley.edu/
 
 ## Spring Boot
 - [Spring Boot by Baeldung](https://www.baeldung.com/spring-boot) - A free online website that people can use for learning spring boot with examples.
