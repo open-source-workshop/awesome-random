@@ -390,6 +390,7 @@ Active Opensource libraries for Reinforcement Learning Research
 
 ## Pets
 - [Dog Rates](https://twitter.com/dog_rates)
+- [Capybara Country](https://twitter.com/CapybaraCountry)
 
 ## SELinux
 - http://selinuxproject.org
