@@ -394,6 +394,7 @@ Active Opensource libraries for Reinforcement Learning Research
 
 ## Pets
 - [Dog Rates](https://twitter.com/dog_rates)
+- [Dog_Feelings](https://twitter.com/dog_feelings)
 
 ## SELinux
 - http://selinuxproject.org
