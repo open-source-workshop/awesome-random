@@ -318,6 +318,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 
 ## Django 
 - https://www.djangoproject.com/start/ - Django set up 
+- [Django REST Framework](https://www.django-rest-framework.org/)
 
 ## Laptops
 
