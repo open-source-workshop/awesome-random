@@ -343,6 +343,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 ## Ted Talks
 - [Change your mindset, change the game | Dr. Alia Crum | TEDxTraverseCity](https://www.youtube.com/watch?v=0tqq66zwa7g) - She explores scientific results that show the influence of the mindset on the body, and how changing the subjective mindset produced different outcomes.
 - [Why work doesn't happen at work | Jason Fried | TED Talk](https://www.ted.com/talks/jason_fried_why_work_doesn_t_happen_at_work) - Jason Fried has a radical theory of working: that the office isn't a good place to do it. He calls out the two main offenders (call them the M&Ms) and offers three suggestions to make the workplace actually work.
+- [How to Achieve Your Most Ambitious Goals | Stephen Duneier | TEDxTucson](https://www.youtube.com/watch?v=TQMbvJNRpLE) - Stephen explains that what truly defines him aren't titles, but an approach to decision making that transformed him from someone who struggled with simple tasks to a guy who is continuously achieving even his most ambitious dreams.
 
 ## Tech Talks
 - [TDD, Where did it all go wrong? | Ian Cooper](https://www.youtube.com/watch?v=EZ05e7EMOLM) - learn how to structure your unit tests so that your code is refactorable and maintainable.
