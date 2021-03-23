@@ -185,6 +185,8 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - Steve Jobs https://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537 - book about Steve Jobs
 - [Effective Java](https://wiki.c2.com/?EffectiveJava)
 - [Blindsight by Peter Watts](https://rifters.com/real/Blindsight.htm)
+C programming
+- https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628/ref=asc_df_0131103628/?tag=hyprod-20&linkCode=df0&hvadid=266029226349&hvpos=&hvnetw=g&hvrand=1373416245988235141&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9027746&hvtargid=pla-422923046090&psc=1
 
 
 ## Editors
