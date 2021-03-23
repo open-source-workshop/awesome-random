@@ -119,7 +119,6 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 ## AWS EMR Projects
 
 ## Back-End Development
-- [Spring] https://spring.io/
 
 [Setup a Custom Domain for Lambda & API Gateway with Serverless](https://serverless.com/blog/serverless-api-gateway-domain/)
 
