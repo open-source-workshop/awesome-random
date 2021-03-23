@@ -235,6 +235,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Keiko - Enable Kubernetes at scale](https://github.com/keikoproj)
 
 ## Media
+- [VBG Art - an aggregation of virtual backgrounds for your video calls from around the web](https://vbgart.com)
 
 ## Learn
 - [Clean Code by Robert Martin](https://www.amazon.ca/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM) - A book on good software development practices and writing clean code!
