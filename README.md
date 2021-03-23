@@ -91,6 +91,7 @@ A collection of powerful books that can help at different points in life
 - http://jsonviewer.stack.hu - Quick and easy JSON object explorer
 - [Dwitter](https://www.dwitter.net/) - Cool JavaScript demos in 140 characters or less
 - https://developer.mozilla.org/en-US/docs/Web - Mozzila JavaScript documentation
+- [Vanilla JavaScript](https://www.javascripttutorial.net/) - A site that features useful Vanilla JS tutorials.
 
 ### Browsers
 
@@ -391,6 +392,7 @@ Active Opensource libraries for Reinforcement Learning Research
 - [Breathe - Pink Floyd](https://www.youtube.com/watch?v=mrojrDCI02k)
 - [Hard Place](https://www.youtube.com/watch?v=zfHbuTG8IHE)
 - [Changes - Charles Bradley](https://youtu.be/zfaOf70M4xs)
+- [Tiny Desk - Enjoy concerts at home!](https://www.npr.org/series/tiny-desk-concerts/)
 
 ## Pets
 - [Dog Rates](https://twitter.com/dog_rates)
