@@ -1,6 +1,5 @@
 # My awesome-random!!
-
-## Welcome
+## welcome venu
 
 A not so curated and random list of amazingly awesome awesomeness.
 
