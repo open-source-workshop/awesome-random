@@ -111,6 +111,11 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Eyedropper Extension](https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka?hl=en) - A chrome extension that allows you to select any colour on your webpage and obtain details such as its hex code and RGB values.
 - [Vimium ](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=en) An extension for chrome for those who feel at home when using vim keybindings.
 
+#### Brave Browser
+
+An alternative chromium browser!
+-[Brave Browser](https://brave.com/)
+
 ## Crypto
 - [RustCrypto](https://github.com/RustCrypto) - Implementation of many crypto algorithms in Rust
 
