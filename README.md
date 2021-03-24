@@ -445,3 +445,11 @@ first
 
 ## Best keyboard layouts
 - Dvorak (there are dozens of us) - https://en.wikipedia.org/wiki/Dvorak_keyboard_layout
+
+
+
+## Open Source Facts 
+- The first open source software is not Linux but the A-2 system.
+-  Open Source" was first coined in 1998
+-  Just like the Oscars, the open source industry has prestigious awards of its own!
+
