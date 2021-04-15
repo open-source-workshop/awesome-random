@@ -259,7 +259,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [This Week in Rust](https://this-week-in-rust.org/)
 
 ## Apigee
-- [Apigee 4 minutes videos 4 developers] (https://www.youtube.com/channel/UCQGLCTdXvBfdHLZlxoujZ5w/videos)
+- [Apigee 4 minutes videos 4 developers](https://www.youtube.com/channel/UCQGLCTdXvBfdHLZlxoujZ5w/videos)
 
 ## Go
 - [Awesome Go](https://github.com/avelino/awesome-go)
