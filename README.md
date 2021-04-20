@@ -449,3 +449,6 @@ first
 
 ## Best keyboard layouts
 - Dvorak (there are dozens of us) - https://en.wikipedia.org/wiki/Dvorak_keyboard_layout
+
+## Chatbots
+https://chatbotslife.com/developing-a-chatbot-learn-the-difference-between-ai-machine-learning-and-nlp-40a3f745aec4
