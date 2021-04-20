@@ -1,4 +1,4 @@
-﻿# My awesome-random!!
+# My awesome-random!!
 
 ## Welcome
 
@@ -224,6 +224,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Apache TinkerPop Tutorial](https://kelvinlawrence.net/book/Gremlin-Graph-Guide.html)
 - [Sybase](https://www.sap.com/products/sybase-ase.html)
 - [SQL Tutorial](https://www.w3schools.com/sql/)
+- [SQL Tutorial Video Series] (https://www.youtube.com/watch?v=ZNObiptSMSI&list=PL_nMO-wncU0nYz_BFwHJENd2YWoobA9Ly&ab_channel=kudvenkat)
 - [SQLite](https://sqlite.org/index.html)
 - [Google Firebase](https://firebase.google.com/docs/database)
 - [PostgreSQL](https://www.postgresql.org/)
