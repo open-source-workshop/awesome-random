@@ -55,6 +55,8 @@ A collection of powerful books that can help at different points in life
 
 - [Elixir](https://elixir-lang.org/) - Elixir is a dynamic, functional language designed for building scalable and maintainable applications.
 
+- [Gleam](https://gleam.run/) - Gleam is a fast, friendly, and functional language for building type-safe, scalable systems! 
+
 - [Rust](https://www.rust-lang.org/learn) - Rust as a language is different. Not because of its fancy syntax or welcoming community, but because of the confidence one gains when writing a program in it.
 
 - [Java](https://docs.oracle.com/javase/tutorial/) - Java is a Object Oriented Programming Languages
