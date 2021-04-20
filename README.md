@@ -21,6 +21,8 @@ A not so curated and random list of amazingly awesome awesomeness.
 - https://learning.oreilly.com/library/view/modern-php/9781491905173/ - Good book for new features of PHP
 - https://landing.google.com/sre/sre-book/toc/index.html - Google's Book about Site Reliability Engineering
 - https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow - Thinking, Fast and Slow
+Introduction to Algorithms
+https://en.wikipedia.org/wiki/Introduction_to_Algorithms - Great book to start with algos
 
 ## Book on Real Life Events
 - http://www.tgot.org/images/1_File-PDF-MLMM.pdf - Many Lives, Many Masters - Dr. Brian Weiss - The true story of a prominent psychiatrist, his patient, and past-life therapy, that changed both their lives.
