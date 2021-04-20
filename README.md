@@ -93,6 +93,7 @@ A collection of powerful books that can help at different points in life
 - https://developer.mozilla.org/en-US/docs/Web - Mozzila JavaScript documentation
 
 ### Browsers
+- https://developer.chrome.com/docs/extensions/mv3/getstarted/ - Chrome Extention
 
 #### Firefox (The Superior Browser)
 
