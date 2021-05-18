@@ -436,6 +436,7 @@ Active Opensource libraries for Reinforcement Learning Research
 
  ## Recipes
 - [Chicken Katsu](https://www.allrecipes.com/recipe/72068/chicken-katsu/) - Straight fire 🔥
+- [Fluffy Pancakes](https://www.justonecookbook.com/souffle-pancake/) - Must try
 
 
 ## Social Networks
