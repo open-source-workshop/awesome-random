@@ -341,6 +341,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 
 ## Observability
 - https://en.wikipedia.org/wiki/Observability
+- https://github.intuit.com/pages/dev-patterns/Intuit-InnerSource/adoption/readiness/
 
 ## Podcasts
 - [Anna Faris is Unqualified](https://www.unqualified.com/)
