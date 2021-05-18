@@ -312,6 +312,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 ## React
 - [Official site](https://reactjs.org/)
 - [Wes Bos - A great teacher on React topics](https://wesbos.com/)
+- [React Component Life Cycle](https://reactjs.org/docs/react-component.html)
 
 ## Redux
 - [Official site](https://redux.js.org/)
