@@ -452,3 +452,5 @@ first
 
 ## Best keyboard layouts
 - Dvorak (there are dozens of us) - https://en.wikipedia.org/wiki/Dvorak_keyboard_layout
+
+##https://github.com/open-source-workshop/awesome-random 
