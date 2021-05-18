@@ -68,6 +68,8 @@ A collection of powerful books that can help at different points in life
 
 - [C#](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/)
 
+- [Clojure] (https://clojure.org/)
+
 - [Esoteric Programming Languages](https://en.wikipedia.org/wiki/Esoteric_programming_language) (Good for some laughes)
 
 - [Swift](https://developer.apple.com/swift/)
