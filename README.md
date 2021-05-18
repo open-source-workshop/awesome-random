@@ -251,6 +251,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Vertx - Asynchrnonous Programming for Java Developers](https://vertx.io/docs/guide-for-java-devs/)
 - [Go Programming](https://dave.cheney.net/practical-go)
 - [Build Your Own OS](https://wiki.osdev.org/Main_Page)
+- [Docker](https://www.amazon.com/Docker-Quick-Start-Guide-applications/dp/1789347327/ref=sr_1_1?dchild=1&keywords=docker+quick+start+guide&qid=1621372970&sr=8-1) - Develop and build your Docker images and deploy your Docker containers securely
 
 ## Python
 - [Python Documentation](https://docs.python.org/3/)
