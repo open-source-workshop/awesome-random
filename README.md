@@ -84,7 +84,7 @@ A collection of powerful books that can help at different points in life
 
 - https://css-tricks.com/ - A front-end blog with up to date topics that release weekly
 - IDS Dropdown typeahead - When users need to select from a long list of options, use the drop-down typeahead. As soon as the user starts typing, the list changes to show suggestions that should get closer to what the user wants.
-- https://stateofjs.com/ - State of JS 20XX
+- https://stateofjs.com/ - State of JS 2018
 - [Front End Happy Hour](https://frontendhappyhour.com) - A podcast featuring a panel of Software Engineers from Netflix, Evernote, Atlassian & LinkedIn talking over drinks about all things Front End development.
 - [VueJS Documentation](https://vuejs.org/v2/guide/) - This is a new JavaScript framework and is maintained by an open sourced community!
 - https://materializecss.com/ - A responsive front-end framework
@@ -186,6 +186,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - Steve Jobs https://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537 - book about Steve Jobs
 - [Effective Java](https://wiki.c2.com/?EffectiveJava)
 - [Blindsight by Peter Watts](https://rifters.com/real/Blindsight.htm)
+- [Inspired: How to Create Tech Products Customers Love](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507) by Marty Cagan 
 
 
 ## Editors
