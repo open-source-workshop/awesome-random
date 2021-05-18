@@ -447,6 +447,7 @@ first
 ## Random websites
 - Wait But Why - [https://waitbutwhy.com/]
 - The useless web - [https://theuselessweb.com/]
+- Hacker Typer - [https://hackertyper.net/]
 ## Random Artists
 - Bad Bunny - https://www.youtube.com/watch?v=CPK_IdHe1Yg
 
