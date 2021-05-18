@@ -196,6 +196,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose
 - [Atom](https://atom.io/) - A text editor made by Github
 - [Notepad++](https://notepad-plus-plus.org/) - Better than Notepad!
+- [WebStorm](https://www.jetbrains.com/webstorm/) - For professional fast development
 
 ## Gaming
 
