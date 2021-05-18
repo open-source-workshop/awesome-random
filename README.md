@@ -84,7 +84,7 @@ A collection of powerful books that can help at different points in life
 
 - https://css-tricks.com/ - A front-end blog with up to date topics that release weekly
 - IDS Dropdown typeahead - When users need to select from a long list of options, use the drop-down typeahead. As soon as the user starts typing, the list changes to show suggestions that should get closer to what the user wants.
-- https://stateofjs.com/ - State of JS 2018
+- https://stateofjs.com/ - State of JS 20XX
 - [Front End Happy Hour](https://frontendhappyhour.com) - A podcast featuring a panel of Software Engineers from Netflix, Evernote, Atlassian & LinkedIn talking over drinks about all things Front End development.
 - [VueJS Documentation](https://vuejs.org/v2/guide/) - This is a new JavaScript framework and is maintained by an open sourced community!
 - https://materializecss.com/ - A responsive front-end framework
