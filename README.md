@@ -447,6 +447,7 @@ first
 ## Random websites
 - Wait But Why - [https://waitbutwhy.com/]
 - The useless web - [https://theuselessweb.com/]
+- [Let Me Google That for you](https://lmgtfy.app/)
 ## Random Artists
 - Bad Bunny - https://www.youtube.com/watch?v=CPK_IdHe1Yg
 
