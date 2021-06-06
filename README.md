@@ -81,6 +81,8 @@ A collection of powerful books that can help at different points in life
 
 - [Scala](https://www.scala-lang.org/)
 
+- [Lisp](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
+
 ## Front-End Development
 
 - https://css-tricks.com/ - A front-end blog with up to date topics that release weekly
