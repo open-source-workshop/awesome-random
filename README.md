@@ -81,6 +81,8 @@ A collection of powerful books that can help at different points in life
 
 - [Scala](https://www.scala-lang.org/)
 
+- [Python] (https://docs.python.org/3/tutorial/)
+
 ## Front-End Development
 
 - https://css-tricks.com/ - A front-end blog with up to date topics that release weekly
