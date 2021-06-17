@@ -438,6 +438,7 @@ Active Opensource libraries for Reinforcement Learning Research
 
  ## Recipes
 - [Chicken Katsu](https://www.allrecipes.com/recipe/72068/chicken-katsu/) - Straight fire 🔥
+- [Banana Chocolate Chip Muffins](https://www.thebakingchocolatess.com/perfect-banana-chocolate-chip-muffins-fluffy-moist/)
 
 
 ## Social Networks
