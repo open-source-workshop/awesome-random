@@ -22,6 +22,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 - https://landing.google.com/sre/sre-book/toc/index.html - Google's Book about Site Reliability Engineering
 - https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow - Thinking, Fast and Slow
 - https://www.amazon.com/Dream-Red-Mansion-Chinese - classic
+- https://www.amazon.com/Dreaming-Code-Programmers-Transcendent-Software/dp/1400082471  -  Book documents Mitch Kapor's Open Source Applications Foundation as they struggle with collaboration and the software development task of building the open source calendar application Chandler
 - https://leanpub.com/javascriptallongesix/read - Javascript Allongé, lots of good deep info on clean js usage
 
 ## Book on Real Life Events
