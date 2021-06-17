@@ -116,6 +116,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 
 ## Crypto
 - [RustCrypto](https://github.com/RustCrypto) - Implementation of many crypto algorithms in Rust
+- [CryptoTrakr](https://github.com/WeslyOrtega/Crypto-Tracker) - A cryptocurrency tracker webapp.
 
 ## Hadoop Projects
 
