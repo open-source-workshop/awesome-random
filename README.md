@@ -400,6 +400,7 @@ Active Opensource libraries for Reinforcement Learning Research
 - [Breathe - Pink Floyd](https://www.youtube.com/watch?v=mrojrDCI02k)
 - [Hard Place](https://www.youtube.com/watch?v=zfHbuTG8IHE)
 - [Changes - Charles Bradley](https://youtu.be/zfaOf70M4xs)
+- [Roses - Boy in Space](https://www.youtube.com/watch?v=1H9625TH5EE)
 
 ## Pets
 - [Dog Rates](https://twitter.com/dog_rates)
