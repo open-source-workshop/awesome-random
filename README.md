@@ -24,7 +24,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 - https://www.amazon.com/Dream-Red-Mansion-Chinese - classic
 - https://www.amazon.com/Dreaming-Code-Programmers-Transcendent-Software/dp/1400082471  -  Book documents Mitch Kapor's Open Source Applications Foundation as they struggle with collaboration and the software development task of building the open source calendar application Chandler
 - https://leanpub.com/javascriptallongesix/read - Javascript Allongé, lots of good deep info on clean js usage
-
+- https://www.amazon.com/Long-Walk-Freedom-Autobiography-Mandela/dp/0316548189 - Autobiography
 ## Book on Real Life Events
 - http://www.tgot.org/images/1_File-PDF-MLMM.pdf - Many Lives, Many Masters - Dr. Brian Weiss - The true story of a prominent psychiatrist, his patient, and past-life therapy, that changed both their lives.
 
@@ -454,3 +454,5 @@ first
 
 ## Best keyboard layouts
 - Dvorak (there are dozens of us) - https://en.wikipedia.org/wiki/Dvorak_keyboard_layout
+
+## Random test
