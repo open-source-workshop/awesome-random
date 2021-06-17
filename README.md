@@ -23,7 +23,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 - https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow - Thinking, Fast and Slow
 - https://www.amazon.com/Dream-Red-Mansion-Chinese - classic
 - https://leanpub.com/javascriptallongesix/read - Javascript Allongé, lots of good deep info on clean js usage
-
+- https://www.amazon.com/Long-Walk-Freedom-Autobiography-Mandela/dp/0316548189 - Autobiography
 ## Book on Real Life Events
 - http://www.tgot.org/images/1_File-PDF-MLMM.pdf - Many Lives, Many Masters - Dr. Brian Weiss - The true story of a prominent psychiatrist, his patient, and past-life therapy, that changed both their lives.
 
