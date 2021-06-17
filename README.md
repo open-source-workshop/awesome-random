@@ -439,6 +439,7 @@ Active Opensource libraries for Reinforcement Learning Research
  ## Recipes
 - [Chicken Katsu](https://www.allrecipes.com/recipe/72068/chicken-katsu/) - Straight fire 🔥
 
+## Restaurants
 
 ## Social Networks
 - Instagram - https://www.instagram.com/
