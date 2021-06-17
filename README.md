@@ -78,6 +78,8 @@ A collection of powerful books that can help at different points in life
 - [NodeJS](https://www.nodebeginner.org/#hello-world) - Getting started with nodejs.
 - [Kotlin](https://kotlinlang.org/)
 
+- [OCaml] (https://ocaml.org/) - A great introduction to functional programming!
+
 - [PHP](https://php.net) - An old favorite. Not that popular today, but half of the world still runs on it.
 
 - [Scala](https://www.scala-lang.org/)
