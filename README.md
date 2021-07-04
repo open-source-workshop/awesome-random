@@ -97,6 +97,11 @@ A collection of powerful books that can help at different points in life
 
 ### Browsers
 
+#### Brave Browser
+
+Awesome, modern, security focused browser. Also removes ads automatically!
+- [Brave](https://brave.com/)
+
 #### Firefox (The Superior Browser)
 
 Firefox has a great set of first issues to start learning how to work with their codebase. Their debugger is written in javascript!
