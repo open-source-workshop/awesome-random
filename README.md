@@ -234,6 +234,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Best MySql Course](https://www.udemy.com/share/101Wiw/)
 
 ## Cloud Infrastructure and Kubernetes
+- [Kubernetes Basics - Walkthrough Tutorial](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
 - [KAtlas - Multi-Cluster Discoverability and Auditability](https://github.com/intuit/katlas)
 - [Foremast - AI/ML Infrastructure Health Monitoring](https://github.com/intuit/foremast)
 - [Keiko - Enable Kubernetes at scale](https://github.com/keikoproj)
