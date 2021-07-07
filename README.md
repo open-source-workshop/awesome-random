@@ -445,6 +445,9 @@ Active Opensource libraries for Reinforcement Learning Research
 - [Check out Maddy's youtube](https://www.youtube.com/watch?v=CBR8VXCbVxM)
 
 
+## Discord Bot development
+- Discord.py - https://discordpy.readthedocs.io/en/latest/
+
 first
 ## Random websites
 - Wait But Why - [https://waitbutwhy.com/]
