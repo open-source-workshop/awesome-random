@@ -188,7 +188,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - Steve Jobs https://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537 - book about Steve Jobs
 - [Effective Java](https://wiki.c2.com/?EffectiveJava)
 - [Blindsight by Peter Watts](https://rifters.com/real/Blindsight.htm)
-
+- [Speaker for the Dead](https://en.wikipedia.org/wiki/Speaker_for_the_Dead)
 
 ## Editors
 - [Emacs](https://www.gnu.org/software/emacs/)
