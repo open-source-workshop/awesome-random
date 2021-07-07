@@ -275,6 +275,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Machine Learning for Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)
 - [Digital Identity](https://qz.com/1525661/your-digital-identity-has-three-layers-and-you-can-only-protect-one-of-them/)
 - [How to Attack Windows 10 Machine with Metasploit on Kali Linux](https://resources.infosecinstitute.com/how-to-attack-windows-10-machine-with-metasploit-on-kali-linux/)
+- [AWS Security] (https://d1.awsstatic.com/whitepapers/Security/AWS_Security_Whitepaper.pdf)
 
 ## Content Management Systems
 
