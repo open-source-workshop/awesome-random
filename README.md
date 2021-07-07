@@ -94,6 +94,7 @@ A collection of powerful books that can help at different points in life
 - http://jsonviewer.stack.hu - Quick and easy JSON object explorer
 - [Dwitter](https://www.dwitter.net/) - Cool JavaScript demos in 140 characters or less
 - https://developer.mozilla.org/en-US/docs/Web - Mozzila JavaScript documentation
+- https://recoiljs.org/ - A state management library for React
 
 ### Browsers
 
