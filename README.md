@@ -318,6 +318,9 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 ## Redux
 - [Official site](https://redux.js.org/)
 
+## Jupyter
+- [Official site](https://jupyter.org/)
+
 ## GraphQL
 - official [site](https://graphql.org/)
 - [java](https://github.com/graphql-java/)
