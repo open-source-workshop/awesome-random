@@ -460,6 +460,10 @@ first
 ## Best keyboard layouts
 - Dvorak (there are dozens of us) - https://en.wikipedia.org/wiki/Dvorak_keyboard_layout
 
+## Functional Programming
+
+- [Mostly Adequate Guide](https://mostly-adequate.gitbook.io/mostly-adequate-guide/) by Brian Lonsdorf
+
 ## System Architecture
 - Whattsapp Architecture  - https://www.slideshare.net/udayslideshare/whatsapps-architecture
 
