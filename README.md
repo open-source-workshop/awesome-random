@@ -445,14 +445,14 @@ Active Opensource libraries for Reinforcement Learning Research
 
 
 ## Social Networks
-- Instagram - https://www.instagram.com/
+- [Instagram](https://www.instagram.com/)
 - [Check out Maddy's youtube](https://www.youtube.com/watch?v=CBR8VXCbVxM)
+- [Hacker News](https://news.ycombinator.com/)
 
-
-first
 ## Random websites
 - Wait But Why - [https://waitbutwhy.com/]
 - The useless web - [https://theuselessweb.com/]
+
 ## Random Artists
 - Bad Bunny - https://www.youtube.com/watch?v=CPK_IdHe1Yg
 
