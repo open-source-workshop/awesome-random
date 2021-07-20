@@ -457,3 +457,6 @@ first
 
 ## System Architecture
 - Whattsapp Architecture  - https://www.slideshare.net/udayslideshare/whatsapps-architecture
+
+## Caching in applications
+- Netflix's perspective on evolution of caching - https://netflixtechblog.com/evolution-of-application-data-caching-from-ram-to-ssd-a33d6fa7a690
