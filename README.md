@@ -451,6 +451,7 @@ first
 - The useless web - [https://theuselessweb.com/]
 ## Random Artists
 - Bad Bunny - https://www.youtube.com/watch?v=CPK_IdHe1Yg
+- The Tim Ferris Blog - [https://tim.blog]
 
 ## Best keyboard layouts
 - Dvorak (there are dozens of us) - https://en.wikipedia.org/wiki/Dvorak_keyboard_layout
