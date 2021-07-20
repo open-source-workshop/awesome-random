@@ -460,8 +460,13 @@ first
 ## Best keyboard layouts
 - Dvorak (there are dozens of us) - https://en.wikipedia.org/wiki/Dvorak_keyboard_layout
 
+
+## Best beaches in California
+- Laguna Beach, Orange County - [https://www.visitlagunabeach.com/]
+
 ## System Architecture
 - Whattsapp Architecture  - https://www.slideshare.net/udayslideshare/whatsapps-architecture
 
 ## Caching in applications
 - Netflix's perspective on evolution of caching - https://netflixtechblog.com/evolution-of-application-data-caching-from-ram-to-ssd-a33d6fa7a690
+
