@@ -143,6 +143,9 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 ## AI by Andrew NG
 - [Deep learning by Andrew ng ](https://www.deeplearning.ai/)
 
+## Developer References
+- [Dev Hints](https://devhints.io/)
+
 ## MACHINE LEARNING
 - [Coursera Open Source ML Course](https://www.coursera.org/learn/machine-learning) - A free online course that people can take to learn about Machine Learning. It is from Stanford.
 - [Neural Networks and Deep Learning Online Book](http://neuralnetworksanddeeplearning.com/) - A free online book that includes a great theoretical introduction to neural networks.
