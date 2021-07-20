@@ -83,6 +83,8 @@ A collection of powerful books that can help at different points in life
 
 - [Scala](https://www.scala-lang.org/)
 
+- [Max8](https://cycling74.com/products/max-features) - Max is a visual programming language for multimedia design.
+
 ## Front-End Development
 
 - https://css-tricks.com/ - A front-end blog with up to date topics that release weekly
@@ -405,6 +407,7 @@ Active Opensource libraries for Reinforcement Learning Research
 - [Breathe - Pink Floyd](https://www.youtube.com/watch?v=mrojrDCI02k)
 - [Hard Place](https://www.youtube.com/watch?v=zfHbuTG8IHE)
 - [Changes - Charles Bradley](https://youtu.be/zfaOf70M4xs)
+- [Satisfied](https://www.youtube.com/watch?v=InupuylYdcY)
 
 ## Pets
 - [Dog Rates](https://twitter.com/dog_rates)
