@@ -253,7 +253,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Vertx - Asynchrnonous Programming for Java Developers](https://vertx.io/docs/guide-for-java-devs/)
 - [Go Programming](https://dave.cheney.net/practical-go)
 - [Build Your Own OS](https://wiki.osdev.org/Main_Page)
-
+- [Epic React](https://epicreact.dev/) by Kent C. Dodds
 ## Python
 - [Python Documentation](https://docs.python.org/3/)
 - [Python Package Index](https://pypi.org/)
