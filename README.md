@@ -1,4 +1,4 @@
-﻿# My awesome-random!!
+# My awesome-random!!
 
 ## Welcome
 
@@ -27,6 +27,8 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 ## Book on Real Life Events
 - http://www.tgot.org/images/1_File-PDF-MLMM.pdf - Many Lives, Many Masters - Dr. Brian Weiss - The true story of a prominent psychiatrist, his patient, and past-life therapy, that changed both their lives.
+
+- The 4-Hour Workweek - https://www.amazon.com/4-Hour-Workweek-Escape-Live-Anywhere/dp/0307465357
 
 ## Books Everyone Should Read At Least Once In Their Lives
 A collection of powerful books that can help at different points in life
