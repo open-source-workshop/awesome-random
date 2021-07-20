@@ -454,3 +454,7 @@ first
 
 ## Best keyboard layouts
 - Dvorak (there are dozens of us) - https://en.wikipedia.org/wiki/Dvorak_keyboard_layout
+
+
+## Computer Science Education Sites
+- Free Code Camp - https://www.freecodecamp.org/
