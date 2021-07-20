@@ -460,3 +460,8 @@ first
 
 ## Caching in applications
 - Netflix's perspective on evolution of caching - https://netflixtechblog.com/evolution-of-application-data-caching-from-ram-to-ssd-a33d6fa7a690
+- Design of a Modern Cache - http://highscalability.com/blog/2016/1/25/design-of-a-modern-cache.html
+- Microsoft's best practices for caching - https://docs.microsoft.com/en-us/azure/architecture/best-practices/caching
+
+## API Development
+- Choosing between RPC AND REST - https://www.smashingmagazine.com/2016/09/understanding-rest-and-rpc-for-http-apis/
