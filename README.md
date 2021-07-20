@@ -454,3 +454,6 @@ first
 
 ## Best keyboard layouts
 - Dvorak (there are dozens of us) - https://en.wikipedia.org/wiki/Dvorak_keyboard_layout
+
+## Best beaches in California
+- Laguna Beach, Orange County - [https://www.visitlagunabeach.com/]
