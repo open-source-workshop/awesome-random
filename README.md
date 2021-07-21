@@ -160,6 +160,8 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Spring Professional Certification Study Guide](https://d1fto35gcfffzn.cloudfront.net/academy/Spring-Professional-Certification-Study-Guide.pdf)
 - [Spring Boot Microservices Udemy course](https://intuit.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/learn/lecture/8005654t)
 - [Build a Quick API with Spring Data Rest](https://spring.io/guides/gs/accessing-data-rest/)
+- [Spring Boot Quick Start](https://www.youtube.com/watch?v=msXL2oDexqw&list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x)
+- [Spring Boot Tutorial | Full Course [2021]](https://www.youtube.com/watch?v=9SGDpanrc8U)
 
 ## Theory
 - [What Every Computer Scientist Should Know About Floating Point Arithmetic](https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/02Numerics/Double/paper.pdf)
@@ -449,6 +451,9 @@ Active Opensource libraries for Reinforcement Learning Research
 - Instagram - https://www.instagram.com/
 - [Check out Maddy's youtube](https://www.youtube.com/watch?v=CBR8VXCbVxM)
 
+## Home Workout Channels
+- [Body Project](https://www.youtube.com/channel/UCFjc9H89-RpWuIStDqhO7AQ)
+- [Full Body HOME Dumbbell WORKOUT](https://www.youtube.com/watch?v=iyP8b0ZmSEE&t=187s)
 
 first
 ## Random websites
