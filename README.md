@@ -24,6 +24,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 - https://www.amazon.com/Dream-Red-Mansion-Chinese - classic
 - https://www.amazon.com/Dreaming-Code-Programmers-Transcendent-Software/dp/1400082471  -  Book documents Mitch Kapor's Open Source Applications Foundation as they struggle with collaboration and the software development task of building the open source calendar application Chandler
 - https://leanpub.com/javascriptallongesix/read - Javascript Allongé, lots of good deep info on clean js usage
+- [Sapiens: A Brief History of Humankind](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316117/ref=sr_1_1?crid=37UFCOK10KHRP&dchild=1&keywords=sapiens&qid=1626816179&sprefix=sapei%2Caps%2C253&sr=8-1)
 - https://www.bookrix.com/_ebook-jerry-stocking-mind-relief-manuscript/ - In this brand new book Jerry reveals simple tricks and exercises that will allow you to: quiet your mind, reduce stress, and think clearly.
 
 ## Book on Real Life Events
@@ -144,6 +145,9 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 ## AI by Andrew NG
 - [Deep learning by Andrew ng ](https://www.deeplearning.ai/)
 
+## Developer References
+- [Dev Hints](https://devhints.io/)
+
 ## MACHINE LEARNING
 - [Coursera Open Source ML Course](https://www.coursera.org/learn/machine-learning) - A free online course that people can take to learn about Machine Learning. It is from Stanford.
 - [Neural Networks and Deep Learning Online Book](http://neuralnetworksanddeeplearning.com/) - A free online book that includes a great theoretical introduction to neural networks.
@@ -221,6 +225,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Rotten Tomatoes](https://www.rottentomatoes.com/)
 - [Plex](https://github.com/plexinc)
 - [Things to do in San Francisco](https://www.thrillist.com/entertainment/san-francisco/things-to-do-in-san-francisco)
+- [Things to do in New York](https://travel.usnews.com/New_York_NY/Things_To_Do/)
 
 ## Databases
 
@@ -254,7 +259,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Vertx - Asynchrnonous Programming for Java Developers](https://vertx.io/docs/guide-for-java-devs/)
 - [Go Programming](https://dave.cheney.net/practical-go)
 - [Build Your Own OS](https://wiki.osdev.org/Main_Page)
-
+- [Epic React](https://epicreact.dev/) by Kent C. Dodds
 ## Python
 - [Python Documentation](https://docs.python.org/3/)
 - [Python Package Index](https://pypi.org/)
@@ -455,3 +460,9 @@ first
 
 ## Best keyboard layouts
 - Dvorak (there are dozens of us) - https://en.wikipedia.org/wiki/Dvorak_keyboard_layout
+
+## System Architecture
+- Whattsapp Architecture  - https://www.slideshare.net/udayslideshare/whatsapps-architecture
+
+## Caching in applications
+- Netflix's perspective on evolution of caching - https://netflixtechblog.com/evolution-of-application-data-caching-from-ram-to-ssd-a33d6fa7a690
