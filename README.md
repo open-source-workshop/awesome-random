@@ -280,6 +280,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Machine Learning for Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)
 - [Digital Identity](https://qz.com/1525661/your-digital-identity-has-three-layers-and-you-can-only-protect-one-of-them/)
 - [How to Attack Windows 10 Machine with Metasploit on Kali Linux](https://resources.infosecinstitute.com/how-to-attack-windows-10-machine-with-metasploit-on-kali-linux/)
+- [Hack a WEP wifi network on a Mac](https://computer-networking.wonderhowto.com/how-to/hack-wep-wifi-network-mac-421149/)
 
 ## Content Management Systems
 
