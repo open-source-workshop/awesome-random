@@ -475,5 +475,9 @@ first
 ## System Architecture
 - Whattsapp Architecture  - https://www.slideshare.net/udayslideshare/whatsapps-architecture
 
+
+## Discord
+- Building a bot for discord in python - [https://realpython.com/how-to-make-a-discord-bot-python/]
+
 ## Caching in applications
 - Netflix's perspective on evolution of caching - https://netflixtechblog.com/evolution-of-application-data-caching-from-ram-to-ssd-a33d6fa7a690
