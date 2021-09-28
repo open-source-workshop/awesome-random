@@ -82,6 +82,9 @@ A collection of powerful books that can help at different points in life
 - [PHP](https://php.net) - An old favorite. Not that popular today, but half of the world still runs on it.
 
 - [Scala](https://www.scala-lang.org/)
+- [Clojure](https://clojure.org/)
+
+
 
 ## Front-End Development
 
@@ -280,6 +283,8 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Machine Learning for Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)
 - [Digital Identity](https://qz.com/1525661/your-digital-identity-has-three-layers-and-you-can-only-protect-one-of-them/)
 - [How to Attack Windows 10 Machine with Metasploit on Kali Linux](https://resources.infosecinstitute.com/how-to-attack-windows-10-machine-with-metasploit-on-kali-linux/)
+
+
 
 ## Content Management Systems
 
