@@ -1,4 +1,4 @@
-﻿# My awesome-random!!
+# My awesome-random!!
 
 ## Welcome
 
@@ -29,14 +29,16 @@ A not so curated and random list of amazingly awesome awesomeness.
 - https://www.amazon.com/Dreaming-Code-Programmers-Transcendent-Software/dp/1400082471  -  Book documents Mitch Kapor's Open Source Applications Foundation as they struggle with collaboration and the software development task of building the open source calendar application Chandler
 - https://leanpub.com/javascriptallongesix/read - Javascript Allongé, lots of good deep info on clean js usage
 - [Sapiens: A Brief History of Humankind](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316117/ref=sr_1_1?crid=37UFCOK10KHRP&dchild=1&keywords=sapiens&qid=1626816179&sprefix=sapei%2Caps%2C253&sr=8-1)
+- https://www.bookrix.com/_ebook-jerry-stocking-mind-relief-manuscript/ - In this brand new book Jerry reveals simple tricks and exercises that will allow you to: quiet your mind, reduce stress, and think clearly.
 
 ## Book on Real Life Events
 - http://www.tgot.org/images/1_File-PDF-MLMM.pdf - Many Lives, Many Masters - Dr. Brian Weiss - The true story of a prominent psychiatrist, his patient, and past-life therapy, that changed both their lives.
 
+- The 4-Hour Workweek - https://www.amazon.com/4-Hour-Workweek-Escape-Live-Anywhere/dp/0307465357
+
 ## Books Everyone Should Read At Least Once In Their Lives
 A collection of powerful books that can help at different points in life
 - https://www.lifehack.org/articles/communication/30-books-that-everyone-should-read-least-once-their-lives.html
-- https://listogre.com/2014/01/12/top-10-greek-classics/
 
 ## Deep Learning
 - https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd - Tensorflow without a phD
@@ -90,6 +92,13 @@ A collection of powerful books that can help at different points in life
 - [WASM](https://webassembly.org/)
 - [Clojure](https://clojure.org/)
 
+
+- [React](https://reactjs.org/) - React is a JavaScript library for FrontEnd Development
+- [Karate](https://intuit.github.io/karate/) - Karate is a testing framework
+
+- [Ruby](https://www.ruby-lang.org/en/)
+
+- [R](https://www.r-project.org/)
 
 ## Front-End Development
 
@@ -168,6 +177,11 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Spring Professional Certification Study Guide](https://d1fto35gcfffzn.cloudfront.net/academy/Spring-Professional-Certification-Study-Guide.pdf)
 - [Spring Boot Microservices Udemy course](https://intuit.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/learn/lecture/8005654t)
 - [Build a Quick API with Spring Data Rest](https://spring.io/guides/gs/accessing-data-rest/)
+- [Spring Boot Quick Start](https://www.youtube.com/watch?v=msXL2oDexqw&list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x)
+- [Spring Boot Tutorial | Full Course [2021]](https://www.youtube.com/watch?v=9SGDpanrc8U)
+
+## Spring Boot Reactive Programming
+- [Spring Web Flux](https://docs.spring.io/spring-framework/docs/current/reference/html/web-reactive.html) - A website for spring reactive programming.
 
 ## Theory
 - [What Every Computer Scientist Should Know About Floating Point Arithmetic](https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/02Numerics/Double/paper.pdf)
@@ -246,6 +260,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [PostgreSQL](https://www.postgresql.org/)
 - [Elasticsearch](https://elastic.co)
 - [Best MySql Course](https://www.udemy.com/share/101Wiw/)
+- [Cassandra](https://cassandra.apache.org/_/index.html)
 
 ## Cloud Infrastructure and Kubernetes
 - [KAtlas - Multi-Cluster Discoverability and Auditability](https://github.com/intuit/katlas)
@@ -268,6 +283,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Go Programming](https://dave.cheney.net/practical-go)
 - [Build Your Own OS](https://wiki.osdev.org/Main_Page)
 - [Epic React](https://epicreact.dev/) by Kent C. Dodds
+- [gRPC](https://grpc.io/)
 ## Python
 - [Python Documentation](https://docs.python.org/3/)
 - [Python Package Index](https://pypi.org/)
@@ -284,6 +300,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Awesome Go](https://github.com/avelino/awesome-go)
 - [Go Style Guide](https://github.com/bahlo/go-styleguide)
 - [Project Layout](https://github.com/golang-standards/project-layout)
+- [Go Playground](https://play.golang.org/)
 
 ## Security
 - [Machine Learning for Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)
@@ -323,6 +340,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 ## Miscellaneous
 - [Docker-removing-containers-images](https://www.digitalocean.com/community/tutorials/how-to-remove-docker-images-containers-and-volumes)
 - [Task Switching](https://www.joelonsoftware.com/2001/02/12/human-task-switches-considered-harmful/) - An interesting write-up on why task switching is so costly for engineers
+- [Cookie Clicker](https://cookie-clicker2.com/)
 
 ## ES6
 - [Official site](http://www.ecma-international.org/ecma-262/6.0/)
@@ -418,6 +436,7 @@ Active Opensource libraries for Reinforcement Learning Research
 - [Hard Place](https://www.youtube.com/watch?v=zfHbuTG8IHE)
 - [Changes - Charles Bradley](https://youtu.be/zfaOf70M4xs)
 - [Ylvis - The Fox (What Does The Fox Say?)](https://youtu.be/jofNR_WkoCE)
+- [Save Your Tears - Weeknd](https://www.youtube.com/watch?v=XXYlFuWEuKI)
 
 ## Pets
 - [Dog Rates](https://twitter.com/dog_rates)
@@ -462,6 +481,9 @@ Active Opensource libraries for Reinforcement Learning Research
 - Instagram - https://www.instagram.com/
 - [Check out Maddy's youtube](https://www.youtube.com/watch?v=CBR8VXCbVxM)
 
+## Home Workout Channels
+- [Body Project](https://www.youtube.com/channel/UCFjc9H89-RpWuIStDqhO7AQ)
+- [Full Body HOME Dumbbell WORKOUT](https://www.youtube.com/watch?v=iyP8b0ZmSEE&t=187s)
 
 first
 ## Random websites
@@ -482,3 +504,6 @@ first
 
 ## Caching in applications
 - Netflix's perspective on evolution of caching - https://netflixtechblog.com/evolution-of-application-data-caching-from-ram-to-ssd-a33d6fa7a690
+
+##TV Shows
+- [The Expanse](https://www.amazon.com/The-Expanse-Season-1/dp/B08B49T8TZ)
