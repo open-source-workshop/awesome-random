@@ -32,7 +32,6 @@ A not so curated and random list of amazingly awesome awesomeness.
 ## Books Everyone Should Read At Least Once In Their Lives
 A collection of powerful books that can help at different points in life
 - https://www.lifehack.org/articles/communication/30-books-that-everyone-should-read-least-once-their-lives.html
-- https://listogre.com/2014/01/12/top-10-greek-classics/
 
 ## Deep Learning
 - https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd - Tensorflow without a phD
@@ -164,6 +163,9 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Spring Professional Certification Study Guide](https://d1fto35gcfffzn.cloudfront.net/academy/Spring-Professional-Certification-Study-Guide.pdf)
 - [Spring Boot Microservices Udemy course](https://intuit.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/learn/lecture/8005654t)
 - [Build a Quick API with Spring Data Rest](https://spring.io/guides/gs/accessing-data-rest/)
+
+## Spring Boot Reactive Programming
+- [Spring Web Flux](https://docs.spring.io/spring-framework/docs/current/reference/html/web-reactive.html) - A website for spring reactive programming.
 
 ## Theory
 - [What Every Computer Scientist Should Know About Floating Point Arithmetic](https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/02Numerics/Double/paper.pdf)
