@@ -274,6 +274,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Go Programming](https://dave.cheney.net/practical-go)
 - [Build Your Own OS](https://wiki.osdev.org/Main_Page)
 - [Epic React](https://epicreact.dev/) by Kent C. Dodds
+- [gRPC](https://grpc.io/)
 ## Python
 - [Python Documentation](https://docs.python.org/3/)
 - [Python Package Index](https://pypi.org/)
