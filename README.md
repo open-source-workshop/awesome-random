@@ -251,6 +251,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [PostgreSQL](https://www.postgresql.org/)
 - [Elasticsearch](https://elastic.co)
 - [Best MySql Course](https://www.udemy.com/share/101Wiw/)
+- [Cassandra](https://cassandra.apache.org/_/index.html)
 
 ## Cloud Infrastructure and Kubernetes
 - [KAtlas - Multi-Cluster Discoverability and Auditability](https://github.com/intuit/katlas)
