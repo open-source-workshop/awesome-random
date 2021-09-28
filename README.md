@@ -53,6 +53,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 - [NodeJS](https://nodejs.org/) - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 
 - [React](https://reactjs.org/) - React is a JavaScript library for FrontEnd Development
+- [Karate](https://intuit.github.io/karate/) - Karate is a testing framework
 
 ## Front-End Development
 
