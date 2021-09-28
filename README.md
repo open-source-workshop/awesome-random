@@ -295,6 +295,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Awesome Go](https://github.com/avelino/awesome-go)
 - [Go Style Guide](https://github.com/bahlo/go-styleguide)
 - [Project Layout](https://github.com/golang-standards/project-layout)
+- [Go Playground](https://play.golang.org/)
 
 ## Security
 - [Machine Learning for Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)
