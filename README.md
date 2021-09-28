@@ -308,6 +308,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
  - A way to write things using the emojis from the [intuit-slack emoji](https://github.com/hplewis/emoji-slack) selection!
  ![](screenshot.png)
  - Race to foldable phone(https://gizmodo.com/the-race-to-foldable-phone-perfection-is-on-and-its-go-1832960403?utm_medium=socialflow&utm_source=gizmodo_twitter&utm_campaign=socialflow_gizmodo_twitter)
+ - [add emojis to slack](https://slack.com/help/articles/206870177-Add-custom-emoji-to-your-workspace)
 ## AI by Elon Musk
 
 ## Networking
