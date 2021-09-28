@@ -91,6 +91,9 @@ A collection of powerful books that can help at different points in life
 - [Clojure](https://clojure.org/)
 
 
+- [React](https://reactjs.org/) - React is a JavaScript library for FrontEnd Development
+- [Karate](https://intuit.github.io/karate/) - Karate is a testing framework
+
 ## Front-End Development
 
 - https://css-tricks.com/ - A front-end blog with up to date topics that release weekly
