@@ -334,6 +334,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 ## Miscellaneous
 - [Docker-removing-containers-images](https://www.digitalocean.com/community/tutorials/how-to-remove-docker-images-containers-and-volumes)
 - [Task Switching](https://www.joelonsoftware.com/2001/02/12/human-task-switches-considered-harmful/) - An interesting write-up on why task switching is so costly for engineers
+- [Cookie Clicker](https://cookie-clicker2.com/)
 
 ## ES6
 - [Official site](http://www.ecma-international.org/ecma-262/6.0/)
