@@ -32,6 +32,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 ## Books Everyone Should Read At Least Once In Their Lives
 A collection of powerful books that can help at different points in life
 - https://www.lifehack.org/articles/communication/30-books-that-everyone-should-read-least-once-their-lives.html
+- https://listogre.com/2014/01/12/top-10-greek-classics/
 
 ## Deep Learning
 - https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd - Tensorflow without a phD
