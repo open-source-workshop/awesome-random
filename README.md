@@ -4,6 +4,10 @@
 
 A not so curated and random list of amazingly awesome awesomeness.
 
+## Open Source Software - OSS
+
+- https://en.wikipedia.org/wiki/Open-source_software
+
 ## Building Software
 
 - [Building TypeScript Projects with Bazel](https://blog.mgechev.com/2018/11/19/introduction-bazel-typescript-tutorial/) - a brief introduction to what Bazel is and how we can build our TypeScript projects with it
@@ -82,6 +86,16 @@ A collection of powerful books that can help at different points in life
 - [PHP](https://php.net) - An old favorite. Not that popular today, but half of the world still runs on it.
 
 - [Scala](https://www.scala-lang.org/)
+- [WASM](https://webassembly.org/)
+- [Clojure](https://clojure.org/)
+
+
+- [React](https://reactjs.org/) - React is a JavaScript library for FrontEnd Development
+- [Karate](https://intuit.github.io/karate/) - Karate is a testing framework
+
+- [Ruby](https://www.ruby-lang.org/en/)
+
+- [R](https://www.r-project.org/)
 
 ## Front-End Development
 
@@ -161,6 +175,9 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Spring Boot Microservices Udemy course](https://intuit.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/learn/lecture/8005654t)
 - [Build a Quick API with Spring Data Rest](https://spring.io/guides/gs/accessing-data-rest/)
 
+## Spring Boot Reactive Programming
+- [Spring Web Flux](https://docs.spring.io/spring-framework/docs/current/reference/html/web-reactive.html) - A website for spring reactive programming.
+
 ## Theory
 - [What Every Computer Scientist Should Know About Floating Point Arithmetic](https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/02Numerics/Double/paper.pdf)
 - [An Axiomatic Basis for Computer Programming](https://www.cs.cmu.edu/~crary/819-f09/Hoare69.pdf)
@@ -198,7 +215,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Emacs](https://www.gnu.org/software/emacs/)
 - [Vim](https://www.vim.org/) - edit text at the speed of thought ;)
 - [Visual Studio Code](https://code.visualstudio.com/) - great for front end development, Visual Studio Code Editor by Microsoft
-- [Neovim](https://neovim.io/)
+- [Neovim](https://neovim.io/) - vim out of the box that provides native support for modern tools like [LSP](https://microsoft.github.io/language-server-protocol/) and [Treesitter](https://tree-sitter.github.io/tree-sitter/)
 - [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose
 - [Atom](https://atom.io/) - A text editor made by Github
 - [Notepad++](https://notepad-plus-plus.org/) - Better than Notepad!
@@ -219,6 +236,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Pycharm](https://www.jetbrains.com/pycharm/)
 - [Android Studio](https://developer.android.com/studio)
 - [JetBrains](https://www.jetbrains.com/)
+- [TablePlus](https://tableplus.com)
 
 ## Entertainment
 - [Rotten Tomatoes](https://www.rottentomatoes.com/)
@@ -237,6 +255,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [PostgreSQL](https://www.postgresql.org/)
 - [Elasticsearch](https://elastic.co)
 - [Best MySql Course](https://www.udemy.com/share/101Wiw/)
+- [Cassandra](https://cassandra.apache.org/_/index.html)
 
 ## Cloud Infrastructure and Kubernetes
 - [KAtlas - Multi-Cluster Discoverability and Auditability](https://github.com/intuit/katlas)
@@ -259,6 +278,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Go Programming](https://dave.cheney.net/practical-go)
 - [Build Your Own OS](https://wiki.osdev.org/Main_Page)
 - [Epic React](https://epicreact.dev/) by Kent C. Dodds
+- [gRPC](https://grpc.io/)
 ## Python
 - [Python Documentation](https://docs.python.org/3/)
 - [Python Package Index](https://pypi.org/)
@@ -282,6 +302,8 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Digital Identity](https://qz.com/1525661/your-digital-identity-has-three-layers-and-you-can-only-protect-one-of-them/)
 - [How to Attack Windows 10 Machine with Metasploit on Kali Linux](https://resources.infosecinstitute.com/how-to-attack-windows-10-machine-with-metasploit-on-kali-linux/)
 
+
+
 ## Content Management Systems
 
 ## Hardware
@@ -303,6 +325,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
  - A way to write things using the emojis from the [intuit-slack emoji](https://github.com/hplewis/emoji-slack) selection!
  ![](screenshot.png)
  - Race to foldable phone(https://gizmodo.com/the-race-to-foldable-phone-perfection-is-on-and-its-go-1832960403?utm_medium=socialflow&utm_source=gizmodo_twitter&utm_campaign=socialflow_gizmodo_twitter)
+ - [add emojis to slack](https://slack.com/help/articles/206870177-Add-custom-emoji-to-your-workspace)
 ## AI by Elon Musk
 
 ## Networking
@@ -312,6 +335,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 ## Miscellaneous
 - [Docker-removing-containers-images](https://www.digitalocean.com/community/tutorials/how-to-remove-docker-images-containers-and-volumes)
 - [Task Switching](https://www.joelonsoftware.com/2001/02/12/human-task-switches-considered-harmful/) - An interesting write-up on why task switching is so costly for engineers
+- [Cookie Clicker](https://cookie-clicker2.com/)
 
 ## ES6
 - [Official site](http://www.ecma-international.org/ecma-262/6.0/)
@@ -406,6 +430,7 @@ Active Opensource libraries for Reinforcement Learning Research
 - [Breathe - Pink Floyd](https://www.youtube.com/watch?v=mrojrDCI02k)
 - [Hard Place](https://www.youtube.com/watch?v=zfHbuTG8IHE)
 - [Changes - Charles Bradley](https://youtu.be/zfaOf70M4xs)
+- [Save Your Tears - Weeknd](https://www.youtube.com/watch?v=XXYlFuWEuKI)
 
 ## Pets
 - [Dog Rates](https://twitter.com/dog_rates)
@@ -464,5 +489,12 @@ first
 ## System Architecture
 - Whattsapp Architecture  - https://www.slideshare.net/udayslideshare/whatsapps-architecture
 
+
+## Discord
+- Building a bot for discord in python - [https://realpython.com/how-to-make-a-discord-bot-python/]
+
 ## Caching in applications
 - Netflix's perspective on evolution of caching - https://netflixtechblog.com/evolution-of-application-data-caching-from-ram-to-ssd-a33d6fa7a690
+
+##TV Shows
+- [The Expanse](https://www.amazon.com/The-Expanse-Season-1/dp/B08B49T8TZ)
