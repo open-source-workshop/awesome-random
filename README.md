@@ -411,3 +411,6 @@ first
 ## Random websites 
 - Wait But Why - [https://waitbutwhy.com/] 
 
+## Discord
+- Building a bot for discord in python - [https://realpython.com/how-to-make-a-discord-bot-python/]
+
