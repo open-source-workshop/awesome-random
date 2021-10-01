@@ -268,6 +268,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Keiko - Enable Kubernetes at scale](https://github.com/keikoproj)
 
 ## Media
+- [Yoga with Adriene](https://www.youtube.com/user/yogawithadriene)
 
 ## Learn
 - [Clean Code by Robert Martin](https://www.amazon.ca/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM) - A book on good software development practices and writing clean code!
