@@ -49,6 +49,8 @@ A collection of powerful books that can help at different points in life
 
   Jupyter notebooks for the code samples of the book "Deep Learning with Python"
 
+- http://introtodeeplearning.com/
+
 ## AWS internals
 - Shuffel sharding in AWS - https://aws.amazon.com/builders-library/workload-isolation-using-shuffle-sharding/?did=ba_card&trk=ba_card#What_is_shuffle_sharding.3F
 
