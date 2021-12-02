@@ -51,6 +51,7 @@ A collection of powerful books that can help at different points in life
 
 ## AWS internals
 - Shuffel sharding in AWS - https://aws.amazon.com/builders-library/workload-isolation-using-shuffle-sharding/?did=ba_card&trk=ba_card#What_is_shuffle_sharding.3F
+- CDK, better than CloudFormation - https://aws.amazon.com/cdk/
 
 ## Platforms
 
