@@ -404,6 +404,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - https://www.jasondavies.com/ - Awesome interactive data visualizations
 - https://observablehq.com/@d3/gallery - Cool visualizations written in JS
 - https://pudding.cool - Digital Publication using Visual Essays
+- [ImportYeti](https://www.importyeti.com/) - Track all sea shipments of any company and analyze supply chain
 
 ## Reinforcement Learning
 
