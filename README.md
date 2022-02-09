@@ -26,7 +26,6 @@ A not so curated and random list of amazingly awesome awesomeness.
 - https://landing.google.com/sre/sre-book/toc/index.html - Google's Book about Site Reliability Engineering
 - https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow - Thinking, Fast and Slow
 - https://www.amazon.com/Dream-Red-Mansion-Chinese - classic
-- https://www.amazon.com/Dreaming-Code-Programmers-Transcendent-Software/dp/1400082471  -  Book documents Mitch Kapor's Open Source Applications Foundation as they struggle with collaboration and the software development task of building the open source calendar application Chandler
 - https://leanpub.com/javascriptallongesix/read - Javascript Allongé, lots of good deep info on clean js usage
 - [Sapiens: A Brief History of Humankind](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316117/ref=sr_1_1?crid=37UFCOK10KHRP&dchild=1&keywords=sapiens&qid=1626816179&sprefix=sapei%2Caps%2C253&sr=8-1)
 - https://www.bookrix.com/_ebook-jerry-stocking-mind-relief-manuscript/ - In this brand new book Jerry reveals simple tricks and exercises that will allow you to: quiet your mind, reduce stress, and think clearly.
@@ -230,6 +229,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [ULTIMATE GAMES WILL RELEASE PET CARE AND GUESS THE WORD FOR YOUNGER PLAYERS ON SWITCH](https://www.gonintendo.com/stories/328626-ultimate-games-will-release-pet-care-and-guess-the-word-for-young)
 - [Video game reviews and fun times](https://videochums.com/)
 - [CM 2001/2 - Best Game EVER!](https://www.fmscout.com/a-championship-manager-0102-free-download.html)
+- [Indie Games and Game Jams](https://itch.io/)
 
 ## Development Environment
 
