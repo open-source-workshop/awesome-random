@@ -152,7 +152,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Effective Java](https://wiki.c2.com/?EffectiveJava)
 
 ## Webtoons
--[Haxor](https://www.webtoons.com/en/sf/haxor/list?title_no=1325)
+- [Haxor](https://www.webtoons.com/en/sf/haxor/list?title_no=1325)
 
 
 ## Editors
