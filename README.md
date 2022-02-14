@@ -2,7 +2,7 @@
 
 ## Welcome
 
-A not so curated and random list of amazingly awesome awesomeness.
+A copy of a not so curated and random list of amazingly awesome awesomeness.
 
 ## Open Source Software - OSS
 
