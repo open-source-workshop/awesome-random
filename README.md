@@ -1,6 +1,4 @@
-# My awesome-random!!
-
-:sparkles:
+# :sparkles: My awesome-random!! :sparkles:
 
 ## Welcome
 
