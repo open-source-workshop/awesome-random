@@ -1,8 +1,6 @@
 # My awesome-random!!
 
-You have been changed. :)
-Like this
-   and that.
+:sparkles:
 
 ## Welcome
 
