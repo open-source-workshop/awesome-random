@@ -30,6 +30,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 - https://leanpub.com/javascriptallongesix/read - Javascript Allongé, lots of good deep info on clean js usage
 - [Sapiens: A Brief History of Humankind](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316117/ref=sr_1_1?crid=37UFCOK10KHRP&dchild=1&keywords=sapiens&qid=1626816179&sprefix=sapei%2Caps%2C253&sr=8-1)
 - https://www.bookrix.com/_ebook-jerry-stocking-mind-relief-manuscript/ - In this brand new book Jerry reveals simple tricks and exercises that will allow you to: quiet your mind, reduce stress, and think clearly.
+- https://www.amazon.com/Mastering-AWS-Cost-Optimization-operational/dp/965572803X - Mastering AWS Cost Optimization: Real-world technical and operational cost-saving best practices
 
 ## Book on Real Life Events
 - http://www.tgot.org/images/1_File-PDF-MLMM.pdf - Many Lives, Many Masters - Dr. Brian Weiss - The true story of a prominent psychiatrist, his patient, and past-life therapy, that changed both their lives.
