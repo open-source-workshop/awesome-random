@@ -165,6 +165,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Dev Hints](https://devhints.io/)
 
 ## MACHINE LEARNING
+- [Google Teachable Machine](https://teachablemachine.withgoogle.com/) - A free, interactive exploration into machine learning geared for kids from Google.
 - [Coursera Open Source ML Course](https://www.coursera.org/learn/machine-learning) - A free online course that people can take to learn about Machine Learning. It is from Stanford.
 - [Neural Networks and Deep Learning Online Book](http://neuralnetworksanddeeplearning.com/) - A free online book that includes a great theoretical introduction to neural networks.
 - https://www.deeplearning.ai/machine-learning-yearning/ - A book by Andrew Ng that teaches techniques for measuring, understanding and improving performance of ML methods.
